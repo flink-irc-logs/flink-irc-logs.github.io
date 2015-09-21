@@ -1,0 +1,11 @@
+# Site settings
+title: "Freenode #Flink IRC logs"
+email: your-email@domain.com
+description: "This website contains logs of Apache Flink's IRC channel on Freenode"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://http://flink-irc-logs.github.io/" # the base hostname & protocol for your site
+twitter_username: flink
+github_username:  apache/flink
+
+# Build settings
+markdown: kramdown
