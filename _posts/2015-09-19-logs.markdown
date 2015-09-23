@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-19"
+date:   2015-09-19 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:27]</span> <span class="irc-navy">* rodlogic (~rodlogic@71.234.52.85) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[0:36]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:19]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[1:25]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:26]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:30]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[3:03]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:15:2f1f:ee6:4a9e) has joined #flink</span><br />
+<span class="irc-date">[3:11]</span> <span class="irc-navy">* l0n3r4n83r (48258abe@gateway/web/freenode/ip.72.37.138.190) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[4:01]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[4:02]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:08]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[4:23]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:27]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[4:55]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:05]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:15:2f1f:ee6:4a9e) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:43]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[5:58]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[6:08]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[7:37]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[10:36]</span> <span class="irc-green">* Hi (5c4a3628@gateway/web/freenode/ip.92.74.54.40) has joined #flink</span><br />
+<span class="irc-date">[10:36]</span> <span class="irc-green">* Hi is now known as Guest73642</span><br />
+<span class="irc-date">[10:48]</span> <span class="irc-green">* Guest73642 (5c4a3628@gateway/web/freenode/ip.92.74.54.40) has left #flink</span><br />
+<span class="irc-date">[10:51]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[10:54]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.245.25) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[10:54]</span> <span class="irc-green">* TheChistoso_ is now known as TheChistoso</span><br />
+<span class="irc-date">[14:18]</span> <span class="irc-green">* Mon (5c4a3628@gateway/web/freenode/ip.92.74.54.40) has joined #flink</span><br />
+<span class="irc-date">[14:21]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a13b:a6e6:41e9:d699) has joined #flink</span><br />
+<span class="irc-date">[14:21]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a13b:a6e6:41e9:d699) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:23]</span> <span class="irc-navy">* Mon (5c4a3628@gateway/web/freenode/ip.92.74.54.40) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[14:26]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:157e:4d99:165c:769e) has joined #flink</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[15:06]</span> <span class="irc-black">&lt;TheChistoso&gt; is there a flink sqs consumer (source function) available?</span><br />
+<span class="irc-date">[15:07]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:08]</span> <span class="irc-black">&lt;TheChistoso&gt; also - i make a call out to service that may take a while to respond. the api gives me a future back. what are best practices when dealing with asynchronous computation?</span><br />
+<span class="irc-date">[15:08]</span> <span class="irc-black">&lt;TheChistoso&gt; i’m using the streaming api btw</span><br />
+<span class="irc-date">[15:11]</span> <span class="irc-navy">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[15:57]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:157e:4d99:165c:769e) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[18:10]</span> <span class="irc-green">* blanka_ (75ca3134@gateway/web/freenode/ip.117.202.49.52) has joined #flink</span><br />
+<span class="irc-date">[18:10]</span> <span class="irc-black">&lt;blanka_&gt; whats flink meant for? is it the same as spark?</span><br />
+<span class="irc-date">[18:11]</span> <span class="irc-black">&lt;blanka_&gt; I read somewhere that they are not meant for the same thing, so whats the difference?</span><br />
+<span class="irc-date">[18:11]</span> <span class="irc-black">&lt;blanka_&gt; this channel doesn't have many ppl on? is it active?</span><br />
+<span class="irc-date">[19:00]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[19:04]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[19:04]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[21:20]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[21:36]</span> <span class="irc-navy">* blanka_ (75ca3134@gateway/web/freenode/ip.117.202.49.52) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-green">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:50]</span> <span class="irc-green">* TheChistoso (uid115412@gateway/web/irccloud.com/x-gdsuxuxahorucgxt) has joined #flink</span><br />
+<span class="irc-date">[22:51]</span> <span class="irc-black">&lt;TheChistoso&gt; Hi all -- where can I find the irc logs for this channel?</span><br />
+<span class="irc-date">[23:39]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[23:41]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[23:49]</span> <span class="irc-navy">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />

@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-23"
+date:   2015-09-23 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:11]</span> <span class="irc-green">* j-pb (~j_pb@87.253.189.132) has joined #flink</span><br />
+<span class="irc-date">[0:12]</span> <span class="irc-navy">* j-pb (~j_pb@87.253.189.132) Quit (Client Quit)</span><br />
+<span class="irc-date">[0:12]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[4:13]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:759c:6658:a650:2982) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:53]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:53]</span> <span class="irc-black">&lt;alex_1234&gt; hey party people, somebody here? :)</span><br />
+<span class="irc-date">[9:58]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:58]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[9:58]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[9:59]</span> <span class="irc-black">&lt;alex_1234&gt; oh, hi :&gt;</span><br />
+<span class="irc-date">[10:02]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[10:03]</span> <span class="irc-black">&lt;alex_1234&gt; gotcha!</span><br />
+<span class="irc-date">[10:03]</span> <span class="irc-black">&lt;alex_1234&gt; :D</span><br />
+<span class="irc-date">[10:05]</span> <span class="irc-black">&lt;rmetzger&gt; whats up?</span><br />
+<span class="irc-date">[10:06]</span> <span class="irc-black">&lt;alex_1234&gt; Maybe somebody can give me a hint for the following problem . I am doing some pipelining and parsing with a java program and I have the extracted data as Java Types.. is there a way I can use that in the stream context without having to add a socket? Some kind of Input that I can use to call a method like input.add()? The idea behind that is that it would be great to add the window functions to my current program.</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-black">&lt;rmetzger&gt; so you would like to stream some data from your "driver" to a running topology?</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-black">&lt;rmetzger&gt; or would you like to send some initial (seed) data from the driver when submitting the topology?</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[10:14]</span> <span class="irc-black">&lt;alex_1234&gt; I think it is the first option you write here.. In my current setup I read from a json source with my java program (and without using flink) .. I would like to pass these records to flink without having to concat them to csv or another string and send it through a socket. Is it possible to call something like datastream.add(new Tuple... directly</span><br />
+<span class="irc-date">[10:14]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[10:16]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[10:16]</span> <span class="irc-black">&lt;rmetzger&gt; It seems that our socket source is only working for strings</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;rmetzger&gt; there is currently no other way</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;rmetzger&gt; serialize it to a string and send it with the socket</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;rmetzger&gt; or read from the json source with flink</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;alex_1234&gt; ok, I will do that - this means that a custom input function is required?</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;rmetzger&gt; its quite easy to implement a source for Flink</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;alex_1234&gt; yes, I will manage that :D</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-black">&lt;rmetzger&gt; ok</span><br />
+<span class="irc-date">[10:18]</span> <span class="irc-black">&lt;alex_1234&gt; Just wanted to ask before adding unnecessary overhead</span><br />
+<span class="irc-date">[10:22]</span> <span class="irc-black">&lt;alex_1234&gt; If I want to add flink to a current mvn project, is it enough to add the flink.jar to my build path?</span><br />
+<span class="irc-date">[10:23]</span> <span class="irc-black">&lt;rmetzger&gt; since you are maven, you need to add Flink as a dependency</span><br />
+<span class="irc-date">[10:23]</span> <span class="irc-black">&lt;rmetzger&gt; add flink-streaming-core</span><br />
+<span class="irc-date">[10:24]</span> <span class="irc-black">&lt;alex_1234&gt; this belongs to pom.xml, right?</span><br />
+<span class="irc-date">[10:24]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[10:32]</span> <span class="irc-green">* qwerty_nor1 (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[10:34]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 268 seconds)</span><br />
+<span class="irc-date">[10:34]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
+<span class="irc-date">[11:08]</span> <span class="irc-black">&lt;alex_1234&gt; rmetzger? you suggested working with sockets and serialize the data I have .. Do you think that it would be faster to create a static variable that will work as "container" where the program puts data into and flink picks it from? I am not quite sure about the necessity of sockets here and also not sure if that would add network overhead if it is on the same machine.</span><br />
+<span class="irc-date">[11:08]</span> <span class="irc-black">&lt;rmetzger&gt; no, it won't work to share data using a static variable. Remember that Flink is a distributed system</span><br />
+<span class="irc-date">[11:09]</span> <span class="irc-black">&lt;alex_1234&gt; ah yes, you are right..</span><br />
+<span class="irc-date">[11:10]</span> <span class="irc-black">&lt;alex_1234&gt; But I can't use the already existent socketTextStream because it's a serialized object, yes?</span><br />
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;rmetzger&gt; you can use the socketTextStream for getting the data into your Flink topology</span><br />
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;alex_1234&gt; even serialized objects?</span><br />
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;rmetzger&gt; you have to write some code yourself on the client to put the data as strings into the socket</span><br />
+<span class="irc-date">[11:12]</span> <span class="irc-black">&lt;alex_1234&gt; my class implements Serializable and I can write it to a socket, my question is how to handle that with flink</span><br />
+<span class="irc-date">[11:13]</span> <span class="irc-black">&lt;alex_1234&gt; with "classical" sockets I could readObject()</span><br />
+<span class="irc-date">[11:15]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-black">&lt;alex_1234&gt; I've found the implementation of SocketTextStreamFunction and will adapt that. Regarding parallelism - does that mean that multiple connections to the source are made?</span><br />
+<span class="irc-date">[11:28]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[11:29]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:30]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[11:32]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:37]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[11:39]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:43]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[11:45]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:48]</span> <span class="irc-black">&lt;rmetzger&gt; &lt;alex_1234&gt; the socket source is not a parallel source. will always be only one instance</span><br />
+<span class="irc-date">[11:49]</span> <span class="irc-black">&lt;alex_1234&gt; and this instance then distributes the data automatically?</span><br />
+<span class="irc-date">[11:55]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[11:55]</span> <span class="irc-black">&lt;rmetzger&gt; it depends a bit on your topology</span><br />
+<span class="irc-date">[11:55]</span> <span class="irc-black">&lt;fhueske&gt; by default, data is only locally forwarded. But you can call rebalance() which distributes the data in a round-robin fashion</span><br />
+<span class="irc-date">[11:57]</span> <span class="irc-black">&lt;alex_1234&gt; ok, thank you</span><br />
+<span class="irc-date">[11:59]</span> <span class="irc-black">&lt;alex_1234&gt; I have tried to add the Flink environment to an existing program by calling getExecutionEnvironment() in the constructor of another class, it does not work. There is probably a reason for that so I assume that it requires to be in a static main() method?</span><br />
+<span class="irc-date">[11:59]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;aljoscha&gt; also, if the parallelism of downstream operations is higher than 1 it automatically inserts a rebalance</span><br />
+<span class="irc-date">[12:02]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;aljoscha&gt; could you maybe post some code for what you’re trying to achieve? I would suggest this: <a href="https://gist.github.com">https://gist.github.com</a> since the code will be easier to read then</span><br />
+<span class="irc-date">[12:05]</span> <span class="irc-black">&lt;alex_1234&gt; Ok, atm I have a simple recommender that gets json data via http post requests and does some parsing etc, I want to store some information in a flink window so I can calculate stuff like rolling means or most popular items of the last hour..Here is my code : <a href="https://gist.github.com/anonymous/140ed41fe83be0ca8995">https://gist.github.com/anonymous/140ed41fe83be0ca8995</a></span><br />
+<span class="irc-date">[12:07]</span> <span class="irc-black">&lt;alex_1234&gt; I have a print on socket connection at localhost:{flinkSenderPort} but it does not appear and the output stream is null, I assume that it does not connect to the socketTextStream source</span><br />
+<span class="irc-date">[12:09]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;aljoscha&gt; the println() statement is actually wrong, nothing is actually connected at this point. only when execute() is called on the env is the streaming topology assembled and sent to a cluster</span><br />
+<span class="irc-date">[12:12]</span> <span class="irc-black">&lt;alex_1234&gt; ok, at least something else happens now, but it looks like a lot of errors.. java.io.IOException: Cannot run program "wmic": CreateProcess error=2, Das System kann die angegebene Datei nicht finden</span><br />
+<span class="irc-date">[12:13]</span> <span class="irc-black">&lt;alex_1234&gt; well, I assume that you would suggest to separate the current program from the flink program, right?</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;aljoscha&gt; maybe, yes, I don’t know enough about your case</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;alex_1234&gt; but it's not a problem that my program is inside another method, yes? so only the flink stuff gets passed to the cluster and nothing else?</span><br />
+<span class="irc-date">[13:25]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[13:46]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;aljoscha&gt; should be ok, yes, but the problem could be that the jar containing your code will also have to be sent to the cluster</span><br />
+<span class="irc-date">[13:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:998c:25fb:b6fa:3798) has joined #flink</span><br />
+<span class="irc-date">[13:52]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;rmetzger&gt; @aljoscha: alex_1234 left the IRC channel (it seems we can not see see when somebody comes or goes)</span><br />
+<span class="irc-date">[13:58]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />

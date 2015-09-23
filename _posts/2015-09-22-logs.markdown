@@ -1,0 +1,193 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-22"
+date:   2015-09-22 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:29]</span> <span class="irc-navy">* TheChistoso_ (~TheChisto@69.53.232.117) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[1:33]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@198.135.50.188) has joined #flink</span><br />
+<span class="irc-date">[1:52]</span> <span class="irc-navy">* TheChistoso_ (~TheChisto@198.135.50.188) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[3:37]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:39]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:449c:9cbe:2cf9:b89c) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:44]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[4:44]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 268 seconds)</span><br />
+<span class="irc-date">[7:40]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[7:45]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[9:07]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:07]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[9:07]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-navy">* katychuang (sid64947@gateway/web/irccloud.com/x-twdbcrbpntuemrbt) Quit (K-Lined)</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-navy">* TheChistoso (uid115412@gateway/web/irccloud.com/x-gdsuxuxahorucgxt) Quit (K-Lined)</span><br />
+<span class="irc-date">[9:42]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[9:48]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[10:36]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[10:38]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[10:44]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[11:16]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[11:22]</span> <span class="irc-green">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[11:23]</span> <span class="irc-navy">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[11:24]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[11:25]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[11:38]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[11:39]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[11:47]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[11:51]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:53]</span> <span class="irc-green">* TheChistoso (uid115412@gateway/web/irccloud.com/x-imhmonhxhhmbdcen) has joined #flink</span><br />
+<span class="irc-date">[11:54]</span> <span class="irc-green">* katychuang (sid64947@gateway/web/irccloud.com/x-imkyfpsuundcqgtb) has joined #flink</span><br />
+<span class="irc-date">[11:54]</span> <span class="irc-green">* qwerty_nor1 (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:55]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[11:55]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
+<span class="irc-date">[12:45]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[12:50]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[14:20]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[14:20]</span> <span class="irc-black">&lt;alex_1234&gt; hi :) somebody here?</span><br />
+<span class="irc-date">[14:20]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[14:21]</span> <span class="irc-black">&lt;alex_1234&gt; I have a small question.. In my program I want to detect the most used words in the last minute and that should be done every 15s .. is window(Time.of(60, TimeUnit.SECONDS)).every(Time.of(15, TimeUnit.SECONDS))... then correct?</span><br />
+<span class="irc-date">[14:23]</span> <span class="irc-black">&lt;rmetzger&gt; I think that's correct, yes</span><br />
+<span class="irc-date">[14:23]</span> <span class="irc-black">&lt;rmetzger&gt; the problem is that the windows in Flink are currently quite buggy</span><br />
+<span class="irc-date">[14:23]</span> <span class="irc-black">&lt;alex_1234&gt; I have a pretty strange behaviour ..</span><br />
+<span class="irc-date">[14:24]</span> <span class="irc-black">&lt;alex_1234&gt; I am exporting the results to a csv file (with dop of 1) but sometimes the csv does not have entried of the whole window but only of the last seconds</span><br />
+<span class="irc-date">[14:24]</span> <span class="irc-black">&lt;alex_1234&gt; entries*</span><br />
+<span class="irc-date">[14:25]</span> <span class="irc-black">&lt;rmetzger&gt; this commit (<a href="https://github.com/apache/flink/commit/b8f58fab56c727b8d44d2a90bbb389ab7544989e)">https://github.com/apache/flink/commit/b8f58fab56c727b8d44d2a90bbb389ab7544989e)</a> (pushed today) contains already the runtime code for the improved time-based windows</span><br />
+<span class="irc-date">[14:25]</span> <span class="irc-black">&lt;rmetzger&gt; we are currently working on exposing these windows in the API as well</span><br />
+<span class="irc-date">[14:26]</span> <span class="irc-black">&lt;alex_1234&gt; but theoretically my code should be correct if I want to do it like that, yes?</span><br />
+<span class="irc-date">[14:26]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[14:26]</span> <span class="irc-black">&lt;rmetzger&gt; the code is correct</span><br />
+<span class="irc-date">[14:26]</span> <span class="irc-black">&lt;alex_1234&gt; It's basically the same concept as behind rolling mean, but I want to have a word count instead</span><br />
+<span class="irc-date">[14:27]</span> <span class="irc-black">&lt;rmetzger&gt; see also <a href="https://github.com/apache/flink/pull/1147">https://github.com/apache/flink/pull/1147</a> for some performance numbers</span><br />
+<span class="irc-date">[14:27]</span> <span class="irc-black">&lt;alex_1234&gt; Do you know if a realease will be soon published that contains the latest version or do I need to build it on my own?</span><br />
+<span class="irc-date">[14:27]</span> <span class="irc-black">&lt;rmetzger&gt; you can see that the new windows are much faster</span><br />
+<span class="irc-date">[14:27]</span> <span class="irc-black">&lt;rmetzger&gt; right now there is no way of using the new windows yet</span><br />
+<span class="irc-date">[14:28]</span> <span class="irc-black">&lt;rmetzger&gt; they are not exposed in the DataStream API</span><br />
+<span class="irc-date">[14:28]</span> <span class="irc-black">&lt;rmetzger&gt; ideally 0.10-SNAPSHOT has the APIs tomorrow</span><br />
+<span class="irc-date">[14:28]</span> <span class="irc-black">&lt;alex_1234&gt; yeah, I understand and the numbers look great.. but what counts for my professor is a running version I could demonstrate</span><br />
+<span class="irc-date">[14:28]</span> <span class="irc-black">&lt;rmetzger&gt; when do you need to demonstrate?</span><br />
+<span class="irc-date">[14:29]</span> <span class="irc-black">&lt;alex_1234&gt; well, end of the week or next week</span><br />
+<span class="irc-date">[14:29]</span> <span class="irc-black">&lt;alex_1234&gt; and with the current setup it looks like that's not possible... Do you know if there is a bug in the time windows? I could use the count then...</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;rmetzger&gt; everything that has to do with windows is pretty broken in Flink (in 0.9)</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;alex_1234&gt; It's only a demo and I send sampled data from a socket every second ... so I do know how much data comes within that time frame and could convert it from time units to counts</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;rmetzger&gt; you could implement the windowing yourself</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;alex_1234&gt; Ok, but it will be fixed soon?</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;rmetzger&gt; in a map operator</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;rmetzger&gt; yes, the runtime has already the fixed version in the current master</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;rmetzger&gt; the next step is to expose the new runtime operator to the DataStream API</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;rmetzger&gt; so that users can use it</span><br />
+<span class="irc-date">[14:30]</span> <span class="irc-black">&lt;alex_1234&gt; I don't think that's the idea behind the project I have to complete, which is creating a beginners guide for flink</span><br />
+<span class="irc-date">[14:31]</span> <span class="irc-black">&lt;rmetzger&gt; okay, I see</span><br />
+<span class="irc-date">[14:31]</span> <span class="irc-black">&lt;rmetzger&gt; are you going to publish the guide?</span><br />
+<span class="irc-date">[14:31]</span> <span class="irc-black">&lt;alex_1234&gt; I will talk to my professor but I see no reason not to do it</span><br />
+<span class="irc-date">[14:31]</span> <span class="irc-black">&lt;rmetzger&gt; where are you actually located? It seems like you are in germany as well</span><br />
+<span class="irc-date">[14:31]</span> <span class="irc-black">&lt;alex_1234&gt; Yes, I am student of TU Berlin</span><br />
+<span class="irc-date">[14:32]</span> <span class="irc-black">&lt;rmetzger&gt; ah, ok, I see</span><br />
+<span class="irc-date">[14:32]</span> <span class="irc-black">&lt;rmetzger&gt; are you working for Markl?</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-black">&lt;alex_1234&gt; No, I am doing a project at AOT and without any payment.. This should be the preparation for my "Bachelorarbeit" ..</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-black">&lt;alex_1234&gt; It's in the context of news recommender systems</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-black">&lt;rmetzger&gt; okay, I understand</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-black">&lt;alex_1234&gt; Is somebody of you at TU?</span><br />
+<span class="irc-date">[14:34]</span> <span class="irc-black">&lt;rmetzger&gt; Flink originated at the DIMA group of TU Berlin</span><br />
+<span class="irc-date">[14:34]</span> <span class="irc-black">&lt;rmetzger&gt; as the Stratosphere research project</span><br />
+<span class="irc-date">[14:34]</span> <span class="irc-black">&lt;alex_1234&gt; I have read the stratosphere paper, that's why I am asking</span><br />
+<span class="irc-date">[14:34]</span> <span class="irc-black">&lt;alex_1234&gt; I have also talked to Dr. Kutsche but afaik the people working on flink are not at TU anymore</span><br />
+<span class="irc-date">[14:35]</span> <span class="irc-black">&lt;mjsax&gt; @rmetzger: is there already a time-frame for the next release? the discussion about 0.10-MILESTONE is already a few weeks old... this release should have most fixed needed be alex</span><br />
+<span class="irc-date">[14:35]</span> <span class="irc-black">&lt;rmetzger&gt; there are some student research assistants at DIMA which are committers at the Flink project</span><br />
+<span class="irc-date">[14:35]</span> <span class="irc-black">&lt;alex_1234&gt; That sounds good, I will try to get in touch with them</span><br />
+<span class="irc-date">[14:35]</span> <span class="irc-black">&lt;rmetzger&gt; @mjsax: I hope the vote starts soon</span><br />
+<span class="irc-date">[14:36]</span> <span class="irc-black">&lt;rmetzger&gt; @mjsax: we would like to get <a href="https://github.com/apache/flink/pull/1159">https://github.com/apache/flink/pull/1159</a> in and then start the vote</span><br />
+<span class="irc-date">[14:36]</span> <span class="irc-black">&lt;mjsax&gt; great!</span><br />
+<span class="irc-date">[14:37]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[14:38]</span> <span class="irc-black">&lt;alex_1234&gt; So if the whole stuff is fixed my program will work automagically or do API calls change?</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;alex_1234&gt; By the way .. do you mean adding a timestamp to each tuple with mapping and then filtering the data on every() and removing older tuples or do you mean something else?</span><br />
+<span class="irc-date">[14:58]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:58]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;rmetzger&gt; &lt;alex_1234&gt; yes, most likely, you don't need to change anything and it will just work</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;rmetzger&gt; what did I say about add a timestamp to each tuple?</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[15:53]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[15:56]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[15:58]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[16:42]</span> <span class="irc-black">&lt;alex_1234&gt; hi, sorry .. I had to go</span><br />
+<span class="irc-date">[16:42]</span> <span class="irc-black">&lt;alex_1234&gt; @rmetzger: (14:30:19) rmetzger: you could implement the windowing yourself</span><br />
+<span class="irc-date">[16:42]</span> <span class="irc-black">&lt;alex_1234&gt; that's what I meant</span><br />
+<span class="irc-date">[16:43]</span> <span class="irc-black">&lt;rmetzger&gt; I see</span><br />
+<span class="irc-date">[16:43]</span> <span class="irc-black">&lt;rmetzger&gt; I thought you need windows for a specific use case</span><br />
+<span class="irc-date">[16:43]</span> <span class="irc-black">&lt;rmetzger&gt; but since you are creating a flink tutorial, it doesn't make much sense</span><br />
+<span class="irc-date">[16:43]</span> <span class="irc-black">&lt;rmetzger&gt; ;)</span><br />
+<span class="irc-date">[16:48]</span> <span class="irc-black">&lt;alex_1234&gt; I need it for a specific use case</span><br />
+<span class="irc-date">[16:48]</span> <span class="irc-black">&lt;alex_1234&gt; I am not creating a general tutorial for flink, I am explaining the basics and how to implement 2-3 use cases afterwards</span><br />
+<span class="irc-date">[16:49]</span> <span class="irc-black">&lt;alex_1234&gt; It's not like an easier rewrite of the docs</span><br />
+<span class="irc-date">[16:56]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:03]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[17:05]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[17:21]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[17:29]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[17:43]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:12]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:759c:6658:a650:2982) has joined #flink</span><br />
+<span class="irc-date">[18:33]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[18:35]</span> <span class="irc-green">* j-pb (~j_pb@87.253.189.132) has joined #flink</span><br />
+<span class="irc-date">[18:42]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[18:43]</span> <span class="irc-green">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[18:47]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 268 seconds)</span><br />
+<span class="irc-date">[18:47]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[19:16]</span> <span class="irc-navy">* j-pb (~j_pb@87.253.189.132) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:17]</span> <span class="irc-green">* j-pb (~j_pb@87.253.189.132) has joined #flink</span><br />
+<span class="irc-date">[19:20]</span> <span class="irc-green">* rmetzger (~rzsz@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[19:24]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:29]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[19:36]</span> <span class="irc-navy">* j-pb (~j_pb@87.253.189.132) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:38]</span> <span class="irc-green">* j-pb (~j_pb@87.253.189.132) has joined #flink</span><br />
+<span class="irc-date">[19:39]</span> <span class="irc-green">* sewen (5b40315a@gateway/web/freenode/ip.91.64.49.90) has joined #flink</span><br />
+<span class="irc-date">[19:40]</span> <span class="irc-navy">* rmetzger (~rzsz@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[19:43]</span> <span class="irc-navy">* j-pb (~j_pb@87.253.189.132) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[19:54]</span> <span class="irc-green">* j-pb (~j_pb@2001:bf7:540:0:49f:13e2:1d25:951c) has joined #flink</span><br />
+<span class="irc-date">[19:59]</span> <span class="irc-navy">* j-pb (~j_pb@2001:bf7:540:0:49f:13e2:1d25:951c) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[20:10]</span> <span class="irc-green">* j-pb (~j_pb@p5DC7F6E2.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[20:14]</span> <span class="irc-navy">* j-pb (~j_pb@p5DC7F6E2.dip0.t-ipconnect.de) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[20:22]</span> <span class="irc-green">* DonMercury (~DonMercur@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[20:23]</span> <span class="irc-navy">* DonMercury (~DonMercur@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:24]</span> <span class="irc-green">* DonMercury (~DonMercur@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[20:25]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[20:26]</span> <span class="irc-green">* sewen (5b40315a@gateway/web/freenode/ip.91.64.49.90) has left #flink</span><br />
+<span class="irc-date">[20:27]</span> <span class="irc-navy">* DonMercury (~DonMercur@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:28]</span> <span class="irc-green">* DonMercury (~DonMercur@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[20:30]</span> <span class="irc-black">&lt;mxm_&gt; test</span><br />
+<span class="irc-date">[20:32]</span> <span class="irc-navy">* DonMercury (~DonMercur@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:32]</span> <span class="irc-green">* DonMercury (~DonMercur@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[20:32]</span> <span class="irc-black">&lt;mxm_&gt; test</span><br />
+<span class="irc-date">[20:32]</span> <span class="irc-black">&lt;DonMercury&gt; &lt;mxm&gt; and back</span><br />
+<span class="irc-date">[20:33]</span> <span class="irc-black">&lt;mxm_&gt; This is pretty neat.</span><br />
+<span class="irc-date">[20:39]</span> <span class="irc-navy">* DonMercury (~DonMercur@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:41]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[20:42]</span> <span class="irc-black">&lt;mxm_&gt; test</span><br />
+<span class="irc-date">[20:43]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;mxm&gt; Works.</span><br />
+<span class="irc-date">[20:46]</span> <span class="irc-green">* j-pb (~j_pb@87.253.189.132) has joined #flink</span><br />
+<span class="irc-date">[20:50]</span> <span class="irc-navy">* j-pb (~j_pb@87.253.189.132) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[21:20]</span> <span class="irc-green">* rmetzger (~rzsz@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[21:25]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:25]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has left #flink</span><br />
+<span class="irc-date">[21:26]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:26]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has left #flink</span><br />
+<span class="irc-date">[21:26]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:26]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has left #flink</span><br />
+<span class="irc-date">[21:26]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:27]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has left #flink</span><br />
+<span class="irc-date">[21:28]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:28]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has left #flink</span><br />
+<span class="irc-date">[21:28]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:30]</span> <span class="irc-black">&lt;mjsax&gt; Hi. Since recentyl, I receive messages from an account "LogBot". It seems that this LogBot is accosiated with Flink IRC channel. Can anyone tell me what it is? And why do I get a message each time I enter the chat.</span><br />
+<span class="irc-date">[21:33]</span> <span class="irc-black">&lt;mxm_&gt; Appears to be somebody's logging bot.</span><br />
+<span class="irc-date">[21:34]</span> <span class="irc-black">&lt;mxm_&gt; What's the content of the message?</span><br />
+<span class="irc-date">[21:38]</span> <span class="irc-navy">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) Quit (Ping timeout: 268 seconds)</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;rmetzger&gt; mjsax</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;rmetzger&gt; I installed the log bot</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;rmetzger&gt; wow, we have a slack bot for IRC</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;rmetzger&gt; cool, that's really nice</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;rmetzger&gt; @mxm: the message is "-LogBot- This channel is logged."</span><br />
+<span class="irc-date">[22:24]</span> <span class="irc-navy">* rmetzger (~rzsz@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[22:25]</span> <span class="irc-black">&lt;mxm_&gt; Very kind of your logbot that he admits he is logging.</span><br />
+<span class="irc-date">[22:42]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has left #flink</span><br />
+<span class="irc-date">[23:01]</span> <span class="irc-black">&lt;mjsax&gt; I think it is kind of annoying to have this message every time... Is it possible to disable this notification?</span><br />
+<span class="irc-date">[23:09]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;rmetzger&gt; I will look into it tomorrow</span><br />

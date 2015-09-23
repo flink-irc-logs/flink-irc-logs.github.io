@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-20"
+date:   2015-09-20 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:09]</span> <span class="irc-green">* Zu_ (5c4a3628@gateway/web/freenode/ip.92.74.54.40) has joined #flink</span><br />
+<span class="irc-date">[0:10]</span> <span class="irc-navy">* Zu_ (5c4a3628@gateway/web/freenode/ip.92.74.54.40) Quit (Client Quit)</span><br />
+<span class="irc-date">[0:36]</span> <span class="irc-green">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[0:41]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[0:46]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[1:42]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[1:43]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:46]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[1:52]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[1:55]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:00]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[2:12]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:17]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[2:27]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:49]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:50]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[6:12]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[7:43]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[7:48]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[8:44]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[8:49]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[8:51]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[8:53]</span> <span class="irc-navy">* TheChistoso_ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[8:54]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[8:59]</span> <span class="irc-green">* TheChistoso__ (~TheChisto@104.238.169.90) has joined #flink</span><br />
+<span class="irc-date">[9:01]</span> <span class="irc-navy">* TheChistoso_ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[9:26]</span> <span class="irc-navy">* TheChistoso__ (~TheChisto@104.238.169.90) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[9:28]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@104.238.169.90) has joined #flink</span><br />
+<span class="irc-date">[9:45]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[9:50]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[10:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[10:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[11:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[11:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:48]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[12:52]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:54]</span> <span class="irc-green">* TheChistoso__ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[12:54]</span> <span class="irc-navy">* TheChistoso__ (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[12:55]</span> <span class="irc-navy">* TheChistoso_ (~TheChisto@104.238.169.90) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[13:44]</span> <span class="irc-navy">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:48]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) has joined #flink</span><br />
+<span class="irc-date">[13:53]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:c5ba:4676:767e:e61a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[14:00]</span> <span class="irc-green">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[14:35]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) has joined #flink</span><br />
+<span class="irc-date">[17:36]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:38]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[18:13]</span> <span class="irc-navy">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:00]</span> <span class="irc-green">* till (~till@2a02:8109:a180:240c:93a:7af:1a58:1c8f) has joined #flink</span><br />
+<span class="irc-date">[20:22]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[21:33]</span> <span class="irc-green">* plamb (~plamb@c-24-21-177-161.hsd1.or.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[23:11]</span> <span class="irc-green">* till___ (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[23:14]</span> <span class="irc-navy">* till (~till@2a02:8109:a180:240c:93a:7af:1a58:1c8f) Quit (Ping timeout: 264 seconds)</span><br />

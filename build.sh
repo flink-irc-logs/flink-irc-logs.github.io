@@ -1,6 +1,7 @@
 #!/bin/bash
 
-LOG_DIR=/tmp/logs
+LOG_DIR=/home/robert/irc-logger/logs
+
 for log in `find $LOG_DIR`; do
 	filename=$(basename "$log")
 	extension="${filename##*.}"

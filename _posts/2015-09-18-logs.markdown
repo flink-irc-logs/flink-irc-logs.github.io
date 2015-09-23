@@ -1,0 +1,208 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-18"
+date:   2015-09-18 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:34]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:26]</span> <span class="irc-navy">* till (~till@ip5f5aebb2.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:27]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.232.0) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[1:34]</span> <span class="irc-green">* TheChistoso (~TheChisto@198.135.50.121) has joined #flink</span><br />
+<span class="irc-date">[3:19]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[3:19]</span> <span class="irc-black">&lt;TheChistoso&gt; apparently MavenForkNumberPrefixLayout relies on log4j</span><br />
+<span class="irc-date">[3:20]</span> <span class="irc-navy">* TheChistoso (~TheChisto@198.135.50.121) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[3:24]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[3:47]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:b4af:415b:520e:1199) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:50]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[5:19]</span> <span class="irc-green">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[5:23]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@69.53.245.30) has joined #flink</span><br />
+<span class="irc-date">[5:23]</span> <span class="irc-navy">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[5:23]</span> <span class="irc-green">* TheChistoso_ is now known as TheChistoso</span><br />
+<span class="irc-date">[7:05]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[7:05]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[7:07]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[8:07]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[8:12]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[8:30]</span> <span class="irc-green">* till (~till@2a02:8109:a180:240c:fc4a:e52b:d898:6bb1) has joined #flink</span><br />
+<span class="irc-date">[8:39]</span> <span class="irc-black">&lt;TheChistoso&gt; hi all — anybody around?</span><br />
+<span class="irc-date">[8:40]</span> <span class="irc-black">&lt;TheChistoso&gt; till: i was able to remove the log4j deps and my app is happy. my changes were hacky but it could point you in the right direction. I forked the repo and pushed a commit if you’re interested</span><br />
+<span class="irc-date">[8:54]</span> <span class="irc-navy">* till (~till@2a02:8109:a180:240c:fc4a:e52b:d898:6bb1) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:32]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:32]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[9:32]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[9:35]</span> <span class="irc-black">&lt;rmetzger&gt; @TheChistoso: I saw your old message in the log. Can you send me the link to the commit, so that I can take a look?</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-black">&lt;TheChistoso&gt; rmetzger: see private msg</span><br />
+<span class="irc-date">[9:46]</span> <span class="irc-black">&lt;TheChistoso&gt; so i do have a question — i have flink configured to consume from kafka. this is a locally running flink “cluster” consuming from remote (aws) kafka. should i be seeing events flowing in as quickly as they’re produced? no micro-batching, correct?</span><br />
+<span class="irc-date">[9:47]</span> <span class="irc-green">* till (~till@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:47]</span> <span class="irc-navy">* till (~till@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:47]</span> <span class="irc-green">* till (~till@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:49]</span> <span class="irc-black">&lt;rmetzger&gt; yes, Flink is not doing any batching</span><br />
+<span class="irc-date">[9:49]</span> <span class="irc-black">&lt;rmetzger&gt; its constantly consuming messages</span><br />
+<span class="irc-date">[9:50]</span> <span class="irc-black">&lt;rmetzger&gt; Flink's KafkaConsumer is consuming the events as fast as possible</span><br />
+<span class="irc-date">[9:50]</span> <span class="irc-black">&lt;rmetzger&gt; the consumption speed is determined by the processing speed of Flink</span><br />
+<span class="irc-date">[9:51]</span> <span class="irc-black">&lt;rmetzger&gt; so if you have a very complex Flink job to consume the data, it may consume slower than the data is produced</span><br />
+<span class="irc-date">[9:51]</span> <span class="irc-black">&lt;rmetzger&gt; have a look here how we are handling backpressure: <a href="http://data-artisans.com/how-flink-handles-backpressure/">http://data-artisans.com/how-flink-handles-backpressure/</a></span><br />
+<span class="irc-date">[9:55]</span> <span class="irc-black">&lt;TheChistoso&gt; rmetzger: tyvm — that’s very useful</span><br />
+<span class="irc-date">[9:56]</span> <span class="irc-black">&lt;rmetzger&gt; If you are facing issues in the processing speed of flink (= flink is not consuming fast enough), I can give you some pointers how to make it faster</span><br />
+<span class="irc-date">[9:56]</span> <span class="irc-black">&lt;TheChistoso&gt; at what point is the message from kafka ack’ed? i may being consuming a message but there’s a problem (say I need data from a system that’s down) — I don’t want to ack the message until it’s been successfully processed</span><br />
+<span class="irc-date">[9:58]</span> <span class="irc-black">&lt;rmetzger&gt; we are using Flink's internal checkpointing mechanism for that</span><br />
+<span class="irc-date">[9:58]</span> <span class="irc-black">&lt;rmetzger&gt; flink stores the offsets of the partitions with its internal state handle</span><br />
+<span class="irc-date">[9:58]</span> <span class="irc-black">&lt;TheChistoso&gt; rmetzger: i’m not entirely worried about speed just yet. more curious because i was seeing some delay but it could be due to my setup (running a local flink cluster that’s consuming from a remote kafka cluster)</span><br />
+<span class="irc-date">[9:59]</span> <span class="irc-black">&lt;rmetzger&gt; so if a Flink TaskManager is failing, Flink will continue reading from Kafka where it left of</span><br />
+<span class="irc-date">[9:59]</span> <span class="irc-black">&lt;TheChistoso&gt; how does the internal checkpointing differ from kafka’s view of the world?</span><br />
+<span class="irc-date">[9:59]</span> <span class="irc-black">&lt;rmetzger&gt; it may be a bit</span><br />
+<span class="irc-date">[9:59]</span> <span class="irc-black">&lt;rmetzger&gt; so we are also committing the offsets into zookeeper</span><br />
+<span class="irc-date">[10:00]</span> <span class="irc-black">&lt;rmetzger&gt; exactly like the regular kafka consumer</span><br />
+<span class="irc-date">[10:00]</span> <span class="irc-black">&lt;rmetzger&gt; and we are doing this AFTER the data has been processed</span><br />
+<span class="irc-date">[10:00]</span> <span class="irc-black">&lt;rmetzger&gt; so there is never a data loss</span><br />
+<span class="irc-date">[10:00]</span> <span class="irc-black">&lt;TheChistoso&gt; here’s my concern — i don’t want to repeat a side effecting operation (say, e.g., sending an email to a customer). what protection/guarantees do i have against that?</span><br />
+<span class="irc-date">[10:00]</span> <span class="irc-black">&lt;TheChistoso&gt; how do you determine that data has been processed unless i give flink an explicit signal that i’m done?</span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-black">&lt;TheChistoso&gt; when it reaches a sink (or some kind of terminal operation)?</span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-black">&lt;rmetzger&gt; so for the kafka consumer, there is this blog post: <a href="http://data-artisans.com/kafka-flink-a-practical-how-to/">http://data-artisans.com/kafka-flink-a-practical-how-to/</a></span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-black">&lt;rmetzger&gt; it also has a section on the fault tolerance</span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-black">&lt;rmetzger&gt; this article explains how the checkpointing / processing guarantees in Flink are working: <a href="http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/">http://data-artisans.com/high-throughput-low-latency-and-exactly-once-stream-processing-with-apache-flink/</a></span><br />
+<span class="irc-date">[10:02]</span> <span class="irc-black">&lt;rmetzger&gt; we are using distributed snapshots (a variation of the Chandy Lamport paper: Lightweight Asynchronous Snapshots for Distributed Dataflows)</span><br />
+<span class="irc-date">[10:02]</span> <span class="irc-black">&lt;rmetzger&gt; oops</span><br />
+<span class="irc-date">[10:03]</span> <span class="irc-black">&lt;rmetzger&gt; sorry, the paper title is wrong ;)</span><br />
+<span class="irc-date">[10:03]</span> <span class="irc-black">&lt;rmetzger&gt; thats "our" paper: <a href="http://arxiv.org/abs/1506.08603">http://arxiv.org/abs/1506.08603</a></span><br />
+<span class="irc-date">[10:03]</span> <span class="irc-black">&lt;rmetzger&gt; that's about the chandy lamport: <a href="http://blog.acolyer.org/2015/04/22/distributed-snapshots-determining-global-states-of-distributed-systems/">http://blog.acolyer.org/2015/04/22/distributed-snapshots-determining-global-states-of-distributed-systems/</a></span><br />
+<span class="irc-date">[10:04]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[10:09]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-black">&lt;TheChistoso&gt; rmetzger: that will all make for a great read :) have to get to sleep right now though</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-black">&lt;rmetzger&gt; sure ;)</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-black">&lt;TheChistoso&gt; too bad flink forward is in europe :/</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-black">&lt;rmetzger&gt; once you're back, I can explain you how to include external systems (side affecting systems) into our checkpointing</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-black">&lt;rmetzger&gt; there is also a bay area flink meetup</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-black">&lt;rmetzger&gt; its not very frequent, but from time to time its happening ;)</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-black">&lt;TheChistoso&gt; i’m aware — might have already joined :)</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-black">&lt;rmetzger&gt; okay, cool</span><br />
+<span class="irc-date">[10:42]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.245.30) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[10:54]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[11:31]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:41]</span> <span class="irc-brown">-mquin- [Global Notice] On or around Friday, October 2nd we will be cleaning up the services database. Now's a good time to ensure you identify to services when connecting. Check out <a href="http://blog.freenode.net/2015/09/services-database-purge/">http://blog.freenode.net/2015/09/services-database-purge/</a> for more.</span><br />
+<span class="irc-date">[11:45]</span> <span class="irc-green">* phameete (5c6e670d@gateway/web/freenode/ip.92.110.103.13) has joined #flink</span><br />
+<span class="irc-date">[11:45]</span> <span class="irc-black">&lt;phameete&gt; Hi guys is anyone around?</span><br />
+<span class="irc-date">[11:45]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[11:47]</span> <span class="irc-green">* alex123 (6d2d00d3@gateway/web/freenode/ip.109.45.0.211) has joined #flink</span><br />
+<span class="irc-date">[11:47]</span> <span class="irc-black">&lt;phameete&gt; Hi Robert :-)</span><br />
+<span class="irc-date">[11:47]</span> <span class="irc-black">&lt;alex123&gt; hi</span><br />
+<span class="irc-date">[11:48]</span> <span class="irc-black">&lt;phameete&gt; I have a question: if i have a dataset A and a dataset B, and I would like to for each element in A filter the dataset B and count the result, what would be the preferred way of doing such a thing?</span><br />
+<span class="irc-date">[11:48]</span> <span class="irc-black">&lt;alex123&gt; can you please tell me if the every( time of 10s) will be called exactly every 10s? I have spoken to a very nice person here who helped me a lot and he mentioned that it is possible that the every is executed earlier due to performance improvement</span><br />
+<span class="irc-date">[11:49]</span> <span class="irc-black">&lt;rmetzger&gt; how big are the datasets A and B?</span><br />
+<span class="irc-date">[11:50]</span> <span class="irc-black">&lt;rmetzger&gt; is one of them small? (fits into the memory of the machines?)</span><br />
+<span class="irc-date">[11:50]</span> <span class="irc-black">&lt;phameete&gt; too big to broadcast</span><br />
+<span class="irc-date">[11:50]</span> <span class="irc-black">&lt;phameete&gt; I cant assume that they will fit</span><br />
+<span class="irc-date">[11:50]</span> <span class="irc-black">&lt;rmetzger&gt; I see</span><br />
+<span class="irc-date">[11:50]</span> <span class="irc-black">&lt;rmetzger&gt; you can always use the cross operator for this</span><br />
+<span class="irc-date">[11:51]</span> <span class="irc-black">&lt;rmetzger&gt; but if the data sets are too large to fit into memory, it will run forever</span><br />
+<span class="irc-date">[11:51]</span> <span class="irc-black">&lt;phameete&gt; And we don't have forever ;-)</span><br />
+<span class="irc-date">[11:52]</span> <span class="irc-black">&lt;rmetzger&gt; sadly not</span><br />
+<span class="irc-date">[11:52]</span> <span class="irc-black">&lt;rmetzger&gt; maybe you have to express your problem differently in Flink?</span><br />
+<span class="irc-date">[11:52]</span> <span class="irc-black">&lt;rmetzger&gt; alex123: which every() do you mean?</span><br />
+<span class="irc-date">[11:52]</span> <span class="irc-black">&lt;rmetzger&gt; windowing?</span><br />
+<span class="irc-date">[11:53]</span> <span class="irc-navy">* alex123 (6d2d00d3@gateway/web/freenode/ip.109.45.0.211) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[11:53]</span> <span class="irc-black">&lt;rmetzger&gt; mhh :)</span><br />
+<span class="irc-date">[11:54]</span> <span class="irc-black">&lt;phameete&gt; hehe :D</span><br />
+<span class="irc-date">[11:54]</span> <span class="irc-black">&lt;phameete&gt; ill think about an alternative approach, I guess cross will be the quickest way to at least get it working for now</span><br />
+<span class="irc-date">[11:56]</span> <span class="irc-black">&lt;rmetzger&gt; is the filtering done on equal elements?</span><br />
+<span class="irc-date">[11:56]</span> <span class="irc-black">&lt;phameete&gt; do crossWithHuge and crossWithTiny refer to the number of elements in a dataset, actual total size?</span><br />
+<span class="irc-date">[11:56]</span> <span class="irc-black">&lt;phameete&gt; what do you mean equal elements?</span><br />
+<span class="irc-date">[11:56]</span> <span class="irc-black">&lt;rmetzger&gt; if so, you can use a join which is much more efficient</span><br />
+<span class="irc-date">[11:56]</span> <span class="irc-black">&lt;phameete&gt; oh no</span><br />
+<span class="irc-date">[11:56]</span> <span class="irc-black">&lt;phameete&gt; its a greater then</span><br />
+<span class="irc-date">[11:57]</span> <span class="irc-black">&lt;phameete&gt; than* :-)</span><br />
+<span class="irc-date">[11:58]</span> <span class="irc-black">&lt;rmetzger&gt; mh .. thats tricky</span><br />
+<span class="irc-date">[12:02]</span> <span class="irc-black">&lt;phameete&gt; hmm does it help to filter in the cross function?</span><br />
+<span class="irc-date">[12:03]</span> <span class="irc-black">&lt;fhueske&gt; Not really. It's already prohibitively expensive to enumerate all pairs of elements that go into the cross function</span><br />
+<span class="irc-date">[12:04]</span> <span class="irc-black">&lt;rmetzger&gt; ideally you filter before the cross ;)</span><br />
+<span class="irc-date">[12:04]</span> <span class="irc-black">&lt;phameete&gt; hahah yes if that only were possible</span><br />
+<span class="irc-date">[12:05]</span> <span class="irc-black">&lt;fhueske&gt; You can try to play tricks with range partitioning</span><br />
+<span class="irc-date">[12:05]</span> <span class="irc-green">* plamb (~plamb@174.25.98.113) has joined #flink</span><br />
+<span class="irc-date">[12:05]</span> <span class="irc-black">&lt;fhueske&gt; however, flink does not have native support for that. You would need to do it manually, using custom partitioners</span><br />
+<span class="irc-date">[12:07]</span> <span class="irc-black">&lt;phameete&gt; Hmm yeah I guess i'll just stick with the cross for now. Its not super important to get this working (fast) :-) I was just wondering whether there were tools for doing such a thing</span><br />
+<span class="irc-date">[12:07]</span> <span class="irc-black">&lt;phameete&gt; Cheers for the help</span><br />
+<span class="irc-date">[12:07]</span> <span class="irc-black">&lt;fhueske&gt; sure</span><br />
+<span class="irc-date">[12:08]</span> <span class="irc-black">&lt;phameete&gt; Thats quite alright when it fits into mem yes :-)</span><br />
+<span class="irc-date">[12:09]</span> <span class="irc-black">&lt;fhueske&gt; are you aware that cross will broadcast the smaller input?</span><br />
+<span class="irc-date">[12:09]</span> <span class="irc-black">&lt;phameete&gt; Yeah I know, im now hoping that dataset A won't be too large in practice</span><br />
+<span class="irc-date">[12:10]</span> <span class="irc-black">&lt;fhueske&gt; OK, just wanted to make sure you know the implications</span><br />
+<span class="irc-date">[12:10]</span> <span class="irc-navy">* plamb (~plamb@174.25.98.113) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[12:10]</span> <span class="irc-black">&lt;phameete&gt; And i'm gonna build something that will strip the elements of A as far as possible so that should help too</span><br />
+<span class="irc-date">[12:11]</span> <span class="irc-black">&lt;phameete&gt; Yes thanks for pointing it out :-]</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-navy">* phameete (5c6e670d@gateway/web/freenode/ip.92.110.103.13) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:25]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[13:38]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:38]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[14:12]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f4dc:9812:79a3:f937) has joined #flink</span><br />
+<span class="irc-date">[14:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:22]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[14:51]</span> <span class="irc-green">* jakeri (52633662@gateway/web/freenode/ip.82.99.54.98) has joined #flink</span><br />
+<span class="irc-date">[14:51]</span> <span class="irc-black">&lt;jakeri&gt; hi again, me mailing about the Kafka consumer</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-black">&lt;jakeri&gt; I had a dependency problem with kafka.</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-black">&lt;jakeri&gt; looked like it started much better when I fixed that.</span><br />
+<span class="irc-date">[14:53]</span> <span class="irc-black">&lt;jakeri&gt; I wired in some of our internal kafka libraries.</span><br />
+<span class="irc-date">[15:01]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[15:02]</span> <span class="irc-black">&lt;rmetzger&gt; I suspect you set the kafka version to a lower version</span><br />
+<span class="irc-date">[15:05]</span> <span class="irc-black">&lt;rmetzger&gt; do your internal kafka libraries depend on a different kafka version</span><br />
+<span class="irc-date">[15:13]</span> <span class="irc-black">&lt;jakeri&gt; yes.</span><br />
+<span class="irc-date">[15:13]</span> <span class="irc-black">&lt;jakeri&gt; 8.1 atm</span><br />
+<span class="irc-date">[15:13]</span> <span class="irc-black">&lt;jakeri&gt; 0.8.1</span><br />
+<span class="irc-date">[15:14]</span> <span class="irc-black">&lt;rmetzger&gt; ah, yes</span><br />
+<span class="irc-date">[15:14]</span> <span class="irc-black">&lt;rmetzger&gt; so that's the reason for the method not found exception</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-black">&lt;jakeri&gt; also after some hacking and union I got it to merge all topics into one stream</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-black">&lt;jakeri&gt; but pretty cumbersome</span><br />
+<span class="irc-date">[15:16]</span> <span class="irc-black">&lt;rmetzger&gt; I agree that its certainly not ideal</span><br />
+<span class="irc-date">[15:16]</span> <span class="irc-black">&lt;rmetzger&gt; but it would be a lot of work for us to implement a Kafka source with all the features</span><br />
+<span class="irc-date">[15:17]</span> <span class="irc-black">&lt;rmetzger&gt; I really hope that Kafka is releasing their new kafka consumer soon</span><br />
+<span class="irc-date">[15:17]</span> <span class="irc-black">&lt;rmetzger&gt; then, we don't have to reinvent the wheel</span><br />
+<span class="irc-date">[15:17]</span> <span class="irc-black">&lt;rmetzger&gt; As I said on the mailing list, if this one feature is a show stopper for your company to use flink in production, I can implement the feature</span><br />
+<span class="irc-date">[15:17]</span> <span class="irc-black">&lt;rmetzger&gt; its probably 1-2 days of work for me</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;jakeri&gt; I think this would work...</span><br />
+<span class="irc-date">[15:26]</span> <span class="irc-black">&lt;rmetzger&gt; ok ;)</span><br />
+<span class="irc-date">[15:27]</span> <span class="irc-black">&lt;rmetzger&gt; Can you exclude the kafka dependency from your internal kafka libraries?</span><br />
+<span class="irc-date">[15:27]</span> <span class="irc-black">&lt;rmetzger&gt; to ensure its really going to use kafka 0.8.2.1</span><br />
+<span class="irc-date">[15:30]</span> <span class="irc-black">&lt;rmetzger&gt; even with the newer client kafka version, you should be able to read from the older kafka brokers</span><br />
+<span class="irc-date">[15:32]</span> <span class="irc-black">&lt;jakeri&gt; I excluded the dependency and it worked.</span><br />
+<span class="irc-date">[15:36]</span> <span class="irc-black">&lt;jakeri&gt; If you want to union X sources directly. Do you have any tips to do that.</span><br />
+<span class="irc-date">[15:37]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[15:37]</span> <span class="irc-black">&lt;jakeri&gt; I built a list with souces and then took the last and did a union with all the others.</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-black">&lt;rmetzger&gt; no, I don't know a better way than a cascade of unions into one stream</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-black">&lt;jakeri&gt; ok have to go cya</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-green">* jakeri (52633662@gateway/web/freenode/ip.82.99.54.98) has left #flink</span><br />
+<span class="irc-date">[16:05]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f4dc:9812:79a3:f937) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:06]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[16:07]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:04]</span> <span class="irc-green">* rodlogic (~rodlogic@198.0.146.123) has joined #flink</span><br />
+<span class="irc-date">[17:24]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[17:58]</span> <span class="irc-green">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:01]</span> <span class="irc-navy">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-navy">* rodlogic (~rodlogic@198.0.146.123) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:25]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:26]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:34]</span> <span class="irc-navy">* till (~till@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:45]</span> <span class="irc-green">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:49]</span> <span class="irc-green">* TheChistoso_ (~TheChisto@69.53.245.24) has joined #flink</span><br />
+<span class="irc-date">[18:51]</span> <span class="irc-navy">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[18:51]</span> <span class="irc-green">* TheChistoso_ is now known as TheChistoso</span><br />
+<span class="irc-date">[19:16]</span> <span class="irc-green">* rodlogic (~rodlogic@71.234.52.85) has joined #flink</span><br />
+<span class="irc-date">[19:20]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.245.24) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[19:28]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:32]</span> <span class="irc-green">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[19:55]</span> <span class="irc-green">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[20:00]</span> <span class="irc-navy">* TheChistoso (~TheChisto@c-98-234-240-177.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[20:00]</span> <span class="irc-green">* TheChistoso (~TheChisto@69.53.245.25) has joined #flink</span><br />
+<span class="irc-date">[20:08]</span> <span class="irc-navy">* till (~till@ip5f5aec4f.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[21:34]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.245.25) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[21:35]</span> <span class="irc-green">* TheChistoso (~TheChisto@69.53.245.25) has joined #flink</span><br />
+<span class="irc-date">[21:44]</span> <span class="irc-green">* rmetzger (~rmet@2a02:8108:2100:1504:2ab2:bdff:fe69:f1e) has joined #flink</span><br />
+<span class="irc-date">[21:44]</span> <span class="irc-navy">* rmetzger (~rmet@2a02:8108:2100:1504:2ab2:bdff:fe69:f1e) Quit (Changing host)</span><br />
+<span class="irc-date">[21:44]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[21:53]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[22:24]</span> <span class="irc-green">* l0n3r4n83r (48258abe@gateway/web/freenode/ip.72.37.138.190) has joined #flink</span><br />
+<span class="irc-date">[22:26]</span> <span class="irc-black">&lt;l0n3r4n83r&gt; Hi guys I have a question about streaming from Kafka .. does streaming on flink from kafka like spark needs the consumer to keep track of offsets consumed ?</span><br />
+<span class="irc-date">[22:48]</span> <span class="irc-green">* rmetzger (~rmet@2a02:8108:2100:1504:2ab2:bdff:fe69:f1e) has joined #flink</span><br />
+<span class="irc-date">[22:48]</span> <span class="irc-navy">* rmetzger (~rmet@2a02:8108:2100:1504:2ab2:bdff:fe69:f1e) Quit (Changing host)</span><br />
+<span class="irc-date">[22:48]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[23:40]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Quit: Leaving)</span><br />

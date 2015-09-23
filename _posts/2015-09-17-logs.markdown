@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-17"
+date:   2015-09-17 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[15:48]</span> <span class="irc-brown">-orwell.freenode.net- *** Looking up your hostname...</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-brown">-orwell.freenode.net- *** Checking Ident</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-brown">-orwell.freenode.net- *** Found your hostname</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-brown">-orwell.freenode.net- *** No Ident response</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-green">* LogBot (~PircBot@240.121.148.146.bc.googleusercontent.com) has joined #flink</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-green">* Topic is 'Welcome to the Apache Flink IRC channel | Flink website: <a href="http://flink.apache.org/">http://flink.apache.org/</a> | Latest stable release: 0.9.1'</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-green">* Set by rmetzger!~rmet@apache/committer/rmetzger on Tue Sep 01 10:16:21 CEST 2015</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-brown">-NickServ- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify &lt;password&gt;.</span><br />
+<span class="irc-date">[15:49]</span> <span class="irc-black">&lt;rmetzger&gt; mh</span><br />
+<span class="irc-date">[15:49]</span> <span class="irc-black">&lt;rmetzger&gt; looks like its working ;)</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-brown">-orwell.freenode.net- *** Looking up your hostname...</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-brown">-orwell.freenode.net- *** Checking Ident</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-brown">-orwell.freenode.net- *** Found your hostname</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-brown">-orwell.freenode.net- *** No Ident response</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-brown">-NickServ- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify &lt;password&gt;.</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-green">* LogBot (~PircBot@240.121.148.146.bc.googleusercontent.com) has joined #flink</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-green">* Topic is 'Welcome to the Apache Flink IRC channel | Flink website: <a href="http://flink.apache.org/">http://flink.apache.org/</a> | Latest stable release: 0.9.1'</span><br />
+<span class="irc-date">[15:50]</span> <span class="irc-green">* Set by rmetzger!~rmet@apache/committer/rmetzger on Tue Sep 01 10:16:21 CEST 2015</span><br />
+<span class="irc-date">[15:53]</span> <span class="irc-green">* ChanServ sets mode +o rmetzger</span><br />
+<span class="irc-date">[15:53]</span> <span class="irc-green">* rmetzger changes topic to 'Welcome to the Apache Flink IRC channel | Flink website: <a href="http://flink.apache.org/">http://flink.apache.org/</a> | Latest stable release: 0.9.1 | Note that this channel is logged and the logs are published online'</span><br />
+<span class="irc-date">[15:56]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[16:09]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:b4af:415b:520e:1199) has joined #flink</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[16:16]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:18]</span> <span class="irc-green">* alex_1234 (~alex@91.65.163.198) has joined #flink</span><br />
+<span class="irc-date">[17:29]</span> <span class="irc-navy">* jakeri (52633662@gateway/web/freenode/ip.82.99.54.98) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[17:39]</span> <span class="irc-green">* TheChistoso (~ThatGuy@198.135.48.67) has joined #flink</span><br />
+<span class="irc-date">[17:40]</span> <span class="irc-black">&lt;TheChistoso&gt; hello :)</span><br />
+<span class="irc-date">[17:41]</span> <span class="irc-black">&lt;TheChistoso&gt; i grabbed the latest from master last night. noticed that the scala major.minor is not being appended to artifacts</span><br />
+<span class="irc-date">[17:41]</span> <span class="irc-black">&lt;TheChistoso&gt; from what i could read in related JIRAs/PRs/mailing list discussion, that should be happening</span><br />
+<span class="irc-date">[17:45]</span> <span class="irc-green">* TheChistoso2 (c6873043@gateway/web/cgi-irc/kiwiirc.com/ip.198.135.48.67) has joined #flink</span><br />
+<span class="irc-date">[17:47]</span> <span class="irc-black">&lt;TheChistoso&gt; also — the log4j dependency is causing all kinds of headaches for me. flink-shaded-include-yarn is bringing in things that clash with what I have defined. I redirect all log4j through slf4j using log4j-over-slf4j for instance. this clashes with the shaded log4j however. also i see com.google shaded in many (most?) of the flink jars.</span><br />
+<span class="irc-date">[17:48]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[17:49]</span> <span class="irc-navy">* TheChistoso2 (c6873043@gateway/web/cgi-irc/kiwiirc.com/ip.198.135.48.67) Quit (Client Quit)</span><br />
+<span class="irc-date">[17:49]</span> <span class="irc-green">* TheChistoso2 (c6873043@gateway/web/cgi-irc/kiwiirc.com/ip.198.135.48.67) has joined #flink</span><br />
+<span class="irc-date">[17:49]</span> <span class="irc-black">&lt;TheChistoso&gt; rmetzger: hello :)</span><br />
+<span class="irc-date">[17:50]</span> <span class="irc-black">&lt;rmetzger&gt; the artifacts are not containing the scala version, right</span><br />
+<span class="irc-date">[17:50]</span> <span class="irc-black">&lt;rmetzger&gt; by default, we build against 2.10</span><br />
+<span class="irc-date">[17:50]</span> <span class="irc-black">&lt;TheChistoso&gt; 2.11 has been out for a long time — 2.10 is bad news for me. i built 0.10 specifically because there weren’t published 2.11 artifacts</span><br />
+<span class="irc-date">[17:51]</span> <span class="irc-black">&lt;rmetzger&gt; yes, you can build flink for scala 2.11</span><br />
+<span class="irc-date">[17:51]</span> <span class="irc-black">&lt;TheChistoso&gt; i did that and am using my own build against 2.11</span><br />
+<span class="irc-date">[17:51]</span> <span class="irc-black">&lt;rmetzger&gt; there is a pending pull request to deploy also a _2.11 version of Flink</span><br />
+<span class="irc-date">[17:52]</span> <span class="irc-black">&lt;rmetzger&gt; I agree that we need to fix this soon</span><br />
+<span class="irc-date">[17:52]</span> <span class="irc-black">&lt;TheChistoso&gt; you’ll want both _2.10 and _2.11 mainly because that’s how SBT resolves the differences b/t cross buiilt artifacts</span><br />
+<span class="irc-date">[17:52]</span> <span class="irc-black">&lt;rmetzger&gt; regarding your other question: we are shading guava into our own namespace so that users can use whatever guava version they want</span><br />
+<span class="irc-date">[17:52]</span> <span class="irc-black">&lt;rmetzger&gt; exactly, we'll have every artifact with the version suffix</span><br />
+<span class="irc-date">[17:53]</span> <span class="irc-black">&lt;rmetzger&gt; sadly, maven doesn't really support attaching the version into the artifactid</span><br />
+<span class="irc-date">[17:53]</span> <span class="irc-black">&lt;TheChistoso&gt; the issue is that it appears in multiple jars — better to shade it into a single artifact that’s a dependency of others instead of having it appear multiple times across different jars :)</span><br />
+<span class="irc-date">[17:54]</span> <span class="irc-black">&lt;TheChistoso&gt; btw — was happy to see akka in the deps :)</span><br />
+<span class="irc-date">[17:54]</span> <span class="irc-black">&lt;rmetzger&gt; in the final fat-jar which is part of the binary distribution of flink, there are no duplicate classes</span><br />
+<span class="irc-date">[17:54]</span> <span class="irc-black">&lt;TheChistoso&gt; my main concern right now is the log4j dependency</span><br />
+<span class="irc-date">[17:54]</span> <span class="irc-black">&lt;TheChistoso&gt; this other stuff is anciliary</span><br />
+<span class="irc-date">[17:55]</span> <span class="irc-black">&lt;rmetzger&gt; this page describes our shading ;) <a href="https://cwiki.apache.org/confluence/display/FLINK/Hadoop+Versions+and+Dependency+Shading">https://cwiki.apache.org/confluence/display/FLINK/Hadoop+Versions+and+Dependency+Shading</a></span><br />
+<span class="irc-date">[17:55]</span> <span class="irc-black">&lt;rmetzger&gt; okay, log4j</span><br />
+<span class="irc-date">[17:55]</span> <span class="irc-black">&lt;TheChistoso&gt; (i would like to see published 0.10 snapshots targetting 2.11 soon though please)</span><br />
+<span class="irc-date">[17:57]</span> <span class="irc-black">&lt;rmetzger&gt; I'll give the _2.11 build-thing a bit more priority :)</span><br />
+<span class="irc-date">[18:00]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[18:01]</span> <span class="irc-black">&lt;rmetzger&gt; I don't think we are shading log4j?</span><br />
+<span class="irc-date">[18:02]</span> <span class="irc-black">&lt;TheChistoso&gt; it’s being included in the yarn flink jar</span><br />
+<span class="irc-date">[18:02]</span> <span class="irc-navy">* TheChistoso (~ThatGuy@198.135.48.67) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[18:03]</span> <span class="irc-navy">* TheChistoso2 (c6873043@gateway/web/cgi-irc/kiwiirc.com/ip.198.135.48.67) Quit (Quit: <a href="http://www.kiwiirc.com/">http://www.kiwiirc.com/</a> - A hand crafted IRC client)</span><br />
+<span class="irc-date">[18:04]</span> <span class="irc-black">&lt;rmetzger&gt; mh, now he's gone</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-green">* TheChistoso (~TheChisto@69.53.232.117) has joined #flink</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-black">&lt;rmetzger&gt; welcome back</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-green">* TheChistoso2 (4535e875@gateway/web/cgi-irc/kiwiirc.com/ip.69.53.232.117) has joined #flink</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-black">&lt;rmetzger&gt; so you would like to use a different log4j version?</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-navy">* alex_1234 (~alex@91.65.163.198) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[18:07]</span> <span class="irc-black">&lt;TheChistoso&gt; (for context) i’m using the kafka connector and i’ve removed the log4j dependency in lieu of log4j-over-slf4j. not a problem except if log4j is shaded and then clashes with log4j-over-slf4j</span><br />
+<span class="irc-date">[18:08]</span> <span class="irc-black">&lt;TheChistoso&gt; it’s not an issue w/ the log4j version — but now that i think about it, i might have another way of making this work...</span><br />
+<span class="irc-date">[18:08]</span> <span class="irc-black">&lt;TheChistoso&gt; brb...</span><br />
+<span class="irc-date">[18:08]</span> <span class="irc-black">&lt;rmetzger&gt; ok</span><br />
+<span class="irc-date">[18:10]</span> <span class="irc-black">&lt;rmetzger&gt; why are you adding the log4j-over-slf4j dependency?</span><br />
+<span class="irc-date">[18:11]</span> <span class="irc-black">&lt;TheChistoso&gt; i prefer logback and i’m having kafka’s logging redirect log4j through slf4j which redirects to logback</span><br />
+<span class="irc-date">[18:11]</span> <span class="irc-black">&lt;rmetzger&gt; I see</span><br />
+<span class="irc-date">[18:12]</span> <span class="irc-black">&lt;rmetzger&gt; and kafka is using log4j?</span><br />
+<span class="irc-date">[18:12]</span> <span class="irc-black">&lt;TheChistoso&gt; iirc yes</span><br />
+<span class="irc-date">[18:12]</span> <span class="irc-black">&lt;rmetzger&gt; I'm currently checking ...</span><br />
+<span class="irc-date">[18:13]</span> <span class="irc-black">&lt;rmetzger&gt; Kafka is also using slf4j</span><br />
+<span class="irc-date">[18:14]</span> <span class="irc-black">&lt;rmetzger&gt; so both Flink and kafka are using slf4j</span><br />
+<span class="irc-date">[18:14]</span> <span class="irc-black">&lt;rmetzger&gt; and flink is using log4j as the default backend for slf4j</span><br />
+<span class="irc-date">[18:14]</span> <span class="irc-black">&lt;TheChistoso&gt; from what i can tell, kafka has a dependency on slf4j-log4j12</span><br />
+<span class="irc-date">[18:14]</span> <span class="irc-black">&lt;TheChistoso&gt; which transitively pulls in log4j. not a problem b/c i can override it since it’s not shaded</span><br />
+<span class="irc-date">[18:15]</span> <span class="irc-black">&lt;TheChistoso&gt; IMO these libs should only have a compile dep on slf4j and a runtime dependency on (e.g.) logback or log4j</span><br />
+<span class="irc-date">[18:16]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[18:16]</span> <span class="irc-black">&lt;rmetzger&gt; the problem is that flink's shaded jar contains log4j</span><br />
+<span class="irc-date">[18:16]</span> <span class="irc-black">&lt;TheChistoso&gt; yes</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;rmetzger&gt; have you tried the "dirty" approach of just putting the logback jar into flink's lib folder (or as a dependency into maven)</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;rmetzger&gt; I don't know what happens when you have both log4j and logback at runtime</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;TheChistoso&gt; i haven’t</span><br />
+<span class="irc-date">[18:18]</span> <span class="irc-black">&lt;TheChistoso&gt; the issue is that slf4j specifically looks for the case where you have log4j and log4j-over-slf4j</span><br />
+<span class="irc-date">[18:18]</span> <span class="irc-navy">* TheChistoso2 (4535e875@gateway/web/cgi-irc/kiwiirc.com/ip.69.53.232.117) Quit (Quit: <a href="http://www.kiwiirc.com/">http://www.kiwiirc.com/</a> - A hand crafted IRC client)</span><br />
+<span class="irc-date">[18:18]</span> <span class="irc-black">&lt;rmetzger&gt; but I don't think that you need the log4j-over-slf4j dependency</span><br />
+<span class="irc-date">[18:18]</span> <span class="irc-black">&lt;TheChistoso&gt; <a href="http://www.slf4j.org/codes.html#log4jDelegationLoop">http://www.slf4j.org/codes.html#log4jDelegationLoop</a></span><br />
+<span class="irc-date">[18:19]</span> <span class="irc-black">&lt;TheChistoso&gt; i’m considering how i can rearrange my dependencies so this works</span><br />
+<span class="irc-date">[18:19]</span> <span class="irc-green">* till (~till@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[18:19]</span> <span class="irc-black">&lt;rmetzger&gt; I invited till to join us because he has a better understanding of our logging situation</span><br />
+<span class="irc-date">[18:21]</span> <span class="irc-black">&lt;TheChistoso&gt; rmetzger: tyvm</span><br />
+<span class="irc-date">[18:24]</span> <span class="irc-black">&lt;rmetzger&gt; are you facing the issues when running flink on a cluster or in your IDE?</span><br />
+<span class="irc-date">[18:25]</span> <span class="irc-black">&lt;TheChistoso&gt; for now i’m only running it locally</span><br />
+<span class="irc-date">[18:26]</span> <span class="irc-black">&lt;rmetzger&gt; let me check the flink-shaded-include-yarn jar</span><br />
+<span class="irc-date">[18:27]</span> <span class="irc-black">&lt;TheChistoso&gt; i did manage to get it to run after mucking w/ my deps. it’s not clean though so am not thrilled ;p</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-black">&lt;rmetzger&gt; yeah, so its certainly a mistake that flink's fat jar's contain log4j</span><br />
+<span class="irc-date">[18:29]</span> <span class="irc-black">&lt;rmetzger&gt; so what is more important for you: scala 2.11 builds for 0.10-SNAPSHOT or fat jar's without log4j ?</span><br />
+<span class="irc-date">[18:30]</span> <span class="irc-black">&lt;TheChistoso&gt; haha well the log4j issue is more imminent right now. but can i say “both”? ;p</span><br />
+<span class="irc-date">[18:30]</span> <span class="irc-black">&lt;rmetzger&gt; okay, I'll do the log4j issue first.</span><br />
+<span class="irc-date">[18:30]</span> <span class="irc-black">&lt;rmetzger&gt; sadly, my brain is not advanced enough to work on two tasks at the same time</span><br />
+<span class="irc-date">[18:31]</span> <span class="irc-black">&lt;TheChistoso&gt; haha my wife observes the same about me</span><br />
+<span class="irc-date">[18:32]</span> <span class="irc-black">&lt;rmetzger&gt; ;)</span><br />
+<span class="irc-date">[19:04]</span> <span class="irc-navy">* till (~till@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:06]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[19:59]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.232.117) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[20:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[20:36]</span> <span class="irc-green">* till (~till@ip5f5aebb2.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:06]</span> <span class="irc-green">* TheChistoso (~TheChisto@69.53.232.0) has joined #flink</span><br />
+<span class="irc-date">[22:07]</span> <span class="irc-navy">* till (~till@ip5f5aebb2.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-green">* till (~till@ip5f5aebb2.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:45]</span> <span class="irc-navy">* TheChistoso (~TheChisto@69.53.232.0) Quit (Quit: TheChistoso)</span><br />
+<span class="irc-date">[23:35]</span> <span class="irc-green">* TheChistoso (~TheChisto@69.53.232.0) has joined #flink</span><br />
