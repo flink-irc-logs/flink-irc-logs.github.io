@@ -82,3 +82,26 @@ categories: irc logs
 <span class="irc-date">[13:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:998c:25fb:b6fa:3798) has joined #flink</span><br />
 <span class="irc-date">[13:52]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;rmetzger&gt; @aljoscha: alex_1234 left the IRC channel (it seems we can not see see when somebody comes or goes)</span><br />
 <span class="irc-date">[13:58]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[14:08]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:19]</span> <span class="irc-green">* ChanServ sets mode +o rmetzger</span><br />
+<span class="irc-date">[14:19]</span> <span class="irc-green">* rmetzger changes topic to 'Welcome to the Apache Flink IRC channel | Flink website: <a href="http://flink.apache.org/">http://flink.apache.org/</a> | Latest stable release: 0.9.1 | Note that this channel is logged and the logs are published online: <a href="http://flink-irc-logs.github.io/'">http://flink-irc-logs.github.io/'</a></span><br />
+<span class="irc-date">[16:19]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[16:43]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:998c:25fb:b6fa:3798) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:49]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[17:55]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:24]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:24]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:30]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:55]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has left #flink</span><br />
+<span class="irc-date">[19:43]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[19:47]</span> <span class="irc-black">&lt;alex_1234&gt; Hi, I'back with a new question :) .. I have a window with window(Count.of(1000)) and a trigger policy of 13 seconds which is then followed by flatten().print() .. I would expect to see some new lines in my console every 13 seconds but I see them much more often.. thinking that a print is shown on every incoming item seems wrong because sometimes the print pauses but the items are coming without any break. Somebody?</span><br />
+<span class="irc-date">[20:42]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[21:07]</span> <span class="irc-green">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) has joined #flink</span><br />
+<span class="irc-date">[21:07]</span> <span class="irc-navy">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) Quit (Changing host)</span><br />
+<span class="irc-date">[21:07]</span> <span class="irc-green">* rmetzger (~rzsz@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[21:47]</span> <span class="irc-navy">* rmetzger (~rzsz@apache/committer/rmetzger) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[22:50]</span> <span class="irc-green">* plamb (~plamb@2601:1c0:4a03:5900:2ccd:cd73:9446:2654) has joined #flink</span><br />
+<span class="irc-date">[23:34]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[23:55]</span> <span class="irc-navy">* plamb (~plamb@2601:1c0:4a03:5900:2ccd:cd73:9446:2654) Quit (Remote host closed the connection)</span><br />

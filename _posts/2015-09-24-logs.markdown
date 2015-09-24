@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-24"
+date:   2015-09-24 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:31]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:d061:35db:b9f:e020) has joined #flink</span><br />
+<span class="irc-date">[4:35]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[4:35]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:50]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:d061:35db:b9f:e020) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:38]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
