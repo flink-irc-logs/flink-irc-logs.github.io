@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-28"
+date:   2015-09-28 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:38]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[2:48]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:58]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:59]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:02]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[3:07]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:23]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[3:27]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:37]</span> <span class="irc-green">* katychuang_ (sid64947@gateway/web/irccloud.com/x-uoauvqyeapekwxkj) has joined #flink</span><br />
+<span class="irc-date">[3:38]</span> <span class="irc-navy">* katychuang (sid64947@gateway/web/irccloud.com/x-imkyfpsuundcqgtb) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[3:39]</span> <span class="irc-green">* katychuang_ is now known as katychuang</span><br />
+<span class="irc-date">[3:56]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[5:32]</span> <span class="irc-green">* jalateras (~jalateras@CPE-120-144-146-167.lnse5.lon.bigpond.net.au) has joined #flink</span><br />
+<span class="irc-date">[5:33]</span> <span class="irc-black">&lt;jalateras&gt; I have just started looking an flink and was wondering whether it was stable enough to run in a production environment.</span><br />
+<span class="irc-date">[5:34]</span> <span class="irc-black">&lt;jalateras&gt; we are looking at using kafka as our underlying fabric and then use flink, samza or kafka streams on top of that</span><br />
+<span class="irc-date">[5:35]</span> <span class="irc-black">&lt;jalateras&gt; What sort of vizualization engines are people usinfg on top of that for analytics/insights? I have started reading about Apache Zeppelin but was curious to what others are using</span><br />
+<span class="irc-date">[5:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3475:4254:8406:a452) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[6:56]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[7:57]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[8:01]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[8:35]</span> <span class="irc-green">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) has joined #flink</span><br />
+<span class="irc-date">[8:35]</span> <span class="irc-navy">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) Quit (Changing host)</span><br />
+<span class="irc-date">[8:35]</span> <span class="irc-green">* rmetzger (~rzsz@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[8:42]</span> <span class="irc-navy">* jalateras (~jalateras@CPE-120-144-146-167.lnse5.lon.bigpond.net.au) Quit ()</span><br />
+<span class="irc-date">[9:47]</span> <span class="irc-navy">* rmetzger (~rzsz@apache/committer/rmetzger) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[10:51]</span> <span class="irc-green">* kostas_ (5b40315a@gateway/web/freenode/ip.91.64.49.90) has joined #flink</span><br />
+<span class="irc-date">[11:01]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[11:15]</span> <span class="irc-navy">* kostas_ (5b40315a@gateway/web/freenode/ip.91.64.49.90) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-green">* rmetzger (~rmet@88.128.80.84) has joined #flink</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-navy">* rmetzger (~rmet@88.128.80.84) Quit (Changing host)</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Client Quit)</span><br />
+<span class="irc-date">[11:30]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[16:01]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[16:22]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[16:56]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[18:16]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
+<span class="irc-date">[19:19]</span> <span class="irc-green">* hsaputra (~hsaputra@50.240.223.121) has joined #flink</span><br />
+<span class="irc-date">[19:29]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[20:03]</span> <span class="irc-navy">* hsaputra (~hsaputra@50.240.223.121) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[22:37]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />

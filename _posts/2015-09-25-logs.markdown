@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-25"
+date:   2015-09-25 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) has joined #flink</span><br />
+<span class="irc-date">[1:54]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) has joined #flink</span><br />
+<span class="irc-date">[1:56]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[3:36]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:58]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:36]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[4:41]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[6:05]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) has joined #flink</span><br />
+<span class="irc-date">[6:10]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[7:06]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) has joined #flink</span><br />
+<span class="irc-date">[7:11]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[8:07]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) has joined #flink</span><br />
+<span class="irc-date">[8:10]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:2c81:54a8:5140:2bbd) has joined #flink</span><br />
+<span class="irc-date">[8:13]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:150e:8f2:d59:5588) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[8:22]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:2c81:54a8:5140:2bbd) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[8:39]</span> <span class="irc-navy">* rmetzger (~rzsz@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[8:39]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[8:45]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[10:04]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[10:09]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[10:23]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:24]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Client Quit)</span><br />
+<span class="irc-date">[10:24]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:55]</span> <span class="irc-green">* mjsax_ (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:59]</span> <span class="irc-navy">* mjsax_ (~mjsax@141.20.27.42) Quit (Client Quit)</span><br />
+<span class="irc-date">[11:53]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[12:05]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[12:09]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-green">* qwerty_nor1 (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[12:43]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
+<span class="irc-date">[15:09]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c103:a00:ad73:f2ca:5169:ab57) has joined #flink</span><br />
+<span class="irc-date">[15:53]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[15:56]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c103:a00:ad73:f2ca:5169:ab57) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[16:00]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[16:05]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:689e:124b:3b10:ede) has joined #flink</span><br />
+<span class="irc-date">[16:48]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:02]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[17:09]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
+<span class="irc-date">[18:36]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[18:40]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[18:40]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[19:36]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[19:40]</span> <span class="irc-green">* hsaputra (~hsaputra@50.240.223.121) has joined #flink</span><br />

@@ -9,3 +9,83 @@ categories: irc logs
 <span class="irc-date">[4:35]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[4:50]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:d061:35db:b9f:e020) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[9:38]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[10:30]</span> <span class="irc-green">* aljoscha (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[10:52]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[10:59]</span> <span class="irc-green">* aljoscha_ (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[11:02]</span> <span class="irc-navy">* aljoscha (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[11:02]</span> <span class="irc-green">* qwerty_nor1 (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:04]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 268 seconds)</span><br />
+<span class="irc-date">[11:04]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
+<span class="irc-date">[12:01]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; hey alex</span><br />
+<span class="irc-date">[12:02]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; the composition of triggers and eviction policies has a few issues that may cause them to not work reliably...</span><br />
+<span class="irc-date">[12:03]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; we have started replacing them this week with a new and more reliable mechanism</span><br />
+<span class="irc-date">[12:04]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; first parts have been merged, I expect the remainder to be in this week or early next week...</span><br />
+<span class="irc-date">[12:14]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[13:18]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[13:18]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[13:19]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has left #flink</span><br />
+<span class="irc-date">[13:19]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[13:23]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[13:23]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[13:24]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has left #flink</span><br />
+<span class="irc-date">[13:28]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[13:28]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[13:28]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[13:54]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[13:56]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[13:57]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has left #flink</span><br />
+<span class="irc-date">[13:57]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[14:05]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:608e:5eff:12ce:f93c) has joined #flink</span><br />
+<span class="irc-date">[14:58]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:59]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[14:59]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:01]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[15:02]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has left #flink</span><br />
+<span class="irc-date">[15:02]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:03]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[15:03]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[15:03]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has left #flink</span><br />
+<span class="irc-date">[15:06]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:07]</span> <span class="irc-green">* Slackbot5 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[15:07]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[15:08]</span> <span class="irc-black">&lt;mxm_&gt; Hi Flinksters!</span><br />
+<span class="irc-date">[15:10]</span> <span class="irc-black">&lt;mjsax&gt; hi</span><br />
+<span class="irc-date">[15:45]</span> <span class="irc-navy">* aljoscha_ (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) Quit ()</span><br />
+<span class="irc-date">[16:34]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit ()</span><br />
+<span class="irc-date">[16:44]</span> <span class="irc-green">* mjsax (~mjsax@2a02:8109:83c0:1930:e884:2472:706c:7243) has joined #flink</span><br />
+<span class="irc-date">[16:49]</span> <span class="irc-green">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:50]</span> <span class="irc-navy">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[16:50]</span> <span class="irc-green">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:51]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[16:52]</span> <span class="irc-navy">* mjsax (~mjsax@2a02:8109:83c0:1930:e884:2472:706c:7243) Quit (Quit: Leaving)</span><br />
+<span class="irc-date">[16:53]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:53]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[16:53]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:53]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:54]</span> <span class="irc-navy">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:54]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:06]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[17:30]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[17:30]</span> <span class="irc-green">* mjsax_ (~mjsax@2a02:8109:83c0:1930:e884:2472:706c:7243) has joined #flink</span><br />
+<span class="irc-date">[17:30]</span> <span class="irc-navy">* mjsax_ (~mjsax@2a02:8109:83c0:1930:e884:2472:706c:7243) Quit (Client Quit)</span><br />
+<span class="irc-date">[17:44]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:608e:5eff:12ce:f93c) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[18:07]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[18:07]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[18:22]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit ()</span><br />
+<span class="irc-date">[18:41]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:42]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[18:58]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[19:52]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:55]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:55]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[20:00]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:10]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[20:10]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[20:52]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[20:52]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[20:57]</span> <span class="irc-green">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) has joined #flink</span><br />
+<span class="irc-date">[20:57]</span> <span class="irc-navy">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) Quit (Changing host)</span><br />
+<span class="irc-date">[20:57]</span> <span class="irc-green">* rmetzger (~rzsz@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[23:55]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />

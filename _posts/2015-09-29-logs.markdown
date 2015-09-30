@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-29"
+date:   2015-09-29 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:28]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[0:33]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:ec48:608c:50fd:e28a) has joined #flink</span><br />
+<span class="irc-date">[0:59]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ad6b:29e1:d181:8495) has joined #flink</span><br />
+<span class="irc-date">[1:00]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:ec48:608c:50fd:e28a) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[1:03]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ad6b:29e1:d181:8495) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[1:04]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) has joined #flink</span><br />
+<span class="irc-date">[1:10]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[1:11]</span> <span class="irc-green">* mj (~mj@2a02:8109:83c0:1930:8417:d039:95e:8094) has joined #flink</span><br />
+<span class="irc-date">[1:12]</span> <span class="irc-navy">* mj (~mj@2a02:8109:83c0:1930:8417:d039:95e:8094) Quit (Client Quit)</span><br />
+<span class="irc-date">[1:20]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[1:20]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[1:41]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[3:42]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[3:43]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:47]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2ca9:4fdb:2636:5a83) has joined #flink</span><br />
+<span class="irc-date">[4:52]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2ca9:4fdb:2636:5a83) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[5:26]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[5:31]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:48]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2ca9:4fdb:2636:5a83) has joined #flink</span><br />
+<span class="irc-date">[5:53]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2ca9:4fdb:2636:5a83) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[8:59]</span> <span class="irc-green">* phameete (5c6e670d@gateway/web/freenode/ip.92.110.103.13) has joined #flink</span><br />
+<span class="irc-date">[9:00]</span> <span class="irc-black">&lt;phameete&gt; Good morning :-)</span><br />
+<span class="irc-date">[9:00]</span> <span class="irc-black">&lt;phameete&gt; If I would like to read a dataset from multiple files in a folder, what would be a good way to go by doing such a thing?</span><br />
+<span class="irc-date">[9:29]</span> <span class="irc-black">&lt;phameete&gt; oh awesome this just works out of the box :-) cheers</span><br />
+<span class="irc-date">[9:48]</span> <span class="irc-navy">* phameete (5c6e670d@gateway/web/freenode/ip.92.110.103.13) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[11:04]</span> <span class="irc-green">* schizhov (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[11:14]</span> <span class="irc-green">* schizhov1 (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[11:14]</span> <span class="irc-navy">* schizhov (~Adium@109.74.48.129) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[11:16]</span> <span class="irc-navy">* schizhov1 (~Adium@109.74.48.129) Quit (Client Quit)</span><br />
+<span class="irc-date">[11:36]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[11:38]</span> <span class="irc-green">* schizhov1 (~Adium@2620:65:0:aff:1::3) has joined #flink</span><br />
+<span class="irc-date">[11:40]</span> <span class="irc-green">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[11:40]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[11:52]</span> <span class="irc-navy">* mjsax_ (~mjsax@wlan.informatik.hu-berlin.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[12:02]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[12:08]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[12:09]</span> <span class="irc-navy">* schizhov1 (~Adium@2620:65:0:aff:1::3) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:15]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[13:19]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[13:51]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Quit: qwerty_nor)</span><br />
+<span class="irc-date">[13:51]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[14:08]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[14:08]</span> <span class="irc-green">* schizhov1 (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[14:10]</span> <span class="irc-navy">* schizhov1 (~Adium@109.74.48.129) Quit (Client Quit)</span><br />
+<span class="irc-date">[14:12]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[14:15]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:499f:1bd4:f0bc:4407) has joined #flink</span><br />
+<span class="irc-date">[15:30]</span> <span class="irc-green">* schizhov (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[15:32]</span> <span class="irc-navy">* schizhov (~Adium@109.74.48.129) Quit (Client Quit)</span><br />
+<span class="irc-date">[15:52]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[16:03]</span> <span class="irc-green">* schizhov (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[16:03]</span> <span class="irc-navy">* schizhov (~Adium@109.74.48.129) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[16:04]</span> <span class="irc-green">* schizhov (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[16:07]</span> <span class="irc-green">* schizhov1 (~Adium@109.74.48.129) has joined #flink</span><br />
+<span class="irc-date">[16:07]</span> <span class="irc-navy">* schizhov (~Adium@109.74.48.129) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[16:47]</span> <span class="irc-navy">* schizhov1 (~Adium@109.74.48.129) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[16:49]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:12]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[17:22]</span> <span class="irc-green">* schizhov1 (~Adium@2620:65:0:aff:1::18) has joined #flink</span><br />
+<span class="irc-date">[17:24]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[17:36]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:499f:1bd4:f0bc:4407) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[17:41]</span> <span class="irc-navy">* schizhov1 (~Adium@2620:65:0:aff:1::18) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[17:41]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[17:47]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[17:49]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[18:33]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit ()</span><br />
+<span class="irc-date">[19:20]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[19:31]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[20:42]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[21:43]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[22:14]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[22:27]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[23:07]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />

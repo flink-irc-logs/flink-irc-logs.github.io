@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-27"
+date:   2015-09-27 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:09]</span> <span class="irc-navy">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[0:19]</span> <span class="irc-green">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) has joined #flink</span><br />
+<span class="irc-date">[0:21]</span> <span class="irc-navy">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[0:21]</span> <span class="irc-green">* vasu (~vasu@cpe-172-73-137-224.carolina.res.rr.com) has joined #flink</span><br />
+<span class="irc-date">[0:40]</span> <span class="irc-navy">* vasu (~vasu@cpe-172-73-137-224.carolina.res.rr.com) Quit ()</span><br />
+<span class="irc-date">[0:40]</span> <span class="irc-green">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) has joined #flink</span><br />
+<span class="irc-date">[0:44]</span> <span class="irc-navy">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[0:44]</span> <span class="irc-green">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) has joined #flink</span><br />
+<span class="irc-date">[0:57]</span> <span class="irc-green">* vasu_ (~vasu@2606:a000:6628:b700:fcdd:d85:6e74:c075) has joined #flink</span><br />
+<span class="irc-date">[0:59]</span> <span class="irc-navy">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[1:09]</span> <span class="irc-green">* vasu (~vasu@cpe-172-73-137-224.carolina.res.rr.com) has joined #flink</span><br />
+<span class="irc-date">[1:12]</span> <span class="irc-navy">* vasu_ (~vasu@2606:a000:6628:b700:fcdd:d85:6e74:c075) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[1:24]</span> <span class="irc-navy">* vasu (~vasu@cpe-172-73-137-224.carolina.res.rr.com) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:40]</span> <span class="irc-green">* vasu (~vasu@2606:a000:6628:b700:2843:5d03:bcf9:e47f) has joined #flink</span><br />
+<span class="irc-date">[1:45]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[1:50]</span> <span class="irc-navy">* vasu (~vasu@2606:a000:6628:b700:2843:5d03:bcf9:e47f) Quit ()</span><br />
+<span class="irc-date">[3:24]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:24]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[4:30]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[5:26]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[5:31]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[6:27]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[6:32]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[7:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[7:32]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[8:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[8:33]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[9:29]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[9:33]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[9:34]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[11:35]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[11:39]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:46]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[12:47]</span> <span class="irc-green">* mj (~mj@2a02:8109:83c0:1930:2940:1472:9105:55f4) has joined #flink</span><br />
+<span class="irc-date">[12:48]</span> <span class="irc-navy">* mj (~mj@2a02:8109:83c0:1930:2940:1472:9105:55f4) Quit (Client Quit)</span><br />
+<span class="irc-date">[12:49]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[12:49]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2957:eef6:e47a:d2be) has joined #flink</span><br />
+<span class="irc-date">[12:51]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[13:32]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2957:eef6:e47a:d2be) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:37]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[17:37]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3475:4254:8406:a452) has joined #flink</span><br />
+<span class="irc-date">[18:24]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[19:20]</span> <span class="irc-green">* dmitry_ya (5bdb1885@gateway/web/freenode/ip.91.219.24.133) has joined #flink</span><br />
+<span class="irc-date">[19:55]</span> <span class="irc-navy">* dmitry_ya (5bdb1885@gateway/web/freenode/ip.91.219.24.133) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[20:35]</span> <span class="irc-green">* huylv (~huylv@89.101.114.155) has joined #flink</span><br />
+<span class="irc-date">[20:35]</span> <span class="irc-green">* huylv (~huylv@89.101.114.155) has left #flink</span><br />
+<span class="irc-date">[20:51]</span> <span class="irc-green">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) has joined #flink</span><br />
+<span class="irc-date">[20:51]</span> <span class="irc-navy">* rmetzger (~rzsz@2a02:8109:8140:10c4:225:22ff:fede:af99) Quit (Changing host)</span><br />
+<span class="irc-date">[20:51]</span> <span class="irc-green">* rmetzger (~rzsz@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-navy">* rmetzger (~rzsz@apache/committer/rmetzger) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[22:43]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3475:4254:8406:a452) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:44]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3475:4254:8406:a452) has joined #flink</span><br />
+<span class="irc-date">[22:48]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3475:4254:8406:a452) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:48]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3475:4254:8406:a452) has joined #flink</span><br />

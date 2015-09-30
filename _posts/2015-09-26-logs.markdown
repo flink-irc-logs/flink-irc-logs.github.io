@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "IRC Logs of 2015-09-26"
+date:   2015-09-26 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:34]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:49]</span> <span class="irc-navy">* hsaputra (~hsaputra@50.240.223.121) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[3:59]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[4:01]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:689e:124b:3b10:ede) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:24]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@cinchless-quicksand.volia.net) has joined #flink</span><br />
+<span class="irc-date">[9:25]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@cinchless-quicksand.volia.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[10:08]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[10:50]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[10:50]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[14:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:b9e1:208f:84b2:f9e6) has joined #flink</span><br />
+<span class="irc-date">[15:06]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[15:07]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[15:49]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:51]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[15:52]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:59]</span> <span class="irc-green">* mjsax_ (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[16:00]</span> <span class="irc-green">* mjsax__ (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[16:00]</span> <span class="irc-navy">* mjsax__ (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:00]</span> <span class="irc-navy">* mjsax_ (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:42]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:b9e1:208f:84b2:f9e6) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:43]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:b9e1:208f:84b2:f9e6) has joined #flink</span><br />
+<span class="irc-date">[20:47]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:b9e1:208f:84b2:f9e6) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:b9e1:208f:84b2:f9e6) has joined #flink</span><br />
+<span class="irc-date">[22:07]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:b9e1:208f:84b2:f9e6) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:38]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0fb:a094:1c36:61bf) has joined #flink</span><br />
+<span class="irc-date">[22:45]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[23:08]</span> <span class="irc-navy">* TheChistoso (uid115412@gateway/web/irccloud.com/x-imhmonhxhhmbdcen) Quit (Quit: Connection closed for inactivity)</span><br />
+<span class="irc-date">[23:39]</span> <span class="irc-green">* vasu (~vasu@2606:a000:6628:b700:6c8d:6307:2346:745) has joined #flink</span><br />
