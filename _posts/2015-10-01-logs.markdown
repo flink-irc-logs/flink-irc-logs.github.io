@@ -48,3 +48,7 @@ categories: irc logs
 <span class="irc-date">[20:44]</span> <span class="irc-navy">* bandrews (~textual@pool-98-113-39-9.nycmny.fios.verizon.net) Quit (Client Quit)</span><br />
 <span class="irc-date">[21:29]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 260 seconds)</span><br />
 <span class="irc-date">[22:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[23:48]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[23:52]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[23:52]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[23:59]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Read error: error:1408F119:SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac)</span><br />
