@@ -2,6 +2,7 @@
 
 LOG_DIR=/home/robert/irc-logger/logs
 
+echo "Update markdown files"
 for log in `find $LOG_DIR`; do
 	filename=$(basename "$log")
 	extension="${filename##*.}"
@@ -15,6 +16,12 @@ for log in `find $LOG_DIR`; do
 		echo "categories: irc logs" >> $TARGET
 		echo "---" >> $TARGET
 		cat $log >> $TARGET
+		echo "updated $filename"
 	fi
-
 done
+
+git add _posts
+NOW=`date`
+git commit -am "Update of the logs on $NOW"
+git push
+

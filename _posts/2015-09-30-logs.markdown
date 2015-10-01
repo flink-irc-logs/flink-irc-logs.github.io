@@ -59,3 +59,21 @@ categories: irc logs
 <span class="irc-date">[15:52]</span> <span class="irc-navy">* mj_ (~mj@2a02:8109:83c0:1930:88a1:4d44:a10b:9396) Quit (Client Quit)</span><br />
 <span class="irc-date">[16:00]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[16:26]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[16:30]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Client Quit)</span><br />
+<span class="irc-date">[16:37]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[16:43]</span> <span class="irc-navy">* schizhov (~Adium@213.253.214.218) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[16:44]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:49]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[17:02]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[17:06]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed57.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[17:07]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[17:08]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[18:00]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:27]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-green">* rml63 (cec4b80b@gateway/web/freenode/ip.206.196.184.11) has joined #flink</span><br />
+<span class="irc-date">[18:30]</span> <span class="irc-black">&lt;rml63&gt; Hi guys, I just saw the post on hackernews yesterday, I was wondering if anyone knows if Flink runs one JVM per job like hadoop?</span><br />
+<span class="irc-date">[18:42]</span> <span class="irc-navy">* rml63 (cec4b80b@gateway/web/freenode/ip.206.196.184.11) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[18:43]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:00]</span> <span class="irc-brown">-mquin- [Global Notice] On or around Friday, October 2nd we will be cleaning up the services database. Now's a good time to ensure you identify to services when connecting. Check out <a href="http://blog.freenode.net/2015/09/services-database-purge/">http://blog.freenode.net/2015/09/services-database-purge/</a></span><br />
+<span class="irc-date">[21:04]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has joined #flink</span><br />
+<span class="irc-date">[22:43]</span> <span class="irc-green">* schizhov (~Adium@213.253.214.218) has left #flink</span><br />

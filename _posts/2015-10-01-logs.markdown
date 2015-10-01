@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-01"
+date:   2015-10-01 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:26]</span> <span class="irc-green">* rmetzger (~rmet@2a02:8109:8140:10c4:2ab2:bdff:fe69:f1e) has joined #flink</span><br />
+<span class="irc-date">[0:26]</span> <span class="irc-navy">* rmetzger (~rmet@2a02:8109:8140:10c4:2ab2:bdff:fe69:f1e) Quit (Changing host)</span><br />
+<span class="irc-date">[0:26]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[1:21]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[3:27]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:43]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:d838:c7f3:10d9:48a1) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:00]</span> <span class="irc-brown">-mquin- [Global Notice] On or around Friday, October 2nd we will be cleaning up the services database. Now's a good time to ensure you identify to services when connecting. Check out <a href="http://blog.freenode.net/2015/09/services-database-purge/">http://blog.freenode.net/2015/09/services-database-purge/</a></span><br />
+<span class="irc-date">[4:27]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[4:32]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[7:29]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[7:34]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[8:44]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; Flink brings up worker JVMs that stay around for multiple jobs, if you want to.</span><br />
+<span class="irc-date">[8:45]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; For use with YARN, there are both options: (1) start a "session", which means start a set of worker JVMs and use them for many jobs, then shut them down (2) start workers dedicated for one job and shut them down again</span><br />
+<span class="irc-date">[8:45]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; Inside one jobs, JVMs usually handle more than one type operator (such as mappers and reducers)</span><br />
+<span class="irc-date">[8:46]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;stephan&gt; a single JVM can also have multiple slots for multiple concurrent mappers or reducers (or joins or whatever), which can be useful if you have data sets that are broadcasted or otherwise shared between mappers/reducers</span><br />
+<span class="irc-date">[8:47]</span> <span class="irc-green">* aljoscha (~aljoscha@x55b60fe4.dyn.telefonica.de) has joined #flink</span><br />
+<span class="irc-date">[8:48]</span> <span class="irc-black">&lt;Slackbot5&gt; &lt;aljoscha&gt; @stephan rml63 is not here anymore so he will never see this response</span><br />
+<span class="irc-date">[8:48]</span> <span class="irc-navy">* aljoscha (~aljoscha@x55b60fe4.dyn.telefonica.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[10:10]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
