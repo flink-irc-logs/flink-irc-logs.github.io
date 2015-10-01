@@ -28,3 +28,4 @@ categories: irc logs
 <span class="irc-date">[10:13]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[10:13]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
 <span class="irc-date">[10:13]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[11:47]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
