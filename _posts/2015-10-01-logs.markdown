@@ -46,3 +46,5 @@ categories: irc logs
 <span class="irc-date">[19:57]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
 <span class="irc-date">[20:44]</span> <span class="irc-green">* bandrews (~textual@pool-98-113-39-9.nycmny.fios.verizon.net) has joined #flink</span><br />
 <span class="irc-date">[20:44]</span> <span class="irc-navy">* bandrews (~textual@pool-98-113-39-9.nycmny.fios.verizon.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[21:29]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[22:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 260 seconds)</span><br />
