@@ -6,3 +6,17 @@ categories: irc logs
 ---
 <span class="irc-date">[3:03]</span> <span class="irc-green">* monty__ (cc0e9a85@gateway/web/freenode/ip.204.14.154.133) has joined #flink</span><br />
 <span class="irc-date">[3:05]</span> <span class="irc-green">* monty__ (cc0e9a85@gateway/web/freenode/ip.204.14.154.133) has left #flink</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-brown">-card.freenode.net- *** Looking up your hostname...</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-brown">-card.freenode.net- *** Checking Ident</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-brown">-card.freenode.net- *** Found your hostname</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-brown">-card.freenode.net- *** No Ident response</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-brown">-NickServ- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify &lt;password&gt;.</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-green">* LogBot (~PircBot@240.121.148.146.bc.googleusercontent.com) has joined #flink</span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-green">* Topic is 'Welcome to the Apache Flink IRC channel | Flink website: <a href="http://flink.apache.org/">http://flink.apache.org/</a> | Latest stable release: 0.9.1 | Note that this channel is logged and the logs are published online: <a href="http://flink-irc-logs.github.io/'">http://flink-irc-logs.github.io/'</a></span><br />
+<span class="irc-date">[9:54]</span> <span class="irc-green">* Set by rmetzger!~rmet@apache/committer/rmetzger on Wed Sep 23 14:19:37 CEST 2015</span><br />
+<span class="irc-date">[10:08]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[10:37]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:41]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Remote host closed the connection)</span><br />
