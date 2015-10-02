@@ -25,3 +25,10 @@ categories: irc logs
 <span class="irc-date">[14:06]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[15:06]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[15:10]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[15:37]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[15:52]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[16:22]</span> <span class="irc-green">* bandrews (~textual@pool-98-113-39-9.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[16:27]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[16:48]</span> <span class="irc-black">&lt;mxm_&gt; Hi there!</span><br />
+<span class="irc-date">[16:55]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
