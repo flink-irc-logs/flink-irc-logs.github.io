@@ -34,3 +34,8 @@ categories: irc logs
 <span class="irc-date">[16:55]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[18:07]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 250 seconds)</span><br />
 <span class="irc-date">[18:56]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[19:26]</span> <span class="irc-brown">-tomaw- [Global Notice] Hi! As promised we're about to complete the services database cleanup so expect a little lag from ChanServ, NickServ etc.</span><br />
+<span class="irc-date">[19:37]</span> <span class="irc-navy">* ChanServ (ChanServ@services.) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:39]</span> <span class="irc-green">* ChanServ (ChanServ@services.) has joined #flink</span><br />
+<span class="irc-date">[19:55]</span> <span class="irc-brown">-tomaw- [Global Notice] Hi again. The database clear-out has been completed and services such as NickServ and ChanServ are working normally again</span><br />
+<span class="irc-date">[20:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 272 seconds)</span><br />
