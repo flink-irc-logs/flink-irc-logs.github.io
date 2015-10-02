@@ -39,3 +39,5 @@ categories: irc logs
 <span class="irc-date">[19:39]</span> <span class="irc-green">* ChanServ (ChanServ@services.) has joined #flink</span><br />
 <span class="irc-date">[19:55]</span> <span class="irc-brown">-tomaw- [Global Notice] Hi again. The database clear-out has been completed and services such as NickServ and ChanServ are working normally again</span><br />
 <span class="irc-date">[20:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[22:34]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[22:36]</span> <span class="irc-navy">* bandrews (~textual@pool-98-113-39-9.nycmny.fios.verizon.net) Quit (Quit: Textual IRC Client: www.textualapp.com)</span><br />
