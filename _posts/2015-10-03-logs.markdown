@@ -13,3 +13,4 @@ categories: irc logs
 <span class="irc-date">[12:09]</span> <span class="irc-green">* frett27 (5a0ede4f@gateway/web/freenode/ip.90.14.222.79) has joined #flink</span><br />
 <span class="irc-date">[12:21]</span> <span class="irc-navy">* frett27 (5a0ede4f@gateway/web/freenode/ip.90.14.222.79) Quit (Quit: Page closed)</span><br />
 <span class="irc-date">[16:33]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:edb7:9e92:4670:9c65) has joined #flink</span><br />
+<span class="irc-date">[20:52]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Quit: qwerty_nor)</span><br />
