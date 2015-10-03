@@ -5,3 +5,4 @@ date:   2015-10-03 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[0:20]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:23]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:791a:a934:a2c:2b0b) has joined #flink</span><br />
