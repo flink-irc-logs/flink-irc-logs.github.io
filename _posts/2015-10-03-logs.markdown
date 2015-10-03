@@ -10,3 +10,5 @@ categories: irc logs
 <span class="irc-date">[3:29]</span> <span class="irc-green">* Muse (5c4a3628@gateway/web/freenode/ip.92.74.54.40) has left #flink</span><br />
 <span class="irc-date">[3:58]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:791a:a934:a2c:2b0b) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[10:29]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[12:09]</span> <span class="irc-green">* frett27 (5a0ede4f@gateway/web/freenode/ip.90.14.222.79) has joined #flink</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-navy">* frett27 (5a0ede4f@gateway/web/freenode/ip.90.14.222.79) Quit (Quit: Page closed)</span><br />
