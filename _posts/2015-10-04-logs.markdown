@@ -8,3 +8,6 @@ categories: irc logs
 <span class="irc-date">[3:25]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:edb7:9e92:4670:9c65) has joined #flink</span><br />
 <span class="irc-date">[3:30]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:edb7:9e92:4670:9c65) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[14:02]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:e541:ed09:527c:8ba4) has joined #flink</span><br />
+<span class="irc-date">[21:25]</span> <span class="irc-green">* Slackbot6 (~Slackbot@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[21:32]</span> <span class="irc-navy">* Slackbot5 (~Slackbot@leo.uberspace.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[21:48]</span> <span class="irc-green">* plamb (~plamb@174-25-98-113.ptld.qwest.net) has joined #flink</span><br />
