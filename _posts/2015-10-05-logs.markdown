@@ -24,3 +24,6 @@ categories: irc logs
 <span class="irc-date">[17:01]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[19:27]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
 <span class="irc-date">[22:52]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[23:29]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[23:49]</span> <span class="irc-green">* Sarah__ (adf55d1c@gateway/web/freenode/ip.173.245.93.28) has joined #flink</span><br />
+<span class="irc-date">[23:50]</span> <span class="irc-navy">* Sarah__ (adf55d1c@gateway/web/freenode/ip.173.245.93.28) Quit (Client Quit)</span><br />
