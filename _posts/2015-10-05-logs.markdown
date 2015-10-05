@@ -9,3 +9,10 @@ categories: irc logs
 <span class="irc-date">[1:46]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:e541:ed09:527c:8ba4) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[5:27]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
 <span class="irc-date">[12:44]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[13:44]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ac26:5c1e:8398:eed4) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:01]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd8e:3865:44c7:6364) has joined #flink</span><br />
+<span class="irc-date">[14:13]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:08]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd8e:3865:44c7:6364) Quit (Remote host closed the connection)</span><br />
