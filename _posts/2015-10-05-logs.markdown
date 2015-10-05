@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-05"
+date:   2015-10-05 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:35]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[1:44]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ac26:5c1e:8398:eed4) has joined #flink</span><br />
+<span class="irc-date">[1:46]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:e541:ed09:527c:8ba4) Quit (Ping timeout: 240 seconds)</span><br />
