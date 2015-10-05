@@ -16,3 +16,9 @@ categories: irc logs
 <span class="irc-date">[14:49]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
 <span class="irc-date">[14:52]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[15:08]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd8e:3865:44c7:6364) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:56]</span> <span class="irc-green">* rodlogic (~rodlogic@198.0.146.123) has joined #flink</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-navy">* rodlogic (~rodlogic@198.0.146.123) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-green">* rodlogic (~rodlogic@198.0.146.123) has joined #flink</span><br />
+<span class="irc-date">[16:24]</span> <span class="irc-navy">* plamb (~plamb@174-25-98-113.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:57]</span> <span class="irc-navy">* rodlogic (~rodlogic@198.0.146.123) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:01]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
