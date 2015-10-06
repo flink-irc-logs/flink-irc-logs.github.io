@@ -5,3 +5,7 @@ date:   2015-10-06 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[0:59]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:e5a3:4c7e:ecca:6953) has joined #flink</span><br />
+<span class="irc-date">[4:07]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:e5a3:4c7e:ecca:6953) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:44]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:07]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:e5a3:4c7e:ecca:6953) has joined #flink</span><br />
+<span class="irc-date">[5:12]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:e5a3:4c7e:ecca:6953) Quit (Ping timeout: 240 seconds)</span><br />
