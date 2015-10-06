@@ -20,3 +20,5 @@ categories: irc logs
 <span class="irc-date">[13:27]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[14:26]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) has joined #flink</span><br />
 <span class="irc-date">[17:09]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[19:26]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[20:47]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
