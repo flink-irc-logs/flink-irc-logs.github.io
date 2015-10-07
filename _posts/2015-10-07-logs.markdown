@@ -24,3 +24,8 @@ categories: irc logs
 <span class="irc-date">[18:32]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Ping timeout: 268 seconds)</span><br />
 <span class="irc-date">[19:15]</span> <span class="irc-navy">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[21:04]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[21:25]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:29ef:b7f:42d7:a34) has joined #flink</span><br />
+<span class="irc-date">[21:28]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:29ef:b7f:42d7:a34) Quit (Ping timeout: 259 seconds)</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[21:55]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
