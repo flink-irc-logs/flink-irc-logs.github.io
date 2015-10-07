@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-08"
+date:   2015-10-08 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:44]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[0:45]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[0:47]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
