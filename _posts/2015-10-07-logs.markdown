@@ -12,3 +12,4 @@ categories: irc logs
 <span class="irc-date">[13:12]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
 <span class="irc-date">[13:13]</span> <span class="irc-green">* mj (~mj@141.20.27.42) has joined #flink</span><br />
 <span class="irc-date">[13:13]</span> <span class="irc-navy">* mj (~mj@141.20.27.42) Quit (Client Quit)</span><br />
+<span class="irc-date">[15:12]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:89d8:cd7c:92e4:b443) has joined #flink</span><br />
