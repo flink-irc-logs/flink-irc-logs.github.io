@@ -8,3 +8,7 @@ categories: irc logs
 <span class="irc-date">[8:59]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0be:db8c:a3ec:384c) has joined #flink</span><br />
 <span class="irc-date">[9:09]</span> <span class="irc-green">* fpompermaier (~Flavio@net203-177-029.mclink.it) has joined #flink</span><br />
 <span class="irc-date">[9:20]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:f0be:db8c:a3ec:384c) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[13:12]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[13:13]</span> <span class="irc-green">* mj (~mj@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[13:13]</span> <span class="irc-navy">* mj (~mj@141.20.27.42) Quit (Client Quit)</span><br />
