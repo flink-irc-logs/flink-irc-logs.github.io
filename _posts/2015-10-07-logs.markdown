@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-07"
+date:   2015-10-07 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[4:05]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) Quit (Remote host closed the connection)</span><br />
