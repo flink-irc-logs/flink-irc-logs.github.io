@@ -7,3 +7,4 @@ categories: irc logs
 <span class="irc-date">[0:44]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[0:45]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[0:47]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae8b6.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:10]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
