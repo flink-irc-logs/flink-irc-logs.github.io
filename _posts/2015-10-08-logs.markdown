@@ -25,3 +25,6 @@ categories: irc logs
 <span class="irc-date">[20:55]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Quit: qwerty_nor)</span><br />
 <span class="irc-date">[22:54]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[23:00]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[23:50]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed84.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[23:54]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed84.dynamic.kabel-deutschland.de) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[23:54]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
