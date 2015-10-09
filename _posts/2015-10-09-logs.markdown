@@ -26,3 +26,9 @@ categories: irc logs
 <span class="irc-date">[12:33]</span> <span class="irc-navy">* chiwanpark^cloud (uid12790@gateway/web/irccloud.com/x-cuvxjwbjdappiazv) Quit ()</span><br />
 <span class="irc-date">[12:33]</span> <span class="irc-green">* chiwanpark^cloud (uid12790@gateway/web/irccloud.com/x-iojsqvdplbnsqilm) has joined #flink</span><br />
 <span class="irc-date">[13:24]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[13:29]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[13:30]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[13:35]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[13:36]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-green">* aljoscha (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[14:43]</span> <span class="irc-navy">* aljoscha (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Client Quit)</span><br />
