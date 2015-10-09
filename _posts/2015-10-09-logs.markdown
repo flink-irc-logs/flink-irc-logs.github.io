@@ -43,3 +43,4 @@ categories: irc logs
 <span class="irc-date">[20:44]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[20:49]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[20:51]</span> <span class="irc-navy">* chiwanpark^cloud (uid12790@gateway/web/irccloud.com/x-iojsqvdplbnsqilm) Quit (Quit: Connection closed for inactivity)</span><br />
+<span class="irc-date">[22:05]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 250 seconds)</span><br />
