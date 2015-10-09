@@ -38,3 +38,8 @@ categories: irc logs
 <span class="irc-date">[17:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Quit: qwerty_nor)</span><br />
 <span class="irc-date">[17:50]</span> <span class="irc-green">* mj (~mj@2a02:8109:83c0:1930:a063:9ff4:60e4:c0a7) has joined #flink</span><br />
 <span class="irc-date">[17:50]</span> <span class="irc-navy">* mj (~mj@2a02:8109:83c0:1930:a063:9ff4:60e4:c0a7) Quit (Client Quit)</span><br />
+<span class="irc-date">[19:53]</span> <span class="irc-green">* hsaputra (d871a046@gateway/web/freenode/ip.216.113.160.70) has joined #flink</span><br />
+<span class="irc-date">[20:07]</span> <span class="irc-navy">* hsaputra (d871a046@gateway/web/freenode/ip.216.113.160.70) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[20:44]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[20:49]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[20:51]</span> <span class="irc-navy">* chiwanpark^cloud (uid12790@gateway/web/irccloud.com/x-iojsqvdplbnsqilm) Quit (Quit: Connection closed for inactivity)</span><br />
