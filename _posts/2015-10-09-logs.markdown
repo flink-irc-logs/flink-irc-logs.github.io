@@ -32,3 +32,7 @@ categories: irc logs
 <span class="irc-date">[13:36]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) has joined #flink</span><br />
 <span class="irc-date">[14:42]</span> <span class="irc-green">* aljoscha (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[14:43]</span> <span class="irc-navy">* aljoscha (~aljoscha@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[16:22]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dc51:f3b8:5a3:61bd) has joined #flink</span><br />
+<span class="irc-date">[16:40]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:47]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[17:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.129.184.a528.sta.adsl.cyfra.net) Quit (Quit: qwerty_nor)</span><br />
