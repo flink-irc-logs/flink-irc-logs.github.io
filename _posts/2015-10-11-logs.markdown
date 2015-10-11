@@ -14,3 +14,10 @@ categories: irc logs
 <span class="irc-date">[4:30]</span> <span class="irc-navy">* katychuang (sid64947@gateway/web/irccloud.com/x-tlawuzmbahhhvovv) Quit (Ping timeout: 252 seconds)</span><br />
 <span class="irc-date">[4:31]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dc51:f3b8:5a3:61bd) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[4:36]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed84.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[5:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dc51:f3b8:5a3:61bd) has joined #flink</span><br />
+<span class="irc-date">[5:32]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dc51:f3b8:5a3:61bd) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[6:14]</span> <span class="irc-green">* katychuang (sid64947@gateway/web/irccloud.com/x-vzixsujabsmyvctd) has joined #flink</span><br />
+<span class="irc-date">[6:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dc51:f3b8:5a3:61bd) has joined #flink</span><br />
+<span class="irc-date">[6:32]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[6:34]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dc51:f3b8:5a3:61bd) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[6:37]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
