@@ -63,3 +63,7 @@ categories: irc logs
 <span class="irc-date">[18:22]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:d449:8a24:827b:a798) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[18:39]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[18:53]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:ad12:1f06:f954:97b6) has joined #flink</span><br />
+<span class="irc-date">[21:30]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[21:36]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed84.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:23]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aed84.dynamic.kabel-deutschland.de) Quit (Ping timeout: 272 seconds)</span><br />
