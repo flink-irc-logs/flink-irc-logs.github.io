@@ -56,3 +56,10 @@ categories: irc logs
 <span class="irc-date">[16:42]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[16:48]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[17:02]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@195.162.81.146) has joined #flink</span><br />
+<span class="irc-date">[17:26]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@195.162.81.146) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[17:43]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[17:43]</span> <span class="irc-black">&lt;alex_1234&gt; Hi flink people, is somebody here?</span><br />
+<span class="irc-date">[17:58]</span> <span class="irc-black">&lt;alex_1234&gt; I am (still) searching for a solution to write DataStream data to an output that supports parallel writes. I have thought of a db but the example with jdbc that I found in the documentation does not seem to work on streams. Can somebody help with that?</span><br />
+<span class="irc-date">[18:22]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:d449:8a24:827b:a798) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:39]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:53]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:ad12:1f06:f954:97b6) has joined #flink</span><br />
