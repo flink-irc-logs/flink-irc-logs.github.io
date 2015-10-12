@@ -34,3 +34,6 @@ categories: irc logs
 <span class="irc-date">[16:18]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@194.126.181.51) has joined #flink</span><br />
 <span class="irc-date">[16:38]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:816d:236c:8f2:71be) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[17:01]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:51]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has left #flink</span><br />
+<span class="irc-date">[17:59]</span> <span class="irc-green">* rodlogic (~rodlogic@198.0.146.123) has joined #flink</span><br />
+<span class="irc-date">[18:49]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@194.126.181.51) Quit (Ping timeout: 268 seconds)</span><br />
