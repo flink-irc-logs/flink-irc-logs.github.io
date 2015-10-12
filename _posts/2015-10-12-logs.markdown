@@ -20,3 +20,8 @@ categories: irc logs
 <span class="irc-date">[10:56]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@194.126.181.51) has joined #flink</span><br />
 <span class="irc-date">[11:44]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[11:49]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[13:47]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[13:52]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[14:04]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:816d:236c:8f2:71be) has joined #flink</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[15:16]</span> <span class="irc-black">&lt;alex_1234&gt; Hi, I'm having some trouble with distributed writes to a database. Is somebody here who could help?</span><br />
