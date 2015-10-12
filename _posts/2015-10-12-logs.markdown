@@ -13,3 +13,8 @@ categories: irc logs
 <span class="irc-date">[6:44]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[8:41]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[8:47]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[9:47]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@194.126.181.51) has joined #flink</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@194.126.181.51) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[10:14]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@194.126.181.51) has joined #flink</span><br />
+<span class="irc-date">[10:55]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@194.126.181.51) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[10:56]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@194.126.181.51) has joined #flink</span><br />
