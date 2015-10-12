@@ -25,3 +25,12 @@ categories: irc logs
 <span class="irc-date">[14:04]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:816d:236c:8f2:71be) has joined #flink</span><br />
 <span class="irc-date">[15:15]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[15:16]</span> <span class="irc-black">&lt;alex_1234&gt; Hi, I'm having some trouble with distributed writes to a database. Is somebody here who could help?</span><br />
+<span class="irc-date">[15:31]</span> <span class="irc-green">* jml225 (cec4baaf@gateway/web/freenode/ip.206.196.186.175) has joined #flink</span><br />
+<span class="irc-date">[15:32]</span> <span class="irc-black">&lt;jml225&gt; Hi, I have been reading about flink and I have a few questions. When using hadoop it's suggested to use homogeneous hardware in clusters since the bottleneck for hadoop becomes data transfer between slow and fast nodes, is this an issue with Flink?</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-navy">* jml225 (cec4baaf@gateway/web/freenode/ip.206.196.186.175) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@194.126.181.51) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[16:04]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:10]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[16:18]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@194.126.181.51) has joined #flink</span><br />
+<span class="irc-date">[16:38]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:816d:236c:8f2:71be) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:01]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
