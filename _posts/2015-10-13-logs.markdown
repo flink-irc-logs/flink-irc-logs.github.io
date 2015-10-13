@@ -18,3 +18,4 @@ categories: irc logs
 <span class="irc-date">[10:40]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
 <span class="irc-date">[10:46]</span> <span class="irc-green">* mjsax (~mjsax@GW-A.Datenpumpe.Net) has joined #flink</span><br />
 <span class="irc-date">[10:46]</span> <span class="irc-navy">* mjsax (~mjsax@GW-A.Datenpumpe.Net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:10]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@91.234.197.52) has joined #flink</span><br />
