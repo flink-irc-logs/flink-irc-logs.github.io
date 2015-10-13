@@ -6,3 +6,5 @@ categories: irc logs
 ---
 <span class="irc-date">[0:43]</span> <span class="irc-green">* katychuang (sid64947@gateway/web/irccloud.com/x-kespjxpxfewoioff) has joined #flink</span><br />
 <span class="irc-date">[2:56]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:4d57:a35c:7f13:886c) has joined #flink</span><br />
+<span class="irc-date">[3:34]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:4d57:a35c:7f13:886c) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:02]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
