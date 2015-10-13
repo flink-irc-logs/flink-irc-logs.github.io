@@ -19,3 +19,10 @@ categories: irc logs
 <span class="irc-date">[10:46]</span> <span class="irc-green">* mjsax (~mjsax@GW-A.Datenpumpe.Net) has joined #flink</span><br />
 <span class="irc-date">[10:46]</span> <span class="irc-navy">* mjsax (~mjsax@GW-A.Datenpumpe.Net) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[15:10]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@91.234.197.52) has joined #flink</span><br />
+<span class="irc-date">[16:39]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:44]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[16:53]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:57]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[16:59]</span> <span class="irc-green">* lynx (6a338825@gateway/web/freenode/ip.106.51.136.37) has joined #flink</span><br />
+<span class="irc-date">[17:00]</span> <span class="irc-green">* lynx is now known as Guest96002</span><br />
+<span class="irc-date">[17:01]</span> <span class="irc-black">&lt;Guest96002&gt; I notice that flink has a higher cpu utilization as compared to hadoop . What architectural features makes that possible ?</span><br />
