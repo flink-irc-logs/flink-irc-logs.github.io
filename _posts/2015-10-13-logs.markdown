@@ -26,3 +26,5 @@ categories: irc logs
 <span class="irc-date">[16:59]</span> <span class="irc-green">* lynx (6a338825@gateway/web/freenode/ip.106.51.136.37) has joined #flink</span><br />
 <span class="irc-date">[17:00]</span> <span class="irc-green">* lynx is now known as Guest96002</span><br />
 <span class="irc-date">[17:01]</span> <span class="irc-black">&lt;Guest96002&gt; I notice that flink has a higher cpu utilization as compared to hadoop . What architectural features makes that possible ?</span><br />
+<span class="irc-date">[18:11]</span> <span class="irc-navy">* Guest96002 (6a338825@gateway/web/freenode/ip.106.51.136.37) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[18:16]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@91.234.197.52) Quit (Ping timeout: 244 seconds)</span><br />
