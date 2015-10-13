@@ -28,3 +28,16 @@ categories: irc logs
 <span class="irc-date">[17:01]</span> <span class="irc-black">&lt;Guest96002&gt; I notice that flink has a higher cpu utilization as compared to hadoop . What architectural features makes that possible ?</span><br />
 <span class="irc-date">[18:11]</span> <span class="irc-navy">* Guest96002 (6a338825@gateway/web/freenode/ip.106.51.136.37) Quit (Quit: Page closed)</span><br />
 <span class="irc-date">[18:16]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@91.234.197.52) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[19:39]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[19:59]</span> <span class="irc-green">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[20:03]</span> <span class="irc-black">&lt;bandrews&gt; Are there any docs around parallelism when writing custom SourceFunctions? Trying to understand what happens if I don't implement ParallelSourceFunction when running in local mode</span><br />
+<span class="irc-date">[20:10]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) has joined #flink</span><br />
+<span class="irc-date">[20:13]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:14]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) has joined #flink</span><br />
+<span class="irc-date">[20:18]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[20:33]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) has joined #flink</span><br />
+<span class="irc-date">[21:05]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[21:10]</span> <span class="irc-navy">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)</span><br />
+<span class="irc-date">[21:15]</span> <span class="irc-green">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[21:21]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[21:21]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
