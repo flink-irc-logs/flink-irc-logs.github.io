@@ -45,3 +45,4 @@ categories: irc logs
 <span class="irc-date">[22:19]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) has joined #flink</span><br />
 <span class="irc-date">[22:29]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) Quit (Ping timeout: 264 seconds)</span><br />
 <span class="irc-date">[22:39]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[23:34]</span> <span class="irc-navy">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)</span><br />
