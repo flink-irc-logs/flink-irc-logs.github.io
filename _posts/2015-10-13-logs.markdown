@@ -14,3 +14,7 @@ categories: irc logs
 <span class="irc-date">[6:38]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[8:34]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[8:39]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[10:35]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[10:40]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[10:46]</span> <span class="irc-green">* mjsax (~mjsax@GW-A.Datenpumpe.Net) has joined #flink</span><br />
+<span class="irc-date">[10:46]</span> <span class="irc-navy">* mjsax (~mjsax@GW-A.Datenpumpe.Net) Quit (Remote host closed the connection)</span><br />
