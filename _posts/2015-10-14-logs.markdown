@@ -15,3 +15,11 @@ categories: irc logs
 <span class="irc-date">[11:52]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) has joined #flink</span><br />
 <span class="irc-date">[12:53]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) Quit (Ping timeout: 255 seconds)</span><br />
 <span class="irc-date">[13:24]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[13:56]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[13:56]</span> <span class="irc-black">&lt;alex_1234&gt; hi, somebody here from flink team?</span><br />
+<span class="irc-date">[14:13]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@46.151.248.3) has joined #flink</span><br />
+<span class="irc-date">[15:08]</span> <span class="irc-green">* fpompermaier (~Flavio@net203-177-029.mclink.it) has joined #flink</span><br />
+<span class="irc-date">[15:09]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[15:24]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[15:26]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@46.151.248.3) has joined #flink</span><br />
