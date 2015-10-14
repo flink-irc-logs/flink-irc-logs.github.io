@@ -46,3 +46,4 @@ categories: irc logs
 <span class="irc-date">[21:46]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aecde.dynamic.kabel-deutschland.de) Quit (Ping timeout: 244 seconds)</span><br />
 <span class="irc-date">[21:46]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
 <span class="irc-date">[21:56]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[23:46]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 255 seconds)</span><br />
