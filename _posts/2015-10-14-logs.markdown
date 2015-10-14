@@ -34,3 +34,10 @@ categories: irc logs
 <span class="irc-date">[17:07]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[17:21]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Ping timeout: 244 seconds)</span><br />
 <span class="irc-date">[17:25]</span> <span class="irc-navy">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)</span><br />
+<span class="irc-date">[17:43]</span> <span class="irc-green">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[17:43]</span> <span class="irc-navy">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[18:50]</span> <span class="irc-navy">* fpompermaier (~Flavio@net203-177-029.mclink.it) Quit (*.net *.split)</span><br />
+<span class="irc-date">[18:50]</span> <span class="irc-navy">* mxm_ (~mxm@leo.uberspace.de) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:03]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) has joined #flink</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-green">* fpompermaier (~Flavio@net203-177-029.mclink.it) has joined #flink</span><br />
