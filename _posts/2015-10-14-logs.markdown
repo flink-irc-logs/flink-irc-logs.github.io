@@ -42,3 +42,7 @@ categories: irc logs
 <span class="irc-date">[19:07]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
 <span class="irc-date">[19:07]</span> <span class="irc-green">* fpompermaier (~Flavio@net203-177-029.mclink.it) has joined #flink</span><br />
 <span class="irc-date">[19:50]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@ip-91-199-194-49.opensvit.ua) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[21:42]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aecde.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[21:46]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aecde.dynamic.kabel-deutschland.de) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[21:46]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[21:56]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Quit: Leaving.)</span><br />
