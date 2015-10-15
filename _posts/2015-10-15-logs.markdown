@@ -144,3 +144,12 @@ categories: irc logs
 <span class="irc-date">[17:47]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Quit: qwerty_nor)</span><br />
 <span class="irc-date">[18:10]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has left #flink</span><br />
 <span class="irc-date">[18:51]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
+<span class="irc-date">[19:44]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[20:08]</span> <span class="irc-navy">* Slackbot6 (~Slackbot@leo.uberspace.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[20:10]</span> <span class="irc-navy">* mxm (~mxm@leo.uberspace.de) Quit (Ping timeout: 268 seconds)</span><br />
+<span class="irc-date">[20:13]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[20:27]</span> <span class="irc-navy">* mxm (~mxm@leo.uberspace.de) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[20:27]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[21:18]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aecde.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[21:20]</span> <span class="irc-green">* mj_ (~mj@2a02:8109:83c0:1930:80d2:c2e6:8dfb:78db) has joined #flink</span><br />
+<span class="irc-date">[21:21]</span> <span class="irc-navy">* mj_ (~mj@2a02:8109:83c0:1930:80d2:c2e6:8dfb:78db) Quit (Client Quit)</span><br />
