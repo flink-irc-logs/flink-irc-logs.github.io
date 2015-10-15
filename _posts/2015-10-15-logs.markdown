@@ -153,3 +153,4 @@ categories: irc logs
 <span class="irc-date">[21:18]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aecde.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[21:20]</span> <span class="irc-green">* mj_ (~mj@2a02:8109:83c0:1930:80d2:c2e6:8dfb:78db) has joined #flink</span><br />
 <span class="irc-date">[21:21]</span> <span class="irc-navy">* mj_ (~mj@2a02:8109:83c0:1930:80d2:c2e6:8dfb:78db) Quit (Client Quit)</span><br />
+<span class="irc-date">[23:44]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
