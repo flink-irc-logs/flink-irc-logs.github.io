@@ -29,3 +29,87 @@ categories: irc logs
 <span class="irc-date">[11:10]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) has joined #flink</span><br />
 <span class="irc-date">[11:11]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
 <span class="irc-date">[11:15]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[12:06]</span> <span class="irc-black">&lt;alex_1234&gt; hi, mjsax, are you a member of the flink team?</span><br />
+<span class="irc-date">[12:10]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[12:11]</span> <span class="irc-black">&lt;alex_1234&gt; rmetzger :)</span><br />
+<span class="irc-date">[12:11]</span> <span class="irc-black">&lt;rmetzger&gt; Hi</span><br />
+<span class="irc-date">[12:11]</span> <span class="irc-black">&lt;rmetzger&gt; what's up</span><br />
+<span class="irc-date">[12:11]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) has joined #flink</span><br />
+<span class="irc-date">[12:11]</span> <span class="irc-black">&lt;alex_1234&gt; Hi, do you have some minutes? I'm having some questions and couldn't find an answer in the docs</span><br />
+<span class="irc-date">[12:13]</span> <span class="irc-black">&lt;rmetzger&gt; sure</span><br />
+<span class="irc-date">[12:16]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[12:17]</span> <span class="irc-black">&lt;alex_1234&gt; Actually those are only 3 things that I can't sort out ..</span><br />
+<span class="irc-date">[12:17]</span> <span class="irc-black">&lt;alex_1234&gt; 1. I am having a windowed data stream with .every(30 seconds).addSink() .. sometimes it looks like the trigger policy is evaluating earliert to true, so it triggers although the time has not passed yet</span><br />
+<span class="irc-date">[12:17]</span> <span class="irc-black">&lt;alex_1234&gt; 2. My custom sink writes to a mysql database. Is that ok from the perspective of distribution or do you recommend something else? I want to work with the data that flink outputs in a web app</span><br />
+<span class="irc-date">[12:17]</span> <span class="irc-black">&lt;alex_1234&gt; 3. I have simple data like [ ("type",id), ("type", id2), ... ]  , when I groupBy(0).minBy(1) I would expect to get one result only - e.g. (type,id2) if id2 is the smallest id , but it gives me 4 (maybe because I have a 4 nodes?)</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-black">&lt;rmetzger&gt; 1. are you using the new windowing API?</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-black">&lt;alex_1234&gt; 1. not yet, is it already realeased?</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-black">&lt;rmetzger&gt; the information I gave you recently, about our new windows was incorrect. The API actually changed for the upcoming 0.10 release</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@46.151.248.3) has joined #flink</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-black">&lt;rmetzger&gt; we we have no plans to change the API again as we are approaching 1.0 (with API stability)</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;rmetzger&gt; no, the new windows are not released yet, but you can use them using the 0.10-SNAPSHOT version</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;alex_1234&gt; As long as it works now and I can change it, that would be enough for me.</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;rmetzger&gt; the new windowing code should work much better</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;rmetzger&gt; the problem you're reporting should not occur anymore</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;alex_1234&gt; Can I get this into eclipse like that? <a href="https://ci.apache.org/projects/flink/flink-docs-release-0.9/quickstart/java_api_quickstart.html">https://ci.apache.org/projects/flink/flink-docs-release-0.9/quickstart/java_api_quickstart.html</a></span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;rmetzger&gt; also, we appreciate when some users do some testing of the new windowing code before the relese</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;alex_1234&gt; I would love to work with it, because most of my use cases need windows</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;rmetzger&gt; just set the version in your pom's to 0.10-SNAPSHOT</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;rmetzger&gt; maven will pull the latest jars</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;alex_1234&gt; I have flink-java, flink-streaming-core and flink-clients, do I need to change it everywhere?</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; no</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; sry ;)</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; yes, change the version for all dependencies</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; all flink dependencies</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; they always have to be in sync</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;alex_1234&gt; the &lt;profiles&gt; too?</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;alex_1234&gt; Thank you, I have changed it and it is building now</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;rmetzger&gt; the compiling will break because the API changed</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;rmetzger&gt; regarding the other questions:</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;rmetzger&gt; 2. did you implement a custom data sink for writing into Mysql?</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;alex_1234&gt; As long as there is a documentation of the new api I will adapt that</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;rmetzger&gt; there is documentation yes</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-green">* michael_lee (~michael_l@36.46.223.245) has joined #flink</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;alex_1234&gt; 2. yes , here it is : <a href="http://nopaste.linux-dev.org/?782712">http://nopaste.linux-dev.org/?782712</a></span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;rmetzger&gt; looks good</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;alex_1234&gt; it writes to the db</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;rmetzger&gt; you can probably improve the performance by using a prepared statement</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;alex_1234&gt; but it writes 4 entries instead of one</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;rmetzger&gt; I suspect you execute your code with a parallelism of 4</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;alex_1234&gt; probably</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;rmetzger&gt; but you can run the sink with a parallelism of 1 as well</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;rmetzger&gt; then, you'll have only once instance writing to MySQL</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;rmetzger&gt; maybe that will lead to better performance</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;rmetzger&gt; just play around with it if this is an issue.</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;alex_1234&gt; will this have negative impact on all other computations?</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;alex_1234&gt; I have done that some while ago because I was writing to files, what I've seen there is that some windows had wrong or no content ( I was pushing text every second to the stream, about 100 words, but my word count had very little entries)</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;rmetzger&gt; it depends ;)</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;rmetzger&gt; the old windows were pretty broken</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;alex_1234&gt; I assumed that this is because I set DOP to 1 and it's writing only from one node without merging it before</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;alex_1234&gt; but I will try again with the new windows</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;rmetzger&gt; your results should always be correct, independent of the parallelism</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;alex_1234&gt; I just can't understand why it writes 4 results, if I have 500 entries which all have the same key</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;alex_1234&gt; it is only 1 key, so the group by should create only 1 group and a min in that group should have only 1 result</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;rmetzger&gt; so you get 4 results for the same key?</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;alex_1234&gt; yes</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;alex_1234&gt; and they are all different</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;rmetzger&gt; can you port your code to the latest snapshot version and try it again</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;rmetzger&gt; if the issue still exists in the current master, we can try to debug it</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;rmetzger&gt; I'll be in the IRC channel for at least 4 more hours</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;alex_1234&gt; <a href="http://i.imgur.com/zn7hYTa.jpg">http://i.imgur.com/zn7hYTa.jpg</a></span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;alex_1234&gt; here's a sample of my results</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;rmetzger&gt; mh</span><br />
+<span class="irc-date">[12:34]</span> <span class="irc-black">&lt;alex_1234&gt; I assume that the time stamps are different because it's writing from mutliple nodes</span><br />
+<span class="irc-date">[12:34]</span> <span class="irc-black">&lt;alex_1234&gt; they are generated with CURRENT_TIMESTAMP</span><br />
+<span class="irc-date">[12:34]</span> <span class="irc-black">&lt;rmetzger&gt; yes</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;alex_1234&gt; oh wow, the new transformations look great! they would simplify a lot because I wanted to make per-key windows and reduce every one of them separately</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;alex_1234&gt; They KeyBy is a replacement for group by?</span><br />
+<span class="irc-date">[12:52]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[12:54]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@46.151.248.3) has joined #flink</span><br />
+<span class="irc-date">[12:56]</span> <span class="irc-black">&lt;alex_1234&gt; I have changed my code to <a href="http://nopaste.linux-dev.org/?782722">http://nopaste.linux-dev.org/?782722</a></span><br />
+<span class="irc-date">[12:56]</span> <span class="irc-black">&lt;alex_1234&gt; Everything behaves like it should, there is only 1 value inserted and that value is correct. Finally - Thank you very much! I appreciate your help.</span><br />
+<span class="irc-date">[13:12]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:57e:53de:7e10:7df9) has joined #flink</span><br />
+<span class="irc-date">[13:16]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:57e:53de:7e10:7df9) Quit (Ping timeout: 246 seconds)</span><br />
