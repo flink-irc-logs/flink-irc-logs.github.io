@@ -138,3 +138,9 @@ categories: irc logs
 <span class="irc-date">[17:11]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[17:12]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 260 seconds)</span><br />
 <span class="irc-date">[17:16]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:32]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[17:37]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[17:38]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@46.151.248.3) has joined #flink</span><br />
+<span class="irc-date">[17:47]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Quit: qwerty_nor)</span><br />
+<span class="irc-date">[18:10]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) has left #flink</span><br />
+<span class="irc-date">[18:51]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
