@@ -113,3 +113,14 @@ categories: irc logs
 <span class="irc-date">[12:56]</span> <span class="irc-black">&lt;alex_1234&gt; Everything behaves like it should, there is only 1 value inserted and that value is correct. Finally - Thank you very much! I appreciate your help.</span><br />
 <span class="irc-date">[13:12]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:57e:53de:7e10:7df9) has joined #flink</span><br />
 <span class="irc-date">[13:16]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:57e:53de:7e10:7df9) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:27]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[13:32]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[13:35]</span> <span class="irc-black">&lt;rmetzger&gt; Great, I'm happy that everything is working as expected ;</span><br />
+<span class="irc-date">[14:13]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) has joined #flink</span><br />
+<span class="irc-date">[14:17]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[15:13]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) has joined #flink</span><br />
+<span class="irc-date">[15:17]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@46.151.248.3) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[15:18]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:958c:62bd:fd55:dc58) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@46.151.248.3) has joined #flink</span><br />
+<span class="irc-date">[15:24]</span> <span class="irc-navy">* michael_lee (~michael_l@36.46.223.245) Quit (Quit: Ex-Chat)</span><br />
+<span class="irc-date">[15:25]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b41a3c6.dynamic.kabel-deutschland.de) Quit (Ping timeout: 244 seconds)</span><br />
