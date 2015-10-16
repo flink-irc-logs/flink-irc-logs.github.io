@@ -26,3 +26,5 @@ categories: irc logs
 <span class="irc-date">[3:34]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:89a7:1ffc:1f7e:9621) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[4:25]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[4:29]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[5:40]</span> <span class="irc-navy">* parshime1s (~parshimer@unaffiliated/parshimers) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[5:40]</span> <span class="irc-green">* parshimers (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
