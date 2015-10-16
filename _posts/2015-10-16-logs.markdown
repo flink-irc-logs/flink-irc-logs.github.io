@@ -35,3 +35,9 @@ categories: irc logs
 <span class="irc-date">[11:18]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[11:28]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[11:33]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[13:31]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[13:36]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-green">* rmetzger (~rmet@88.128.82.85) has joined #flink</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-navy">* rmetzger (~rmet@88.128.82.85) Quit (Changing host)</span><br />
+<span class="irc-date">[14:52]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[15:19]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) has joined #flink</span><br />
