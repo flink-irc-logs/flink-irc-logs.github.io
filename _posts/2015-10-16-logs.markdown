@@ -46,3 +46,9 @@ categories: irc logs
 <span class="irc-date">[16:40]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 244 seconds)</span><br />
 <span class="irc-date">[16:55]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[17:10]</span> <span class="irc-green">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[17:35]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-green">* rmetzger (~rmet@88.128.82.59) has joined #flink</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-navy">* rmetzger (~rmet@88.128.82.59) Quit (Changing host)</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[18:55]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:12]</span> <span class="irc-green">* paul721 (~paul@208.51.133.115) has joined #flink</span><br />
