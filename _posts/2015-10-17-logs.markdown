@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-17"
+date:   2015-10-17 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:05]</span> <span class="irc-green">* rmetzger (~rmet@ool-45712b30.dyn.optonline.net) has joined #flink</span><br />
+<span class="irc-date">[0:05]</span> <span class="irc-navy">* rmetzger (~rmet@ool-45712b30.dyn.optonline.net) Quit (Changing host)</span><br />
+<span class="irc-date">[0:05]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[0:17]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[0:35]</span> <span class="irc-navy">* paul721 (~paul@208.51.133.115) Quit (Ping timeout: 265 seconds)</span><br />

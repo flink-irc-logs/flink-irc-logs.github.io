@@ -53,3 +53,4 @@ categories: irc logs
 <span class="irc-date">[18:55]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[19:12]</span> <span class="irc-green">* paul721 (~paul@208.51.133.115) has joined #flink</span><br />
 <span class="irc-date">[20:16]</span> <span class="irc-navy">* bandrews (~textual@pool-71-183-226-66.nycmny.fios.verizon.net) Quit (Quit: Textual IRC Client: www.textualapp.com)</span><br />
+<span class="irc-date">[23:59]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
