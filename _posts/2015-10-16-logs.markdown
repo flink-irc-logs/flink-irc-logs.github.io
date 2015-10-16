@@ -6,3 +6,20 @@ categories: irc logs
 ---
 <span class="irc-date">[0:59]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:89a7:1ffc:1f7e:9621) has joined #flink</span><br />
 <span class="irc-date">[1:18]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5aecde.dynamic.kabel-deutschland.de) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[1:29]</span> <span class="irc-green">* parshime1s (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
+<span class="irc-date">[1:30]</span> <span class="irc-navy">* parshimers (~parshimer@unaffiliated/parshimers) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* fpompermaier (~Flavio@net203-177-029.mclink.it) Quit (*.net *.split)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* katychuang (sid64947@gateway/web/irccloud.com/x-kespjxpxfewoioff) Quit (*.net *.split)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:89a7:1ffc:1f7e:9621) Quit (*.net *.split)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* ChanServ (ChanServ@services.) Quit (*.net *.split)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* parshime1s (~parshimer@unaffiliated/parshimers) Quit (*.net *.split)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* mxm (~mxm@leo.uberspace.de) Quit (*.net *.split)</span><br />
+<span class="irc-date">[1:59]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (*.net *.split)</span><br />
+<span class="irc-date">[2:06]</span> <span class="irc-green">* katychuang (sid64947@gateway/web/irccloud.com/x-kespjxpxfewoioff) has joined #flink</span><br />
+<span class="irc-date">[2:06]</span> <span class="irc-green">* fpompermaier (~Flavio@net203-177-029.mclink.it) has joined #flink</span><br />
+<span class="irc-date">[2:09]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[2:13]</span> <span class="irc-green">* parshime1s (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
+<span class="irc-date">[2:14]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:89a7:1ffc:1f7e:9621) has joined #flink</span><br />
+<span class="irc-date">[2:14]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[2:30]</span> <span class="irc-green">* ChanServ (ChanServ@services.) has joined #flink</span><br />
+<span class="irc-date">[3:25]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
