@@ -28,3 +28,6 @@ categories: irc logs
 <span class="irc-date">[11:57]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[12:54]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) has joined #flink</span><br />
 <span class="irc-date">[12:58]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:54]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) has joined #flink</span><br />
+<span class="irc-date">[13:59]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[14:09]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) has joined #flink</span><br />
