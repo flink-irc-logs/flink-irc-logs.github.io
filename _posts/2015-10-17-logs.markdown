@@ -9,3 +9,6 @@ categories: irc logs
 <span class="irc-date">[0:05]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
 <span class="irc-date">[0:17]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
 <span class="irc-date">[0:35]</span> <span class="irc-navy">* paul721 (~paul@208.51.133.115) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[3:45]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[4:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) has joined #flink</span><br />
+<span class="irc-date">[4:52]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:60f7:3746:615f:dd3) Quit (Ping timeout: 240 seconds)</span><br />
