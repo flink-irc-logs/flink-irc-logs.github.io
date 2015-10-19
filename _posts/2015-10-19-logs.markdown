@@ -27,3 +27,8 @@ categories: irc logs
 <span class="irc-date">[17:21]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
 <span class="irc-date">[17:21]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[20:48]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) has joined #flink</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-green">* rektide2 (~rektide@eldergods.com) has joined #flink</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-black">&lt;rektide2&gt; hello. we have data that rolls in significantly after it's timestamp (2-3 days). any thought on coping strategies?</span><br />
+<span class="irc-date">[21:54]</span> <span class="irc-black">&lt;rektide2&gt; i'm not super literate, but it seems like with the underlying Async Barrier Snapshot, it might be possible to go back to a snapshot &amp; append missing data, &amp; re-feed other data back into the newly playing stream</span><br />
+<span class="irc-date">[21:55]</span> <span class="irc-black">&lt;rektide2&gt; which would be ok /w us. i kind of am thinking about it as injecting a historical fault but then there's the question of how to deal with all the data happening since. obviously going against the "exactly once" idea, which we're prepared to do, perhaps manually replaying the other stream data</span><br />
+<span class="irc-date">[22:34]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) Quit (Ping timeout: 240 seconds)</span><br />
