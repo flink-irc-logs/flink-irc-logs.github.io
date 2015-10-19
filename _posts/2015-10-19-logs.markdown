@@ -26,3 +26,4 @@ categories: irc logs
 <span class="irc-date">[17:05]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[17:21]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
 <span class="irc-date">[17:21]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[20:48]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) has joined #flink</span><br />
