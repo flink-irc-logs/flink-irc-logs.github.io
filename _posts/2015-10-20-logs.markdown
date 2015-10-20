@@ -58,3 +58,4 @@ categories: irc logs
 <span class="irc-date">[17:12]</span> <span class="irc-black">&lt;mikk&gt; Anybody at home?</span><br />
 <span class="irc-date">[17:15]</span> <span class="irc-navy">* mikk (~mikk@oinetka.gfsrv.net) Quit (Client Quit)</span><br />
 <span class="irc-date">[17:25]</span> <span class="irc-black">&lt;mjsax&gt; HI.</span><br />
+<span class="irc-date">[19:15]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
