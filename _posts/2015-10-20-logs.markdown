@@ -60,3 +60,5 @@ categories: irc logs
 <span class="irc-date">[17:25]</span> <span class="irc-black">&lt;mjsax&gt; HI.</span><br />
 <span class="irc-date">[19:15]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
 <span class="irc-date">[20:11]</span> <span class="irc-navy">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[21:54]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[22:38]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
