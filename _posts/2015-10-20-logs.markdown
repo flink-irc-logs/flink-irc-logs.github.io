@@ -47,3 +47,14 @@ categories: irc logs
 <span class="irc-date">[14:41]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a8c6:5e06:7e6f:b768) has joined #flink</span><br />
 <span class="irc-date">[14:45]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 260 seconds)</span><br />
 <span class="irc-date">[15:12]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a8c6:5e06:7e6f:b768) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:19]</span> <span class="irc-green">* mjsax (~mjsax@wlan.informatik.hu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:21]</span> <span class="irc-green">* rodlogic (~rodlogic@198.0.146.123) has joined #flink</span><br />
+<span class="irc-date">[16:33]</span> <span class="irc-navy">* rodlogic (~rodlogic@198.0.146.123) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:42]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:47]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[17:10]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:11]</span> <span class="irc-green">* mikk (~mikk@oinetka.gfsrv.net) has joined #flink</span><br />
+<span class="irc-date">[17:11]</span> <span class="irc-black">&lt;mikk&gt; Hey there</span><br />
+<span class="irc-date">[17:12]</span> <span class="irc-black">&lt;mikk&gt; Anybody at home?</span><br />
+<span class="irc-date">[17:15]</span> <span class="irc-navy">* mikk (~mikk@oinetka.gfsrv.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[17:25]</span> <span class="irc-black">&lt;mjsax&gt; HI.</span><br />
