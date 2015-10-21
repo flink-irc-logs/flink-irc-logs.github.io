@@ -45,3 +45,5 @@ categories: irc logs
 <span class="irc-date">[18:02]</span> <span class="irc-black">&lt;yango&gt; I'd have to implement a RiakSink, it seems?</span><br />
 <span class="irc-date">[18:19]</span> <span class="irc-green">* t_sleprac (9dc1f0d2@gateway/web/freenode/ip.157.193.240.210) has joined #flink</span><br />
 <span class="irc-date">[18:20]</span> <span class="irc-navy">* t_sleprac (9dc1f0d2@gateway/web/freenode/ip.157.193.240.210) Quit (Client Quit)</span><br />
+<span class="irc-date">[21:10]</span> <span class="irc-green">* saumitra (5f5af041@gateway/web/freenode/ip.95.90.240.65) has joined #flink</span><br />
+<span class="irc-date">[21:11]</span> <span class="irc-navy">* saumitra (5f5af041@gateway/web/freenode/ip.95.90.240.65) Quit (Client Quit)</span><br />
