@@ -34,3 +34,9 @@ categories: irc logs
 <span class="irc-date">[13:42]</span> <span class="irc-green">* chrkl (~chrkl@2001:4dd0:fe49:0:ba27:ebff:fe8f:f319) has joined #flink</span><br />
 <span class="irc-date">[13:45]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 260 seconds)</span><br />
 <span class="irc-date">[14:03]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) has joined #flink</span><br />
+<span class="irc-date">[16:32]</span> <span class="irc-green">* uk (aa92dc3c@gateway/web/freenode/ip.170.146.220.60) has joined #flink</span><br />
+<span class="irc-date">[16:33]</span> <span class="irc-green">* uk is now known as Guest50981</span><br />
+<span class="irc-date">[16:34]</span> <span class="irc-navy">* Guest50981 (aa92dc3c@gateway/web/freenode/ip.170.146.220.60) Quit (Client Quit)</span><br />
+<span class="irc-date">[16:42]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:49]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[17:08]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
