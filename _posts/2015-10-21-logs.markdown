@@ -40,3 +40,8 @@ categories: irc logs
 <span class="irc-date">[16:42]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[16:49]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 272 seconds)</span><br />
 <span class="irc-date">[17:08]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[17:59]</span> <span class="irc-green">* yango (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) has joined #flink</span><br />
+<span class="irc-date">[18:00]</span> <span class="irc-black">&lt;yango&gt; hi. I'm planning to integrate Flink with Riak. (I haven't even installed Flink yet!) Could you point me to some docs about how would one go to do so?</span><br />
+<span class="irc-date">[18:02]</span> <span class="irc-black">&lt;yango&gt; I'd have to implement a RiakSink, it seems?</span><br />
+<span class="irc-date">[18:19]</span> <span class="irc-green">* t_sleprac (9dc1f0d2@gateway/web/freenode/ip.157.193.240.210) has joined #flink</span><br />
+<span class="irc-date">[18:20]</span> <span class="irc-navy">* t_sleprac (9dc1f0d2@gateway/web/freenode/ip.157.193.240.210) Quit (Client Quit)</span><br />
