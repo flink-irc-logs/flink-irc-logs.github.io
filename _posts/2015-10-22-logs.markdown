@@ -40,3 +40,9 @@ categories: irc logs
 <span class="irc-date">[16:43]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[17:02]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
 <span class="irc-date">[17:24]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[22:24]</span> <span class="irc-green">* jgrier (0819c519@gateway/web/freenode/ip.8.25.197.25) has joined #flink</span><br />
+<span class="irc-date">[22:33]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[22:35]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[22:35]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[22:42]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) has joined #flink</span><br />
+<span class="irc-date">[23:18]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) Quit (Ping timeout: 256 seconds)</span><br />
