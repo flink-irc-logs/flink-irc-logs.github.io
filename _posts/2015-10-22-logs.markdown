@@ -13,3 +13,19 @@ categories: irc logs
 <span class="irc-date">[10:17]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[10:44]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) has joined #flink</span><br />
 <span class="irc-date">[10:49]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[11:45]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) has joined #flink</span><br />
+<span class="irc-date">[11:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[11:59]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[12:04]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) has joined #flink</span><br />
+<span class="irc-date">[12:16]</span> <span class="irc-green">* yango_ (~vinko@85.48.193.157) has joined #flink</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-navy">* yango (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-green">* yango (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) has joined #flink</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-navy">* yango_ (~vinko@85.48.193.157) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-green">* yango_ (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) has joined #flink</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-navy">* yango (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-green">* yango (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) has joined #flink</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-navy">* yango_ (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[12:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) has joined #flink</span><br />
+<span class="irc-date">[12:52]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:dd29:9308:ccd3:8c05) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:00]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[13:06]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 268 seconds)</span><br />
