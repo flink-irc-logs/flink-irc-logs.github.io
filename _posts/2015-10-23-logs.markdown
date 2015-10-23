@@ -27,3 +27,12 @@ categories: irc logs
 <span class="irc-date">[9:17]</span> <span class="irc-navy">* msprunck (~msprunck@46.218.112.178) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[9:18]</span> <span class="irc-green">* msprunck (~msprunck@46.218.112.178) has joined #flink</span><br />
 <span class="irc-date">[9:23]</span> <span class="irc-navy">* msprunck (~msprunck@46.218.112.178) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:35]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) has joined #flink</span><br />
+<span class="irc-date">[9:40]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-green">* msprunck (~msprunck@46.218.112.178) has joined #flink</span><br />
+<span class="irc-date">[10:08]</span> <span class="irc-navy">* msprunck (~msprunck@46.218.112.178) Quit ()</span><br />
+<span class="irc-date">[10:36]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) has joined #flink</span><br />
+<span class="irc-date">[10:53]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[10:56]</span> <span class="irc-navy">* yango (~vinko@55.Red-217-126-162.staticIP.rima-tde.net) Quit (Changing host)</span><br />
+<span class="irc-date">[10:56]</span> <span class="irc-green">* yango (~vinko@unaffiliated/yango) has joined #flink</span><br />
+<span class="irc-date">[11:25]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
