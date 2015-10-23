@@ -5,3 +5,10 @@ date:   2015-10-23 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[0:31]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:480f:9b18:864:dba) has joined #flink</span><br />
+<span class="irc-date">[1:39]</span> <span class="irc-green">* jgrier (0819c519@gateway/web/freenode/ip.8.25.197.25) has joined #flink</span><br />
+<span class="irc-date">[1:39]</span> <span class="irc-black">&lt;jgrier&gt; Anyone here that can help with a Flink on YARN question?</span><br />
+<span class="irc-date">[2:07]</span> <span class="irc-navy">* jgrier (0819c519@gateway/web/freenode/ip.8.25.197.25) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[2:35]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:480f:9b18:864:dba) Quit (Quit: Leaving...)</span><br />
+<span class="irc-date">[2:50]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:50]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:50]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
