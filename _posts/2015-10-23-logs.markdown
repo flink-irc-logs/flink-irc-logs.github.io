@@ -39,3 +39,9 @@ categories: irc logs
 <span class="irc-date">[12:51]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) has joined #flink</span><br />
 <span class="irc-date">[12:53]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@147-191-92-178.pool.ukrtel.net) has joined #flink</span><br />
 <span class="irc-date">[12:56]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:52]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) has joined #flink</span><br />
+<span class="irc-date">[13:56]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[14:43]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[14:47]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[14:53]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) has joined #flink</span><br />
+<span class="irc-date">[14:57]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:75fc:55d3:6336:eb00) Quit (Ping timeout: 246 seconds)</span><br />
