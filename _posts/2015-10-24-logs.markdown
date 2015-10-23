@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-24"
+date:   2015-10-24 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:37]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[0:41]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 255 seconds)</span><br />
