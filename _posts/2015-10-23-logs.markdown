@@ -12,3 +12,6 @@ categories: irc logs
 <span class="irc-date">[2:50]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
 <span class="irc-date">[2:50]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[2:50]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[3:35]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:480f:9b18:864:dba) has joined #flink</span><br />
+<span class="irc-date">[3:39]</span> <span class="irc-green">* cmonty (cc0e9a85@gateway/web/freenode/ip.204.14.154.133) has joined #flink</span><br />
+<span class="irc-date">[3:48]</span> <span class="irc-navy">* cmonty (cc0e9a85@gateway/web/freenode/ip.204.14.154.133) Quit (Quit: Page closed)</span><br />
