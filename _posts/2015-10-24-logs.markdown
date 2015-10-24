@@ -43,3 +43,6 @@ categories: irc logs
 <span class="irc-date">[13:57]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
 <span class="irc-date">[14:02]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[15:00]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:38b3:a077:de16:cde) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[16:44]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[16:48]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[17:18]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae81e.dynamic.kabel-deutschland.de) Quit (Ping timeout: 250 seconds)</span><br />
