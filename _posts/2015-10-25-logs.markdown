@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "IRC Logs of 2015-10-25"
+date:   2015-10-25 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
