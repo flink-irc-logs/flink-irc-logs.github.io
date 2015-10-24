@@ -50,3 +50,5 @@ categories: irc logs
 <span class="irc-date">[18:34]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 272 seconds)</span><br />
 <span class="irc-date">[20:30]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
 <span class="irc-date">[20:34]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 260 seconds)</span><br />
