@@ -5,3 +5,10 @@ date:   2015-10-25 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[1:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
+<span class="irc-date">[1:29]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[1:49]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
+<span class="irc-date">[2:18]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[2:18]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:22]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[2:19]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
+<span class="irc-date">[2:24]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Ping timeout: 246 seconds)</span><br />
