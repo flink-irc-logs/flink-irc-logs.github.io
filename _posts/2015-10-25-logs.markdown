@@ -44,3 +44,6 @@ categories: irc logs
 <span class="irc-date">[18:56]</span> <span class="irc-green">* alex_1234 (~alex@ip5b40d847.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[18:56]</span> <span class="irc-black">&lt;alex_1234&gt; heyho, somebody here?</span><br />
 <span class="irc-date">[18:59]</span> <span class="irc-black">&lt;alex_1234&gt; I was wondering if it's possible to use some datasets in the stream api. Let's say I have a fixed set of id =&gt; text entries and I receive ids over the stream, would it be possible to get the text associated with the id and work with that? If that would be possible probably getting the text would be done inside the map function, if yes , what's the best practice to store that text? Do you have any documentation where the mapping is ex</span><br />
+<span class="irc-date">[20:31]</span> <span class="irc-green">* Mark__ (~irssi@h151.17.117.75.dynamic.ip.windstream.net) has joined #flink</span><br />
+<span class="irc-date">[20:31]</span> <span class="irc-green">* Mark__ (~irssi@h151.17.117.75.dynamic.ip.windstream.net) has left #flink</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-green">* alex_1234 (~alex@ip5b40d847.dynamic.kabel-deutschland.de) has left #flink</span><br />
