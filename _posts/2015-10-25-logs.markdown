@@ -37,3 +37,4 @@ categories: irc logs
 <span class="irc-date">[13:29]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
 <span class="irc-date">[13:33]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[13:33]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
+<span class="irc-date">[16:27]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed13.dynamic.kabel-deutschland.de) has joined #flink</span><br />
