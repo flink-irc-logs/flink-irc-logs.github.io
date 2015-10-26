@@ -53,3 +53,14 @@ categories: irc logs
 <span class="irc-date">[13:59]</span> <span class="irc-navy">* physikerwelt (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 244 seconds)</span><br />
 <span class="irc-date">[14:03]</span> <span class="irc-green">* physikerwelt (~physikerw@fox.dima.tu-berlin.de) has joined #flink</span><br />
 <span class="irc-date">[14:07]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@129.6.218.175) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[14:31]</span> <span class="irc-navy">* fpompermaier (~Flavio@net203-177-029.mclink.it) Quit (Quit: Sto andando via)</span><br />
+<span class="irc-date">[15:03]</span> <span class="irc-green">* plamb (~plamb@75-175-5-247.ptld.qwest.net) has joined #flink</span><br />
+<span class="irc-date">[15:05]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
+<span class="irc-date">[15:07]</span> <span class="irc-navy">* plamb (~plamb@75-175-5-247.ptld.qwest.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[15:52]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:11]</span> <span class="irc-green">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-navy">* physikerwelt (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[16:16]</span> <span class="irc-green">* physikerwelt (~physikerw@129.6.223.119) has joined #flink</span><br />
+<span class="irc-date">[16:19]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[16:22]</span> <span class="irc-green">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[16:26]</span> <span class="irc-navy">* physikerwelt (~physikerw@129.6.223.119) Quit (Ping timeout: 265 seconds)</span><br />
