@@ -7,3 +7,7 @@ categories: irc logs
 <span class="irc-date">[0:29]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[1:33]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
 <span class="irc-date">[2:14]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:14]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
+<span class="irc-date">[3:20]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[4:16]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) has joined #flink</span><br />
+<span class="irc-date">[4:21]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:445d:95fa:5ea8:fb4d) Quit (Ping timeout: 246 seconds)</span><br />
