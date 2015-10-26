@@ -66,3 +66,13 @@ categories: irc logs
 <span class="irc-date">[16:26]</span> <span class="irc-navy">* physikerwelt (~physikerw@129.6.223.119) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[16:59]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:94a7:b55:5937:2c0e) has joined #flink</span><br />
 <span class="irc-date">[17:33]</span> <span class="irc-green">* fpompermaier (~Flavio@net203-177-029.mclink.it) has joined #flink</span><br />
+<span class="irc-date">[18:59]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 256 seconds)</span><br />
+<span class="irc-date">[19:04]</span> <span class="irc-green">* physikerwelt (~physikerw@129.6.219.19) has joined #flink</span><br />
+<span class="irc-date">[19:07]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 265 seconds)</span><br />
+<span class="irc-date">[19:15]</span> <span class="irc-green">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[19:18]</span> <span class="irc-navy">* physikerwelt (~physikerw@129.6.219.19) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[19:19]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[19:21]</span> <span class="irc-green">* physikerwelt (~physikerw@wlan-141-23-111-194.tubit.tu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[19:27]</span> <span class="irc-navy">* physikerwelt (~physikerw@wlan-141-23-111-194.tubit.tu-berlin.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[19:50]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[20:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 264 seconds)</span><br />
