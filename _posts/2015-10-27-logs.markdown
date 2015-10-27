@@ -57,3 +57,27 @@ categories: irc logs
 <span class="irc-date">[17:46]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
 <span class="irc-date">[18:07]</span> <span class="irc-green">* rodlogic_ (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
 <span class="irc-date">[18:08]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[18:20]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:21]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:29]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[18:29]</span> <span class="irc-green">* rodlogic_ (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:35]</span> <span class="irc-green">* physikerwelt (~physikerw@wlan-141-23-111-194.tubit.tu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[18:38]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@129.6.218.133) Quit (Ping timeout: 255 seconds)</span><br />
+<span class="irc-date">[18:40]</span> <span class="irc-navy">* physikerwelt (~physikerw@wlan-141-23-111-194.tubit.tu-berlin.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:41]</span> <span class="irc-green">* physikerwelt (~physikerw@wlan-141-23-111-194.tubit.tu-berlin.de) has joined #flink</span><br />
+<span class="irc-date">[18:42]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[18:44]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:45]</span> <span class="irc-navy">* physikerwelt (~physikerw@wlan-141-23-111-194.tubit.tu-berlin.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[18:46]</span> <span class="irc-green">* DoDo_ (8d4c2c83@gateway/web/freenode/ip.141.76.44.131) has joined #flink</span><br />
+<span class="irc-date">[18:47]</span> <span class="irc-black">&lt;DoDo_&gt; I try to compile flink-gelly-scala using sbt</span><br />
+<span class="irc-date">[18:47]</span> <span class="irc-black">&lt;DoDo_&gt; however I got the following error</span><br />
+<span class="irc-date">[18:47]</span> <span class="irc-black">&lt;DoDo_&gt; [error] /home/ubuntu/git/flink-learning/flink-gelly-scala/src/main/scala/org/apache/flink/graph/scala/Graph.scala:42: value getJavaEnv is not a member of org.apache.flink.api.scala.ExecutionEnvironment [error]     wrapGraph(jg.Graph.fromDataSet[K, VV, EV](vertices.javaSet, edges.javaSet, env.getJavaEnv)) [error]                                                                                    ^ [error] /home/ubuntu/git/flink-learning/f</span><br />
+<span class="irc-date">[18:48]</span> <span class="irc-black">&lt;DoDo_&gt; the content of build.sbt file is</span><br />
+<span class="irc-date">[18:48]</span> <span class="irc-black">&lt;DoDo_&gt; name := "flink-graph-metrics"  version := "1.0"  scalaVersion := "2.11.6"  libraryDependencies ++= Seq("org.apache.flink" % "flink-scala" % "0.9.1", "org.apache.flink" % "flink-clients" % "0.9.1", "org.apache.flink" % "flink-gelly"  % "0.9.1")  fork in run := true</span><br />
+<span class="irc-date">[18:48]</span> <span class="irc-black">&lt;DoDo_&gt; do you know how to fix the problem?</span><br />
+<span class="irc-date">[18:48]</span> <span class="irc-black">&lt;DoDo_&gt; Thanks</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:34]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[19:46]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5aed00.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[19:59]</span> <span class="irc-green">* rodlogic_ (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[20:01]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Read error: Connection reset by peer)</span><br />
