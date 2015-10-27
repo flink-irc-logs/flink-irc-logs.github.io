@@ -44,3 +44,13 @@ categories: irc logs
 <span class="irc-date">[11:52]</span> <span class="irc-green">* physikerwelt____ (~physikerw@129.6.218.133) has joined #flink</span><br />
 <span class="irc-date">[11:55]</span> <span class="irc-navy">* physikerwelt (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[12:35]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:5f8:5783:d463:37f2) has joined #flink</span><br />
+<span class="irc-date">[14:47]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:5f8:5783:d463:37f2) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[15:26]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[15:32]</span> <span class="irc-navy">* plamb (~plamb@216-64-164-6.static.twtelecom.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[15:38]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[15:51]</span> <span class="irc-navy">* Slackbot4 (~Slackbot@leo.uberspace.de) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[15:54]</span> <span class="irc-navy">* mxm (~mxm@leo.uberspace.de) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[15:57]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[16:00]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has joined #flink</span><br />
+<span class="irc-date">[16:00]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[16:05]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
