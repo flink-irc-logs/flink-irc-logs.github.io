@@ -43,3 +43,4 @@ categories: irc logs
 <span class="irc-date">[11:36]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:94a7:b55:5937:2c0e) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[11:52]</span> <span class="irc-green">* physikerwelt____ (~physikerw@129.6.218.133) has joined #flink</span><br />
 <span class="irc-date">[11:55]</span> <span class="irc-navy">* physikerwelt (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:5f8:5783:d463:37f2) has joined #flink</span><br />
