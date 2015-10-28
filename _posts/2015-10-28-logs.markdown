@@ -9,3 +9,4 @@ categories: irc logs
 <span class="irc-date">[2:38]</span> <span class="irc-navy">* rmetzger (~rmet@71-13-67-130.static.aldl.mi.charter.com) Quit (Changing host)</span><br />
 <span class="irc-date">[2:38]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
 <span class="irc-date">[4:04]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[7:38]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@ip5f5ae8dc.dynamic.kabel-deutschland.de) Quit (Ping timeout: 244 seconds)</span><br />
