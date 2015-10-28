@@ -10,3 +10,11 @@ categories: irc logs
 <span class="irc-date">[2:38]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
 <span class="irc-date">[4:04]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
 <span class="irc-date">[7:38]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@ip5f5ae8dc.dynamic.kabel-deutschland.de) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[9:12]</span> <span class="irc-navy">* DoDo_ (8d4c2c83@gateway/web/freenode/ip.141.76.44.131) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[9:41]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-green">* frefrerock (~frefreroc@walledgarden.nsd.sztaki.hu) has joined #flink</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-black">&lt;frefrerock&gt; Hello guys :)</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-black">&lt;mjsax&gt; hi</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-black">&lt;frefrerock&gt; I have a problem with scala and flink-ml</span><br />
+<span class="irc-date">[10:14]</span> <span class="irc-black">&lt;frefrerock&gt; When I add flink-ml to the libraryDependencies sbt cannot resolve the dependencies :(</span><br />
+<span class="irc-date">[10:14]</span> <span class="irc-black">&lt;frefrerock&gt; sbt says that it cannot find breeze</span><br />
