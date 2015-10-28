@@ -5,3 +5,7 @@ date:   2015-10-28 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[1:43]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:fc73:2e5a:a676:2e18) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:38]</span> <span class="irc-green">* rmetzger (~rmet@71-13-67-130.static.aldl.mi.charter.com) has joined #flink</span><br />
+<span class="irc-date">[2:38]</span> <span class="irc-navy">* rmetzger (~rmet@71-13-67-130.static.aldl.mi.charter.com) Quit (Changing host)</span><br />
+<span class="irc-date">[2:38]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[4:04]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 252 seconds)</span><br />
