@@ -67,3 +67,7 @@ categories: irc logs
 <span class="irc-date">[20:16]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[20:20]</span> <span class="irc-green">* physikerwelt____ (~physikerw@ip5f5ae8dc.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[20:24]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@ip5f5ae8dc.dynamic.kabel-deutschland.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[22:36]</span> <span class="irc-green">* ken__mongolia (cf437782@gateway/web/freenode/ip.207.67.119.130) has joined #flink</span><br />
+<span class="irc-date">[22:36]</span> <span class="irc-black">&lt;ken__mongolia&gt; Is there a recommended way to deserialize Avro datafiles from Kafka?</span><br />
+<span class="irc-date">[22:38]</span> <span class="irc-black">&lt;ken__mongolia&gt; I ended up writing a deserializer for the kafka consumer, but it returns DataStream[Seq[T]], Is there there a nicer way to turn that into DataStream[T] without flatMap?</span><br />
+<span class="irc-date">[22:46]</span> <span class="irc-navy">* ken__mongolia (cf437782@gateway/web/freenode/ip.207.67.119.130) Quit (Quit: Page closed)</span><br />
