@@ -63,3 +63,7 @@ categories: irc logs
 <span class="irc-date">[19:22]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@129.6.222.18) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[19:27]</span> <span class="irc-navy">* saleh (80f0e159@gateway/web/freenode/ip.128.240.225.89) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[19:38]</span> <span class="irc-green">* plamb (~plamb@216-64-164-6.static.twtelecom.net) has left #flink</span><br />
+<span class="irc-date">[20:15]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
+<span class="irc-date">[20:16]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[20:20]</span> <span class="irc-green">* physikerwelt____ (~physikerw@ip5f5ae8dc.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[20:24]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@ip5f5ae8dc.dynamic.kabel-deutschland.de) Quit (Client Quit)</span><br />
