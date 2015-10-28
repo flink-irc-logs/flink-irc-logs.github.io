@@ -36,3 +36,8 @@ categories: irc logs
 <span class="irc-date">[11:29]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
 <span class="irc-date">[12:13]</span> <span class="irc-navy">* physikerwelt____ (~physikerw@fox.dima.tu-berlin.de) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[12:14]</span> <span class="irc-green">* physikerwelt____ (~physikerw@129.6.222.73) has joined #flink</span><br />
+<span class="irc-date">[13:13]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:1450:e8d6:3e16:72ea) has joined #flink</span><br />
+<span class="irc-date">[13:13]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:1450:e8d6:3e16:72ea) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[13:15]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:4871:60cf:94b2:72d6) has joined #flink</span><br />
+<span class="irc-date">[13:21]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:4871:60cf:94b2:72d6) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:23]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:4871:60cf:94b2:72d6) has joined #flink</span><br />
