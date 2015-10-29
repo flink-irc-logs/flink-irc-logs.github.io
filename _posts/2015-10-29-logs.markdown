@@ -37,3 +37,4 @@ categories: irc logs
 <span class="irc-date">[17:24]</span> <span class="irc-green">* saleh (80f0e159@gateway/web/freenode/ip.128.240.225.89) has joined #flink</span><br />
 <span class="irc-date">[18:09]</span> <span class="irc-navy">* saleh (80f0e159@gateway/web/freenode/ip.128.240.225.89) Quit (Quit: Page closed)</span><br />
 <span class="irc-date">[21:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:54]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
