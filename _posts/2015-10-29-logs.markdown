@@ -17,3 +17,9 @@ categories: irc logs
 <span class="irc-date">[8:23]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[9:19]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
 <span class="irc-date">[9:23]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[10:20]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
+<span class="irc-date">[10:24]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[10:43]</span> <span class="irc-navy">* fpompermaier (~Flavio@net203-177-029.mclink.it) Quit (Quit: Sto andando via)</span><br />
+<span class="irc-date">[11:20]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
+<span class="irc-date">[11:25]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[11:29]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
