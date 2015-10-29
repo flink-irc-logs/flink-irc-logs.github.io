@@ -23,3 +23,11 @@ categories: irc logs
 <span class="irc-date">[11:20]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
 <span class="irc-date">[11:25]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[11:29]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-green">* saleh (80f0e159@gateway/web/freenode/ip.128.240.225.89) has joined #flink</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;saleh&gt; Hi every one! I am running a steaming Fink job locally but I am getting this error and I don't have any idea what it means. Any insight please?</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;saleh&gt; Custom Source -&gt; Flat Map -&gt; Map(5/8) switched to FAILED java.lang.Exception: Could not load the task's invokable class.</span><br />
+<span class="irc-date">[12:56]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) has joined #flink</span><br />
+<span class="irc-date">[13:01]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cdac:e34e:24b5:b30c) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[13:43]</span> <span class="irc-navy">* saleh (80f0e159@gateway/web/freenode/ip.128.240.225.89) Quit (Ping timeout: 246 seconds)</span><br />
