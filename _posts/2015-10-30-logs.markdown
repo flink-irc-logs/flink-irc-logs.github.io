@@ -5,3 +5,5 @@ date:   2015-10-30 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[2:09]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cce0:5b0e:e5b8:705a) has joined #flink</span><br />
+<span class="irc-date">[2:43]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cce0:5b0e:e5b8:705a) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[3:21]</span> <span class="irc-green">* katychuang (sid64947@gateway/web/irccloud.com/x-kespjxpxfewoioff) has left #flink</span><br />
