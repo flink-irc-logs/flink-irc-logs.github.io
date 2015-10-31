@@ -7,3 +7,10 @@ categories: irc logs
 <span class="irc-date">[2:35]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:61b4:6c5e:cc3f:b223) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[3:35]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:61b4:6c5e:cc3f:b223) has joined #flink</span><br />
 <span class="irc-date">[3:41]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:61b4:6c5e:cc3f:b223) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[4:37]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:61b4:6c5e:cc3f:b223) has joined #flink</span><br />
+<span class="irc-date">[4:41]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:61b4:6c5e:cc3f:b223) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[6:05]</span> <span class="irc-navy">* Disconnected.</span><br />
+<span class="irc-date">[6:05]</span> <span class="irc-brown">-cameron.freenode.net- *** Looking up your hostname...</span><br />
+<span class="irc-date">[6:05]</span> <span class="irc-brown">-cameron.freenode.net- *** Checking Ident</span><br />
+<span class="irc-date">[6:05]</span> <span class="irc-brown">-cameron.freenode.net- *** Found your hostname</span><br />
+<span class="irc-date">[6:05]</span> <span class="irc-brown">-cameron.freenode.net- *** No Ident response</span><br />
