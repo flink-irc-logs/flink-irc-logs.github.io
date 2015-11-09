@@ -16,3 +16,17 @@ categories: irc logs
 <span class="irc-date">[11:21]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:d154:14c8:7148:9b23) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[11:25]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
 <span class="irc-date">[12:17]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:d154:14c8:7148:9b23) has joined #flink</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:d154:14c8:7148:9b23) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:d154:14c8:7148:9b23) has joined #flink</span><br />
+<span class="irc-date">[13:07]</span> <span class="irc-green">* ercoppa (9764119c@gateway/web/freenode/ip.151.100.17.156) has joined #flink</span><br />
+<span class="irc-date">[13:09]</span> <span class="irc-black">&lt;ercoppa&gt; hello, I am writing a paper where we have used flink. What is the paper reference for citing Flink? "Breaking the chains: on declarative data analysis and data independence in the big data era" at VLDB 2014?</span><br />
+<span class="irc-date">[13:09]</span> <span class="irc-black">&lt;rmetzger&gt; Hi ercoppa</span><br />
+<span class="irc-date">[13:10]</span> <span class="irc-black">&lt;rmetzger&gt; let me see</span><br />
+<span class="irc-date">[13:11]</span> <span class="irc-black">&lt;rmetzger&gt; This one? <a href="http://stratosphere.eu/assets/papers/2014-VLDBJ_Stratosphere_Overview.pdf">http://stratosphere.eu/assets/papers/2014-VLDBJ_Stratosphere_Overview.pdf</a></span><br />
+<span class="irc-date">[13:12]</span> <span class="irc-black">&lt;rmetzger&gt; is apparently the best scientific publication giving an overview of the system</span><br />
+<span class="irc-date">[13:12]</span> <span class="irc-black">&lt;rmetzger&gt; even though its still under the stratosphere name</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-black">&lt;ercoppa&gt; Ok, thank you very much</span><br />
+<span class="irc-date">[13:23]</span> <span class="irc-navy">* ercoppa (9764119c@gateway/web/freenode/ip.151.100.17.156) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[13:39]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[14:08]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[14:13]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:d154:14c8:7148:9b23) Quit (Remote host closed the connection)</span><br />
