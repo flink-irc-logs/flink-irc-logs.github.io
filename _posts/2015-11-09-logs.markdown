@@ -40,3 +40,4 @@ categories: irc logs
 <span class="irc-date">[19:19]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 250 seconds)</span><br />
 <span class="irc-date">[20:17]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
 <span class="irc-date">[21:51]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[22:56]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
