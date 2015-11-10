@@ -19,3 +19,6 @@ categories: irc logs
 <span class="irc-date">[11:55]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
 <span class="irc-date">[12:14]</span> <span class="irc-green">* asdf___ (252c07f2@gateway/web/freenode/ip.37.44.7.242) has joined #flink</span><br />
 <span class="irc-date">[12:15]</span> <span class="irc-navy">* asdf___ (252c07f2@gateway/web/freenode/ip.37.44.7.242) Quit (Client Quit)</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[13:42]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
