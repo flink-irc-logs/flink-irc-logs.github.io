@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-11"
+date:   2015-11-11 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:18]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D027E960F72A67FFDE17.dip0.t-ipconnect.de) Quit (Ping timeout: 240 seconds)</span><br />
