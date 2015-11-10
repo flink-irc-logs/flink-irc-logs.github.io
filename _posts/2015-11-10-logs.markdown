@@ -7,3 +7,7 @@ categories: irc logs
 <span class="irc-date">[1:17]</span> <span class="irc-green">* Guest7446 (~rodlogic@2601:18a:c100:3d74:7c06:3f89:f864:b70d) has joined #flink</span><br />
 <span class="irc-date">[2:04]</span> <span class="irc-navy">* Guest7446 (~rodlogic@2601:18a:c100:3d74:7c06:3f89:f864:b70d) Quit (Quit: Leaving...)</span><br />
 <span class="irc-date">[2:06]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:7c06:3f89:f864:b70d) has joined #flink</span><br />
+<span class="irc-date">[9:46]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:46]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[9:46]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[9:52]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
