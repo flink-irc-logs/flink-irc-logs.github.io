@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-10"
+date:   2015-11-10 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:17]</span> <span class="irc-green">* Guest7446 (~rodlogic@2601:18a:c100:3d74:7c06:3f89:f864:b70d) has joined #flink</span><br />
+<span class="irc-date">[2:04]</span> <span class="irc-navy">* Guest7446 (~rodlogic@2601:18a:c100:3d74:7c06:3f89:f864:b70d) Quit (Quit: Leaving...)</span><br />
+<span class="irc-date">[2:06]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:7c06:3f89:f864:b70d) has joined #flink</span><br />
