@@ -5,3 +5,4 @@ date:   2015-11-11 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[0:18]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D027E960F72A67FFDE17.dip0.t-ipconnect.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[3:45]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:4d57:2ec7:2f8:1801) Quit (Remote host closed the connection)</span><br />
