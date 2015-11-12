@@ -49,3 +49,10 @@ categories: irc logs
 <span class="irc-date">[14:39]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
 <span class="irc-date">[16:09]</span> <span class="irc-green">* kgs (59478476@gateway/web/freenode/ip.89.71.132.118) has joined #flink</span><br />
 <span class="irc-date">[16:17]</span> <span class="irc-black">&lt;kgs&gt; hi, i have question about Flink 0.10 hello world from <a href="http://www.slideshare.net/stephanewen1/flink-010-bay-area-meetup-october-2015">http://www.slideshare.net/stephanewen1/flink-010-bay-area-meetup-october-2015</a> - what is implementation of EOFTrigger? is it included in Flink distribution?</span><br />
+<span class="irc-date">[17:25]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[17:41]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[17:50]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[17:54]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:02]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
+<span class="irc-date">[18:03]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:05]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
