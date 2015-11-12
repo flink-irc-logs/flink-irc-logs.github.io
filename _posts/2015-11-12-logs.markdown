@@ -40,3 +40,12 @@ categories: irc logs
 <span class="irc-date">[14:11]</span> <span class="irc-green">* rmetzger (~rmet@88.128.80.194) has joined #flink</span><br />
 <span class="irc-date">[14:11]</span> <span class="irc-navy">* rmetzger (~rmet@88.128.80.194) Quit (Changing host)</span><br />
 <span class="irc-date">[14:11]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[14:24]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[14:26]</span> <span class="irc-navy">* mdave (3df63905@gateway/web/freenode/ip.61.246.57.5) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[14:29]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[14:38]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
+<span class="irc-date">[14:39]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:39]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
+<span class="irc-date">[16:09]</span> <span class="irc-green">* kgs (59478476@gateway/web/freenode/ip.89.71.132.118) has joined #flink</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-black">&lt;kgs&gt; hi, i have question about Flink 0.10 hello world from <a href="http://www.slideshare.net/stephanewen1/flink-010-bay-area-meetup-october-2015">http://www.slideshare.net/stephanewen1/flink-010-bay-area-meetup-october-2015</a> - what is implementation of EOFTrigger? is it included in Flink distribution?</span><br />
