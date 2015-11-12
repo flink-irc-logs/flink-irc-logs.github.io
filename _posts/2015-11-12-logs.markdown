@@ -5,3 +5,4 @@ date:   2015-11-12 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[0:02]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:500c:85a2:789:7db7) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[0:29]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
