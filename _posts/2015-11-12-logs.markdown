@@ -29,3 +29,14 @@ categories: irc logs
 <span class="irc-date">[11:36]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
 <span class="irc-date">[11:40]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[11:47]</span> <span class="irc-navy">* michael_lee (~michael_l@v133-130-108-97.a037.g.tyo1.static.cnode.io) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[13:07]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[13:37]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) has joined #flink</span><br />
+<span class="irc-date">[13:41]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[13:42]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2435:576d:3c47:5d01) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[14:10]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[14:11]</span> <span class="irc-green">* rmetzger (~rmet@88.128.80.194) has joined #flink</span><br />
+<span class="irc-date">[14:11]</span> <span class="irc-navy">* rmetzger (~rmet@88.128.80.194) Quit (Changing host)</span><br />
+<span class="irc-date">[14:11]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
