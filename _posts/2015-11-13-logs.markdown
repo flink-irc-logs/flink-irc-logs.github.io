@@ -8,3 +8,5 @@ categories: irc logs
 <span class="irc-date">[3:37]</span> <span class="irc-navy">* mxm (~mxm@leo.uberspace.de) Quit (*.net *.split)</span><br />
 <span class="irc-date">[3:44]</span> <span class="irc-green">* mxm (~mxm@leo.uberspace.de) has joined #flink</span><br />
 <span class="irc-date">[4:15]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[5:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
+<span class="irc-date">[5:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Ping timeout: 240 seconds)</span><br />
