@@ -39,3 +39,8 @@ categories: irc logs
 <span class="irc-date">[16:39]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
 <span class="irc-date">[18:07]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 265 seconds)</span><br />
 <span class="irc-date">[18:11]</span> <span class="irc-green">* andi__ (~andi@155.56.40.47) has joined #flink</span><br />
+<span class="irc-date">[18:29]</span> <span class="irc-navy">* andi__ (~andi@155.56.40.47) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[18:40]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[19:36]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[19:42]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Quit: qwerty_nor)</span><br />
+<span class="irc-date">[20:20]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D036E4EFED1F564FE405.dip0.t-ipconnect.de) has joined #flink</span><br />
