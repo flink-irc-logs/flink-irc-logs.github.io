@@ -34,3 +34,4 @@ categories: irc logs
 <span class="irc-date">[13:08]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[13:33]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
 <span class="irc-date">[13:33]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
+<span class="irc-date">[15:20]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
