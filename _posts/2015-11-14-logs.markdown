@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-14"
+date:   2015-11-14 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:13]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
+<span class="irc-date">[1:13]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Read error: Connection reset by peer)</span><br />
