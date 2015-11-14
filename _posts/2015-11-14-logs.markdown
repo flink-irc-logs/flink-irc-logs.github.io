@@ -6,3 +6,6 @@ categories: irc logs
 ---
 <span class="irc-date">[1:13]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
 <span class="irc-date">[1:13]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[5:10]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[6:09]</span> <span class="irc-green">* parshime1s (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
+<span class="irc-date">[6:14]</span> <span class="irc-navy">* parshimers (~parshimer@unaffiliated/parshimers) Quit (*.net *.split)</span><br />
