@@ -17,3 +17,11 @@ categories: irc logs
 <span class="irc-date">[8:47]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[9:44]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
 <span class="irc-date">[9:49]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[10:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) has joined #flink</span><br />
+<span class="irc-date">[10:50]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:156b:2d45:4770:a649) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-navy">* LogBot (~PircBot@240.121.148.146.bc.googleusercontent.com) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-navy">* Disconnected.</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-brown">-card.freenode.net- *** Looking up your hostname...</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-brown">-card.freenode.net- *** Checking Ident</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-brown">-card.freenode.net- *** Found your hostname</span><br />
+<span class="irc-date">[11:17]</span> <span class="irc-brown">-card.freenode.net- *** No Ident response</span><br />
