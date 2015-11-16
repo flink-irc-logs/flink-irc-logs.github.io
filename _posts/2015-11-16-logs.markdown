@@ -19,3 +19,8 @@ categories: irc logs
 <span class="irc-date">[18:41]</span> <span class="irc-navy">* zlosim (5cf0e63a@gateway/web/freenode/ip.92.240.230.58) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[19:41]</span> <span class="irc-navy">* packet23_ (~packet@rsg-gw.bgr1-r1.syseleven.net) Quit (Quit: Konversation terminated!)</span><br />
 <span class="irc-date">[20:09]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[20:59]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 260 seconds)</span><br />
+<span class="irc-date">[21:46]</span> <span class="irc-green">* zlosim (bca7b9a6@gateway/web/freenode/ip.188.167.185.166) has joined #flink</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-green">* skom (8ded0ce0@gateway/web/freenode/ip.141.237.12.224) has joined #flink</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-brick">* skom slaps skom around a bit with a large fishbot</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-navy">* skom (8ded0ce0@gateway/web/freenode/ip.141.237.12.224) Quit (Client Quit)</span><br />
