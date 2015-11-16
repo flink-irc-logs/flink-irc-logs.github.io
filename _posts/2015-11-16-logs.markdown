@@ -11,3 +11,5 @@ categories: irc logs
 <span class="irc-date">[14:15]</span> <span class="irc-green">* LogBot (~PircBot@240.121.148.146.bc.googleusercontent.com) has joined #flink</span><br />
 <span class="irc-date">[14:15]</span> <span class="irc-green">* Topic is 'Welcome to the Apache Flink IRC channel | Flink website: <a href="http://flink.apache.org/">http://flink.apache.org/</a> | Latest stable release: 0.9.1 | Note that this channel is logged and the logs are published online: <a href="http://flink-irc-logs.github.io/'">http://flink-irc-logs.github.io/'</a></span><br />
 <span class="irc-date">[14:15]</span> <span class="irc-green">* Set by rmetzger!~rmet@apache/committer/rmetzger on Wed Sep 23 14:19:37 CEST 2015</span><br />
+<span class="irc-date">[14:21]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3866:1dcc:141:27c7) has joined #flink</span><br />
+<span class="irc-date">[15:32]</span> <span class="irc-green">* zlosim (5cf0e63a@gateway/web/freenode/ip.92.240.230.58) has joined #flink</span><br />
