@@ -24,3 +24,4 @@ categories: irc logs
 <span class="irc-date">[22:09]</span> <span class="irc-green">* skom (8ded0ce0@gateway/web/freenode/ip.141.237.12.224) has joined #flink</span><br />
 <span class="irc-date">[22:10]</span> <span class="irc-brick">* skom slaps skom around a bit with a large fishbot</span><br />
 <span class="irc-date">[22:10]</span> <span class="irc-navy">* skom (8ded0ce0@gateway/web/freenode/ip.141.237.12.224) Quit (Client Quit)</span><br />
+<span class="irc-date">[23:09]</span> <span class="irc-navy">* zlosim (bca7b9a6@gateway/web/freenode/ip.188.167.185.166) Quit (Quit: Page closed)</span><br />
