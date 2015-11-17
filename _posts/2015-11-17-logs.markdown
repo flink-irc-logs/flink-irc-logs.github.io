@@ -10,3 +10,5 @@ categories: irc logs
 <span class="irc-date">[10:01]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[10:01]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
 <span class="irc-date">[10:01]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[10:42]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[11:04]</span> <span class="irc-green">* packet23 (~packet@rsg-gw.bgr1-r1.syseleven.net) has joined #flink</span><br />
