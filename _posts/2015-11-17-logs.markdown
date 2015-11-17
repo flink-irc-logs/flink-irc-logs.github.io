@@ -25,3 +25,4 @@ categories: irc logs
 <span class="irc-date">[18:37]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:2df7:34bd:4fa1:c3cd) has joined #flink</span><br />
 <span class="irc-date">[20:55]</span> <span class="irc-navy">* packet23 (~packet@rsg-gw.bgr1-r1.syseleven.net) Quit (Quit: Konversation terminated!)</span><br />
 <span class="irc-date">[21:05]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[23:24]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@37.229.49.175) Quit (Ping timeout: 264 seconds)</span><br />
