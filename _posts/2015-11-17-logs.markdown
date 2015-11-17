@@ -5,3 +5,8 @@ date:   2015-11-17 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[4:39]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3866:1dcc:141:27c7) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:07]</span> <span class="irc-green">* fhueske (~fhueske@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[9:12]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-green">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-navy">* rmetzger (~rmet@ip5b40315a.dynamic.kabel-deutschland.de) Quit (Changing host)</span><br />
+<span class="irc-date">[10:01]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
