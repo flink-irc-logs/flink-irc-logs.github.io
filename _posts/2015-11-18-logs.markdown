@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-18"
+date:   2015-11-18 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:23]</span> <span class="irc-green">* chris_____ (1fbb1c16@gateway/web/freenode/ip.31.187.28.22) has joined #flink</span><br />
+<span class="irc-date">[0:24]</span> <span class="irc-navy">* chris_____ (1fbb1c16@gateway/web/freenode/ip.31.187.28.22) Quit (Client Quit)</span><br />
+<span class="irc-date">[0:26]</span> <span class="irc-green">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) has joined #flink</span><br />
+<span class="irc-date">[1:23]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Quit: Leaving.)</span><br />
