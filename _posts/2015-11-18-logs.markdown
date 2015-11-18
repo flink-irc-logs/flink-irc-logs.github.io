@@ -9,3 +9,4 @@ categories: irc logs
 <span class="irc-date">[0:26]</span> <span class="irc-green">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) has joined #flink</span><br />
 <span class="irc-date">[1:23]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Quit: Leaving.)</span><br />
 <span class="irc-date">[4:01]</span> <span class="irc-navy">* voodootru (~Voodoo@c-24-9-211-59.hsd1.co.comcast.net) Quit (Quit: Leaving)</span><br />
+<span class="irc-date">[5:22]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2df7:34bd:4fa1:c3cd) Quit (Remote host closed the connection)</span><br />
