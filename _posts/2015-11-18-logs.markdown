@@ -10,3 +10,7 @@ categories: irc logs
 <span class="irc-date">[1:23]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Quit: Leaving.)</span><br />
 <span class="irc-date">[4:01]</span> <span class="irc-navy">* voodootru (~Voodoo@c-24-9-211-59.hsd1.co.comcast.net) Quit (Quit: Leaving)</span><br />
 <span class="irc-date">[5:22]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:2df7:34bd:4fa1:c3cd) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:36]</span> <span class="irc-green">* ziggypup (~ziggypup@202-180-115-128.callplus.net.nz) has joined #flink</span><br />
+<span class="irc-date">[9:36]</span> <span class="irc-green">* ziggypup (~ziggypup@202-180-115-128.callplus.net.nz) has left #flink</span><br />
+<span class="irc-date">[9:50]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@37.229.49.175) has joined #flink</span><br />
+<span class="irc-date">[10:19]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
