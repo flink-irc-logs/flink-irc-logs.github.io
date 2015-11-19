@@ -95,3 +95,10 @@ categories: irc logs
 <span class="irc-date">[18:21]</span> <span class="irc-black">&lt;rmetzger&gt; it will automatically create a fat jar with all the required dependencies included</span><br />
 <span class="irc-date">[18:21]</span> <span class="irc-black">&lt;rmetzger&gt; if you have only one class with a main method, you can specify that class name in the pom file</span><br />
 <span class="irc-date">[18:22]</span> <span class="irc-black">&lt;rmetzger&gt; you can also pass the -c flag to the /bin/flink run tool when submitting a job</span><br />
+<span class="irc-date">[18:23]</span> <span class="irc-black">&lt;rmetzger&gt; sorry, I have to leave now... I'm online again tomorrow</span><br />
+<span class="irc-date">[18:23]</span> <span class="irc-black">&lt;alex_1234&gt; Maybe somebody else is here who knows how to do that?</span><br />
+<span class="irc-date">[18:23]</span> <span class="irc-black">&lt;alex_1234&gt; Thank you very much though</span><br />
+<span class="irc-date">[18:27]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[18:36]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[18:54]</span> <span class="irc-navy">* andi__ (~andi@155.56.40.47) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[19:39]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
