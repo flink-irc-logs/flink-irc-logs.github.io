@@ -9,3 +9,4 @@ categories: irc logs
 <span class="irc-date">[3:23]</span> <span class="irc-navy">* parshime1s (~parshimer@unaffiliated/parshimers) Quit (Ping timeout: 250 seconds)</span><br />
 <span class="irc-date">[3:23]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
 <span class="irc-date">[3:25]</span> <span class="irc-green">* parshimers (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
+<span class="irc-date">[5:14]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:51be:d7fb:1d6e:7584) Quit (Remote host closed the connection)</span><br />
