@@ -11,3 +11,5 @@ categories: irc logs
 <span class="irc-date">[3:25]</span> <span class="irc-green">* parshimers (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
 <span class="irc-date">[5:14]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:51be:d7fb:1d6e:7584) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[7:09]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[9:28]</span> <span class="irc-green">* andi__ (~andi@155.56.40.47) has joined #flink</span><br />
+<span class="irc-date">[9:59]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
