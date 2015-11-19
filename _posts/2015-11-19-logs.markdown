@@ -18,3 +18,6 @@ categories: irc logs
 <span class="irc-date">[11:36]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
 <span class="irc-date">[11:58]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 250 seconds)</span><br />
 <span class="irc-date">[12:05]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[13:13]</span> <span class="irc-navy">* Guest20347 (83e4b6fb@gateway/web/freenode/ip.131.228.182.251) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[13:40]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[14:20]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
