@@ -59,3 +59,39 @@ categories: irc logs
 <span class="irc-date">[16:21]</span> <span class="irc-black">&lt;the_drow&gt; no but there could be many many dictionaries</span><br />
 <span class="irc-date">[16:22]</span> <span class="irc-black">&lt;rmetzger&gt; okay</span><br />
 <span class="irc-date">[16:22]</span> <span class="irc-black">&lt;the_drow&gt; and some of the time I need to compare them to dictionaries of the same type and id that were previously inserted to the system</span><br />
+<span class="irc-date">[16:23]</span> <span class="irc-black">&lt;rmetzger&gt; okay, this sounds like a pretty big project</span><br />
+<span class="irc-date">[16:23]</span> <span class="irc-black">&lt;rmetzger&gt; I don't know how much experience you have with these distributed batch processing systems you have</span><br />
+<span class="irc-date">[16:24]</span> <span class="irc-black">&lt;the_drow&gt; none</span><br />
+<span class="irc-date">[16:24]</span> <span class="irc-black">&lt;the_drow&gt; which is exactly why I'm going for it :)</span><br />
+<span class="irc-date">[16:24]</span> <span class="irc-black">&lt;rmetzger&gt; I see</span><br />
+<span class="irc-date">[16:24]</span> <span class="irc-black">&lt;the_drow&gt; rmetzger: if you have 15 minutes I can dwelve into specifics</span><br />
+<span class="irc-date">[16:25]</span> <span class="irc-black">&lt;rmetzger&gt; mh, I'm actually kind of busy right now</span><br />
+<span class="irc-date">[16:25]</span> <span class="irc-black">&lt;rmetzger&gt; my company offers some free flink training material online: <a href="http://dataartisans.github.io/flink-training/">http://dataartisans.github.io/flink-training/</a></span><br />
+<span class="irc-date">[16:25]</span> <span class="irc-black">&lt;rmetzger&gt; I think that's a great way to learn Flink</span><br />
+<span class="irc-date">[16:26]</span> <span class="irc-black">&lt;rmetzger&gt; After roughly one day, you should have a first idea how Flink is working and what you can do with it</span><br />
+<span class="irc-date">[16:26]</span> <span class="irc-black">&lt;rmetzger&gt; since you intend to do batch processing, try to make the "DataSet API" exercises</span><br />
+<span class="irc-date">[17:16]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[17:22]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[17:28]</span> <span class="irc-black">&lt;the_drow&gt; rmetzger: thanks!</span><br />
+<span class="irc-date">[17:28]</span> <span class="irc-black">&lt;rmetzger&gt; you are welcome</span><br />
+<span class="irc-date">[17:30]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[17:55]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[17:58]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) has joined #flink</span><br />
+<span class="irc-date">[17:59]</span> <span class="irc-navy">* chrkl (~chrkl@2001:4dd0:fe49:0:ba27:ebff:fe8f:f319) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[18:01]</span> <span class="irc-green">* chrkl (~chrkl@2001:4dd0:fe49:0:ba27:ebff:fe8f:f319) has joined #flink</span><br />
+<span class="irc-date">[18:04]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit (Read error: error:1408F119:SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac)</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;alex_1234&gt; hey flink people :) somebody here?</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;rmetzger&gt; yep</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;rmetzger&gt; whats up?</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;alex_1234&gt; nothing special, still fighting with flink :D</span><br />
+<span class="irc-date">[18:17]</span> <span class="irc-black">&lt;rmetzger&gt; okay</span><br />
+<span class="irc-date">[18:18]</span> <span class="irc-black">&lt;alex_1234&gt; How's the development going?</span><br />
+<span class="irc-date">[18:18]</span> <span class="irc-black">&lt;rmetzger&gt; good</span><br />
+<span class="irc-date">[18:19]</span> <span class="irc-black">&lt;rmetzger&gt; <a href="https://github.com/apache/flink/pulse/monthly">https://github.com/apache/flink/pulse/monthly</a></span><br />
+<span class="irc-date">[18:20]</span> <span class="irc-black">&lt;alex_1234&gt; My professor wants me to put everything I've done into one executable file, he suggested using mvn assembly plugin. I've started to read about that and checked the pom.xml (of the quickstart tutorial) which already has something that looks very promissing. I see "shade" there and a description of what it does. It looks like what I want to achieve except that I want it to include flink too. Is that possible? I have only one main metho</span><br />
+<span class="irc-date">[18:21]</span> <span class="irc-black">&lt;alex_1234&gt; I understand that the typical use case would be to have a flink instance running on a cluster and only submitting jars with the "jobs" but for now it would be great if that could be done.</span><br />
+<span class="irc-date">[18:21]</span> <span class="irc-black">&lt;rmetzger&gt; you can use the pom from the quickstart xml</span><br />
+<span class="irc-date">[18:21]</span> <span class="irc-black">&lt;rmetzger&gt; it will automatically create a fat jar with all the required dependencies included</span><br />
+<span class="irc-date">[18:21]</span> <span class="irc-black">&lt;rmetzger&gt; if you have only one class with a main method, you can specify that class name in the pom file</span><br />
+<span class="irc-date">[18:22]</span> <span class="irc-black">&lt;rmetzger&gt; you can also pass the -c flag to the /bin/flink run tool when submitting a job</span><br />
