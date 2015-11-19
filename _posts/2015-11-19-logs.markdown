@@ -5,3 +5,7 @@ date:   2015-11-19 01:52:14
 categories: irc logs
 ---
 <span class="irc-date">[1:08]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0BE18BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[3:23]</span> <span class="irc-navy">* mxm (~mxm@leo.uberspace.de) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[3:23]</span> <span class="irc-navy">* parshime1s (~parshimer@unaffiliated/parshimers) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[3:23]</span> <span class="irc-green">* mxm_ (~mxm@leo.uberspace.de) has joined #flink</span><br />
+<span class="irc-date">[3:25]</span> <span class="irc-green">* parshimers (~parshimer@unaffiliated/parshimers) has joined #flink</span><br />
