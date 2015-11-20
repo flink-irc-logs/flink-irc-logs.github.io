@@ -11,3 +11,10 @@ categories: irc logs
 <span class="irc-date">[2:54]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) has joined #flink</span><br />
 <span class="irc-date">[2:54]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) Quit (Read error: Connection reset by peer)</span><br />
 <span class="irc-date">[4:45]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:27]</span> <span class="irc-green">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) has joined #flink</span><br />
+<span class="irc-date">[9:42]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[9:43]</span> <span class="irc-green">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) has joined #flink</span><br />
+<span class="irc-date">[9:43]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Client Quit)</span><br />
+<span class="irc-date">[9:55]</span> <span class="irc-green">* rmetzger (~rmet@91.64.49.90) has joined #flink</span><br />
+<span class="irc-date">[9:55]</span> <span class="irc-navy">* rmetzger (~rmet@91.64.49.90) Quit (Changing host)</span><br />
+<span class="irc-date">[9:55]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
