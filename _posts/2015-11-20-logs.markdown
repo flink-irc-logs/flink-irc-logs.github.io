@@ -18,3 +18,8 @@ categories: irc logs
 <span class="irc-date">[9:55]</span> <span class="irc-green">* rmetzger (~rmet@91.64.49.90) has joined #flink</span><br />
 <span class="irc-date">[9:55]</span> <span class="irc-navy">* rmetzger (~rmet@91.64.49.90) Quit (Changing host)</span><br />
 <span class="irc-date">[9:55]</span> <span class="irc-green">* rmetzger (~rmet@apache/committer/rmetzger) has joined #flink</span><br />
+<span class="irc-date">[11:05]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:08]</span> <span class="irc-green">* qwerty_nor1 (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:10]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 276 seconds)</span><br />
+<span class="irc-date">[11:10]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
+<span class="irc-date">[11:30]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
