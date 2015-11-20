@@ -61,3 +61,10 @@ categories: irc logs
 <span class="irc-date">[17:27]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:740d:f70c:7ab9:8c2f) has joined #flink</span><br />
 <span class="irc-date">[17:31]</span> <span class="irc-green">* bandrews (~textual@pool-98-113-39-90.nycmny.fios.verizon.net) has joined #flink</span><br />
 <span class="irc-date">[18:13]</span> <span class="irc-navy">* drew_ (47b7e242@gateway/web/freenode/ip.71.183.226.66) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[18:28]</span> <span class="irc-navy">* bandrews (~textual@pool-98-113-39-90.nycmny.fios.verizon.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)</span><br />
+<span class="irc-date">[18:32]</span> <span class="irc-green">* bandrews (~textual@pool-98-113-39-90.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[18:32]</span> <span class="irc-navy">* bandrews (~textual@pool-98-113-39-90.nycmny.fios.verizon.net) Quit (Client Quit)</span><br />
+<span class="irc-date">[19:03]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) Quit (Ping timeout: 276 seconds)</span><br />
+<span class="irc-date">[19:26]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[19:42]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D01218BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[20:21]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D01218BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 272 seconds)</span><br />
