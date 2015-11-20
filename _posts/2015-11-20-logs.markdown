@@ -27,3 +27,32 @@ categories: irc logs
 <span class="irc-date">[13:26]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[13:26]</span> <span class="irc-black">&lt;alex_1234&gt; hi@all</span><br />
 <span class="irc-date">[13:37]</span> <span class="irc-black">&lt;mjsax&gt; hi</span><br />
+<span class="irc-date">[14:33]</span> <span class="irc-black">&lt;alex_1234&gt; do you know how to create a jar with mvn shade that includes flink too?</span><br />
+<span class="irc-date">[14:38]</span> <span class="irc-black">&lt;mjsax&gt; What do you mean by "includes flink"</span><br />
+<span class="irc-date">[14:39]</span> <span class="irc-black">&lt;mjsax&gt; what do you want to include exactly?</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;alex_1234&gt; well, I want to have a jar which I can run from shell with java -jar startmyflinkprogram.jar</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-black">&lt;mjsax&gt; how would the code be executed?</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-black">&lt;alex_1234&gt; I want it to be the same behaviour that I have now when I click run in eclipse. If I understand it right, that's not intended by default.</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-black">&lt;alex_1234&gt; The "normal" behaviour is to submit a jar to a flink cluster.</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-black">&lt;mjsax&gt; It's not :)</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-black">&lt;mjsax&gt; But this should not be hard.</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-black">&lt;alex_1234&gt; I want it to start a local/mini-cluster and run my main method</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-black">&lt;alex_1234&gt; well, the pom.xml comments tell that they include everything except flink to the created jar</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-black">&lt;mjsax&gt; I would recommand maven-jar-plugin thought -- I find it easier to use.</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-black">&lt;alex_1234&gt; my professor wants me to use the assembly plugin, I've seen that flink uses shade</span><br />
+<span class="irc-date">[14:43]</span> <span class="irc-black">&lt;alex_1234&gt; that's why I wanted to try that.. I have removed the exclude statements because I want flink to be included, unfortunately the result were some classnotfound exceptions</span><br />
+<span class="irc-date">[14:44]</span> <span class="irc-black">&lt;mjsax&gt; assembly is not shade (that is three different plugins -- maven-jar maven-shade maven-assembly -- all 3 can be use to build jars)</span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;alex_1234&gt; yes, I thought it would be good to use whats there</span><br />
+<span class="irc-date">[14:48]</span> <span class="irc-black">&lt;alex_1234&gt; do you know if eclipse does something similar and how to get that behaviour with shade?</span><br />
+<span class="irc-date">[14:48]</span> <span class="irc-black">&lt;alex_1234&gt; Actually I want everything to be included, flink too.</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;alex_1234&gt; That seems like the only modification to the current build config</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;mjsax&gt; you might need to use maven-dependeny plugin, too.</span><br />
+<span class="irc-date">[14:51]</span> <span class="irc-black">&lt;mjsax&gt; can you share your pom.xml ?</span><br />
+<span class="irc-date">[14:55]</span> <span class="irc-black">&lt;alex_1234&gt; Sure, I use the default one, <a href="http://nopaste.linux-dev.org/?848261">http://nopaste.linux-dev.org/?848261</a></span><br />
+<span class="irc-date">[14:55]</span> <span class="irc-black">&lt;alex_1234&gt; I have tried it with that and then with exact the same but with removed &lt;excludes&gt;</span><br />
+<span class="irc-date">[15:06]</span> <span class="irc-black">&lt;mjsax&gt; change the scope from provided to compile in the profiles</span><br />
+<span class="irc-date">[15:19]</span> <span class="irc-navy">* mjsax (~mjsax@141.20.27.42) Quit ()</span><br />
+<span class="irc-date">[15:33]</span> <span class="irc-black">&lt;alex_1234&gt; It does not run, I see a NoclassDefFoundError, probably a dependency of flink.</span><br />
+<span class="irc-date">[15:33]</span> <span class="irc-black">&lt;alex_1234&gt; Do you know how to automatically download and add those?</span><br />
+<span class="irc-date">[15:33]</span> <span class="irc-black">&lt;alex_1234&gt; Caused by: java.lang.ClassNotFoundException: org.apache.flink.shaded.com.google.common.base.Preconditions</span><br />
+<span class="irc-date">[15:36]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:740d:f70c:7ab9:8c2f) has joined #flink</span><br />
