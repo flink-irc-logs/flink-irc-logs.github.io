@@ -23,3 +23,7 @@ categories: irc logs
 <span class="irc-date">[11:10]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 276 seconds)</span><br />
 <span class="irc-date">[11:10]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
 <span class="irc-date">[11:30]</span> <span class="irc-green">* mjsax (~mjsax@141.20.27.42) has joined #flink</span><br />
+<span class="irc-date">[13:16]</span> <span class="irc-navy">* rmetzger (~rmet@apache/committer/rmetzger) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[13:26]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[13:26]</span> <span class="irc-black">&lt;alex_1234&gt; hi@all</span><br />
+<span class="irc-date">[13:37]</span> <span class="irc-black">&lt;mjsax&gt; hi</span><br />
