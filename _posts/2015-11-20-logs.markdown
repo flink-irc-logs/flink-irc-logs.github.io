@@ -56,3 +56,8 @@ categories: irc logs
 <span class="irc-date">[15:33]</span> <span class="irc-black">&lt;alex_1234&gt; Do you know how to automatically download and add those?</span><br />
 <span class="irc-date">[15:33]</span> <span class="irc-black">&lt;alex_1234&gt; Caused by: java.lang.ClassNotFoundException: org.apache.flink.shaded.com.google.common.base.Preconditions</span><br />
 <span class="irc-date">[15:36]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:740d:f70c:7ab9:8c2f) has joined #flink</span><br />
+<span class="irc-date">[16:53]</span> <span class="irc-green">* drew_ (47b7e242@gateway/web/freenode/ip.71.183.226.66) has joined #flink</span><br />
+<span class="irc-date">[17:26]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:740d:f70c:7ab9:8c2f) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[17:27]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:740d:f70c:7ab9:8c2f) has joined #flink</span><br />
+<span class="irc-date">[17:31]</span> <span class="irc-green">* bandrews (~textual@pool-98-113-39-90.nycmny.fios.verizon.net) has joined #flink</span><br />
+<span class="irc-date">[18:13]</span> <span class="irc-navy">* drew_ (47b7e242@gateway/web/freenode/ip.71.183.226.66) Quit (Ping timeout: 246 seconds)</span><br />
