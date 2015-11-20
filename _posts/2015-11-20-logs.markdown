@@ -68,3 +68,8 @@ categories: irc logs
 <span class="irc-date">[19:26]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 250 seconds)</span><br />
 <span class="irc-date">[19:42]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D01218BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
 <span class="irc-date">[20:21]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D01218BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[20:58]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D01218BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[21:05]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D01218BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[22:01]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has left #flink</span><br />
+<span class="irc-date">[22:22]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5ae872.dynamic.kabel-deutschland.de) has joined #flink</span><br />
