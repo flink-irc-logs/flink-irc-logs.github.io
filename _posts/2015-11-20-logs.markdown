@@ -73,3 +73,6 @@ categories: irc logs
 <span class="irc-date">[22:01]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
 <span class="irc-date">[22:15]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has left #flink</span><br />
 <span class="irc-date">[22:22]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5ae872.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:26]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae872.dynamic.kabel-deutschland.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:26]</span> <span class="irc-green">* mjsax (~mjsax@ip5f5ae872.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[22:36]</span> <span class="irc-navy">* mjsax (~mjsax@ip5f5ae872.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)</span><br />
