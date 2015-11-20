@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-20"
+date:   2015-11-20 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[0:51]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) has joined #flink</span><br />
+<span class="irc-date">[0:52]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[1:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) has joined #flink</span><br />
+<span class="irc-date">[1:30]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:ac1f:ae9f:fce8:8037) Quit (Read error: Connection reset by peer)</span><br />
