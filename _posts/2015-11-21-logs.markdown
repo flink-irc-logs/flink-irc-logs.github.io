@@ -33,3 +33,14 @@ categories: irc logs
 <span class="irc-date">[10:13]</span> <span class="irc-green">* sudarshan (73719922@gateway/web/freenode/ip.115.113.153.34) has joined #flink</span><br />
 <span class="irc-date">[10:17]</span> <span class="irc-navy">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) Quit (Quit: WeeChat 0.3.8)</span><br />
 <span class="irc-date">[10:18]</span> <span class="irc-green">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[10:43]</span> <span class="irc-navy">* sudarshan (73719922@gateway/web/freenode/ip.115.113.153.34) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[10:48]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[10:53]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[11:02]</span> <span class="irc-green">* the_drow (4fb68f6a@gateway/web/freenode/ip.79.182.143.106) has joined #flink</span><br />
+<span class="irc-date">[11:04]</span> <span class="irc-green">* the_drow_ (4fb68f6a@gateway/web/freenode/ip.79.182.143.106) has joined #flink</span><br />
+<span class="irc-date">[11:05]</span> <span class="irc-navy">* the_drow (4fb68f6a@gateway/web/freenode/ip.79.182.143.106) Quit (Disconnected by services)</span><br />
+<span class="irc-date">[11:05]</span> <span class="irc-green">* the_drow_ is now known as the_drow</span><br />
+<span class="irc-date">[11:30]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[11:49]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[11:54]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[12:02]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 240 seconds)</span><br />
