@@ -15,3 +15,21 @@ categories: irc logs
 <span class="irc-date">[6:49]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[7:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
 <span class="irc-date">[7:50]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[8:46]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[8:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[9:38]</span> <span class="irc-green">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[9:40]</span> <span class="irc-navy">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[9:40]</span> <span class="irc-green">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[9:44]</span> <span class="irc-navy">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[9:45]</span> <span class="irc-green">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[9:47]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[9:49]</span> <span class="irc-navy">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) Quit (Client Quit)</span><br />
+<span class="irc-date">[9:49]</span> <span class="irc-green">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[9:51]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[10:03]</span> <span class="irc-green">* sudarshan (73719922@gateway/web/freenode/ip.115.113.153.34) has joined #flink</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-green">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[10:11]</span> <span class="irc-navy">* andi1 (~Adium@p200300608E20D0A84D2687ABC99C0524.dip0.t-ipconnect.de) Quit (Quit: Leaving.)</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-green">* sudarshan (73719922@gateway/web/freenode/ip.115.113.153.34) has left #flink</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-green">* sudarshan (73719922@gateway/web/freenode/ip.115.113.153.34) has joined #flink</span><br />
+<span class="irc-date">[10:17]</span> <span class="irc-navy">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) Quit (Quit: WeeChat 0.3.8)</span><br />
+<span class="irc-date">[10:18]</span> <span class="irc-green">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) has joined #flink</span><br />
