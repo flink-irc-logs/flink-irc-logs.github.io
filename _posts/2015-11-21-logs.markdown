@@ -58,3 +58,6 @@ categories: irc logs
 <span class="irc-date">[14:20]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[14:50]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
 <span class="irc-date">[15:26]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[16:35]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[16:41]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[17:56]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
