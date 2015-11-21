@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-21"
+date:   2015-11-21 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:47]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:740d:f70c:7ab9:8c2f) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[2:07]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
