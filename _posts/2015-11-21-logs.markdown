@@ -61,3 +61,10 @@ categories: irc logs
 <span class="irc-date">[16:35]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
 <span class="irc-date">[16:41]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 272 seconds)</span><br />
 <span class="irc-date">[17:56]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[18:43]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@91.200.233.93) has joined #flink</span><br />
+<span class="irc-date">[18:45]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@91.200.233.93) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[18:50]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@91.200.233.93) has joined #flink</span><br />
+<span class="irc-date">[18:51]</span> <span class="irc-green">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) has joined #flink</span><br />
+<span class="irc-date">[18:56]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Client Quit)</span><br />
+<span class="irc-date">[19:22]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@91.200.233.93) Quit (Quit: qwerty_nor)</span><br />
+<span class="irc-date">[19:53]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
