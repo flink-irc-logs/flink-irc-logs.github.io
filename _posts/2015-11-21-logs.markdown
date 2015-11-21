@@ -70,3 +70,4 @@ categories: irc logs
 <span class="irc-date">[19:53]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
 <span class="irc-date">[20:59]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
 <span class="irc-date">[21:22]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[22:40]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Remote host closed the connection)</span><br />
