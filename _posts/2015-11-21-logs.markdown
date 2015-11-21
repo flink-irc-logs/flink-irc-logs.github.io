@@ -44,3 +44,15 @@ categories: irc logs
 <span class="irc-date">[11:49]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
 <span class="irc-date">[11:54]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 272 seconds)</span><br />
 <span class="irc-date">[12:02]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[12:47]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[12:49]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[12:55]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[13:04]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[13:46]</span> <span class="irc-navy">* the_drow (4fb68f6a@gateway/web/freenode/ip.79.182.143.106) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:49]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[13:50]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[13:52]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
+<span class="irc-date">[13:55]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[13:59]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:a920:7b25:e953:90c1) has joined #flink</span><br />
+<span class="irc-date">[14:20]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D0A818BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)</span><br />
