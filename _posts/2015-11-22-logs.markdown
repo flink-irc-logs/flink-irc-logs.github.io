@@ -28,3 +28,5 @@ categories: irc logs
 <span class="irc-date">[16:37]</span> <span class="irc-green">* andi__ (~andi@p200300608E20D00F18BE73E702BCB96B.dip0.t-ipconnect.de) has joined #flink</span><br />
 <span class="irc-date">[16:39]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:3d7f:af65:aaa7:362d) has joined #flink</span><br />
 <span class="irc-date">[16:41]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:69c5:9fff:4d3:2a5a) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:01]</span> <span class="irc-navy">* andi__ (~andi@p200300608E20D00F18BE73E702BCB96B.dip0.t-ipconnect.de) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[19:53]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
