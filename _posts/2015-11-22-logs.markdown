@@ -8,3 +8,7 @@ categories: irc logs
 <span class="irc-date">[4:39]</span> <span class="irc-navy">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)</span><br />
 <span class="irc-date">[4:55]</span> <span class="irc-green">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) has joined #flink</span><br />
 <span class="irc-date">[5:08]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:7cac:fb34:c039:cf1b) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[6:39]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:7cac:fb34:c039:cf1b) has joined #flink</span><br />
+<span class="irc-date">[6:44]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:7cac:fb34:c039:cf1b) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[7:40]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:7cac:fb34:c039:cf1b) has joined #flink</span><br />
+<span class="irc-date">[7:45]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:7cac:fb34:c039:cf1b) Quit (Ping timeout: 240 seconds)</span><br />
