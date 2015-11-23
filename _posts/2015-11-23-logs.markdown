@@ -10,3 +10,4 @@ categories: irc logs
 <span class="irc-date">[5:14]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3d7f:af65:aaa7:362d) has joined #flink</span><br />
 <span class="irc-date">[5:56]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3d7f:af65:aaa7:362d) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[5:58]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3d7f:af65:aaa7:362d) has joined #flink</span><br />
+<span class="irc-date">[9:19]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3d7f:af65:aaa7:362d) Quit (Remote host closed the connection)</span><br />
