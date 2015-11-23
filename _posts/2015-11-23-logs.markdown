@@ -30,3 +30,8 @@ categories: irc logs
 <span class="irc-date">[16:41]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 252 seconds)</span><br />
 <span class="irc-date">[18:51]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
 <span class="irc-date">[19:13]</span> <span class="irc-navy">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[20:55]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[21:00]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
+<span class="irc-date">[21:20]</span> <span class="irc-green">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) has joined #flink</span><br />
+<span class="irc-date">[21:24]</span> <span class="irc-navy">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[21:43]</span> <span class="irc-navy">* chriszen (~Adium@31-187-28-22.dynamic.upc.ie) Quit (Quit: Leaving.)</span><br />
