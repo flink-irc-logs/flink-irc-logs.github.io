@@ -10,3 +10,9 @@ categories: irc logs
 <span class="irc-date">[5:03]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:38dd:49d2:dec1:73a6) has joined #flink</span><br />
 <span class="irc-date">[5:49]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:38dd:49d2:dec1:73a6) Quit (Remote host closed the connection)</span><br />
 <span class="irc-date">[9:04]</span> <span class="irc-green">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[11:08]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[11:13]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:27]</span> <span class="irc-black">&lt;alex_1234&gt; Hi, is somebody here who can help with building a jar using mvn shade or mvn assembly?</span><br />
+<span class="irc-date">[11:48]</span> <span class="irc-green">* qwerty_nor1 (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[11:48]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 272 seconds)</span><br />
+<span class="irc-date">[11:48]</span> <span class="irc-green">* qwerty_nor1 is now known as qwerty_nor</span><br />
