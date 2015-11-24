@@ -33,3 +33,5 @@ categories: irc logs
 <span class="irc-date">[18:08]</span> <span class="irc-green">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) has joined #flink</span><br />
 <span class="irc-date">[18:48]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 252 seconds)</span><br />
 <span class="irc-date">[22:02]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
+<span class="irc-date">[22:25]</span> <span class="irc-navy">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) Quit (Ping timeout: 276 seconds)</span><br />
+<span class="irc-date">[23:29]</span> <span class="irc-navy">* rodlogic (~rodlogic@c-71-234-52-85.hsd1.ct.comcast.net) Quit (Remote host closed the connection)</span><br />
