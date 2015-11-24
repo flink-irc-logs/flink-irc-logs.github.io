@@ -20,3 +20,6 @@ categories: irc logs
 <span class="irc-date">[14:02]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
 <span class="irc-date">[14:02]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:3452:b40d:6ce6:e0ef) has joined #flink</span><br />
 <span class="irc-date">[14:04]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:3452:b40d:6ce6:e0ef) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[14:28]</span> <span class="irc-navy">* alex_1234 (~alex@ip5b4157d6.dynamic.kabel-deutschland.de) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[14:28]</span> <span class="irc-green">* alex_1234 (~alex@ip5b41d4a9.dynamic.kabel-deutschland.de) has joined #flink</span><br />
+<span class="irc-date">[16:16]</span> <span class="irc-green">* rodlogic (~rodlogic@173-162-153-222-NewEngland.hfc.comcastbusiness.net) has joined #flink</span><br />
