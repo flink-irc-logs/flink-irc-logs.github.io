@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "IRC Logs of 2015-11-25"
+date:   2015-11-25 01:52:14
+categories: irc logs
+---
+<span class="irc-date">[1:18]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cd24:a36f:e1f7:5ebd) has joined #flink</span><br />
+<span class="irc-date">[1:26]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:cd24:a36f:e1f7:5ebd) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[1:28]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:cd24:a36f:e1f7:5ebd) has joined #flink</span><br />
