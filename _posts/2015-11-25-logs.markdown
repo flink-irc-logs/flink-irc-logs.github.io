@@ -50,3 +50,5 @@ categories: irc logs
 <span class="irc-date">[20:07]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
 <span class="irc-date">[20:22]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
 <span class="irc-date">[21:47]</span> <span class="irc-navy">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) Quit (Ping timeout: 276 seconds)</span><br />
+<span class="irc-date">[23:35]</span> <span class="irc-green">* ad (836bae7e@gateway/web/freenode/ip.131.107.174.126) has joined #flink</span><br />
+<span class="irc-date">[23:36]</span> <span class="irc-navy">* ad (836bae7e@gateway/web/freenode/ip.131.107.174.126) Quit (Client Quit)</span><br />
