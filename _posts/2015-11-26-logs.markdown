@@ -59,3 +59,11 @@ categories: irc logs
 <span class="irc-date">[17:35]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[17:58]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
 <span class="irc-date">[18:06]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* andi___ (~pi@p4FC37718.dip0.t-ipconnect.de) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* chrkl (~chrkl@2001:4dd0:fe49:0:ba27:ebff:fe8f:f319) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* parshimers (~parshimer@unaffiliated/parshimers) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* mxm_ (~mxm@leo.uberspace.de) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:7921:618:7812:f4fd) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* rektide2 (~rektide@eldergods.com) Quit (*.net *.split)</span><br />
+<span class="irc-date">[19:33]</span> <span class="irc-navy">* ChanServ (ChanServ@services.) Quit (*.net *.split)</span><br />
