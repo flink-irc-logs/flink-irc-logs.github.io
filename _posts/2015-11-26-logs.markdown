@@ -41,3 +41,13 @@ categories: irc logs
 <span class="irc-date">[11:07]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
 <span class="irc-date">[11:37]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
 <span class="irc-date">[12:14]</span> <span class="irc-green">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) has joined #flink</span><br />
+<span class="irc-date">[12:46]</span> <span class="irc-green">* alex_xo (8d175d2f@gateway/web/freenode/ip.141.23.93.47) has joined #flink</span><br />
+<span class="irc-date">[12:47]</span> <span class="irc-black">&lt;alex_xo&gt; hey, does somebody know if there is an upper limit for keyed groups in the stream window api? I see data disappear without any reason.</span><br />
+<span class="irc-date">[12:55]</span> <span class="irc-green">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) has joined #flink</span><br />
+<span class="irc-date">[13:13]</span> <span class="irc-black">&lt;alex_xo&gt; hi rodlogic, are you a flink commiter?</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
+<span class="irc-date">[13:34]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[13:35]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
+<span class="irc-date">[13:53]</span> <span class="irc-navy">* alex_xo (8d175d2f@gateway/web/freenode/ip.141.23.93.47) Quit (Ping timeout: 246 seconds)</span><br />
+<span class="irc-date">[14:03]</span> <span class="irc-navy">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) Quit (Ping timeout: 276 seconds)</span><br />
+<span class="irc-date">[14:17]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
