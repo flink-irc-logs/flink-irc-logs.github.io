@@ -53,3 +53,9 @@ categories: irc logs
 <span class="irc-date">[14:17]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
 <span class="irc-date">[15:42]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
 <span class="irc-date">[16:04]</span> <span class="irc-green">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) has joined #flink</span><br />
+<span class="irc-date">[16:35]</span> <span class="irc-navy">* parallelstream (~myst@188-179-76-226-dynamic.dk.customer.tdc.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[16:50]</span> <span class="irc-navy">* qwerty_nor (~Thunderbi@c.58.183.a290.ukr.adsl.cyfra.net) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[17:32]</span> <span class="irc-green">* rodlogic_ (~rodlogic@2601:18a:c100:3d74:7921:618:7812:f4fd) has joined #flink</span><br />
+<span class="irc-date">[17:35]</span> <span class="irc-navy">* rodlogic (~rodlogic@2601:18a:c100:3d74:6203:8ff:fe89:6878) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[17:58]</span> <span class="irc-navy">* fcorreia (~fcorreia@62.28.61.166) Quit (Quit: fcorreia)</span><br />
+<span class="irc-date">[18:06]</span> <span class="irc-green">* fcorreia (~fcorreia@62.28.61.166) has joined #flink</span><br />
